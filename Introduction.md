@@ -1,16 +1,32 @@
 //TODO:  Introductory text; Agile is a mindset; some history; what and why of Agile
 
 ### //TODO:  On Delivery and Value
-Always be delivering; ask why, know value, importance of quick wins
+
+A central concept to how teams accomplish work in agile environments is understanding the place for Delivery and for Value. We use these words to distinguish how the work gets done versus what the work needs to accomplish. 
+
+While many teams have an official Product Owner to represent the value of the project, we want you to understand these perspectives exist whether we assign people to them or not. 
+
+It is the job of Value to dream big and ask for the moon. It is the job of Delivery to speak to what's possible and communicate the cost of the work. This healthy tension drives us toward a common agreed solution that is predictable in its execution and fit for purpose.
+
+We recommend explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be -- but it's crucial to consider that, together, we are still one team, with one goal, and must find our own unified path to reach that goal.
+
+//TODO: Always be delivering? Quick wins?
 
 
 ### //TODO:  On the importance of Teams
 
-asdf
+We cannot have a conversation about agile delivery without speaking about teams. A team is the core of any agile organization. In a project of two people or two-hundred -- the work happens in teams. And at the core of teams are humans. Just as we seek to build products that delight the humans who use them, we seem to be happier, more productive humans at work, enjoying the company of one another, and the challenge of solving an interesting problem together.
+
+Great agile teams are high-performing, self-improving, accountable to each other, and can work through conflict. "Self-organizing teams" is a term thrown around in agile conversations. It's true: we believe the best solutions to the problems at hand emerge from cross-functional teams working tightly together; but this presupposes that we are, in fact, a team. All too often, a group of people are simply told, "You're an agile team, self-organize around this problem, and be done by May." Leadership has a responsibility here to grow a true team that trusts one another and has the skills and resources necessary for success; then, we can consider the notion of self-organization.
+
 
 ### //TODO:  On the importance of Craftsmanship
 
-asdf
+Agile software engineering is still software engineering. Ron Jeffries tells us, "To be fit for purpose, the software we build has to be robust enough to support the business need. It needs to be sufficiently free of defects to be usable and desirable. It needs to be well structured enough to allow us to sustain its development as long as required.
+
+Robust, reliable, well designed. These are not things that we just automatically get by having a Product Owner and a Scrum Master. Much less are these things we get by having really good Portfolio Vision and an Agile Release Train... If we do not build it well, all our teamwork, communication, retrospectives, business focus and WIP limitation are for nothing."
+
+Delivering great systems requires a dedication to the craft and an eye toward excellence. Technical agility and strength is necessary for teams to be truly agile, but is often overlooked in the conversation. We encourage you to continually examine our own technical capability, architecture, and skill as we journey through new ways to work.
 
 ### //TODO:  On management
 
