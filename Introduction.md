@@ -1,3 +1,24 @@
+//TODO:  Introductory text; Agile is a mindset; some history; what and why of Agile
+
+### //TODO:  On Delivery and Value
+Always be delivering; ask why, know value, importance of quick wins
+
+
+### //TODO:  On the importance of Teams
+
+asdf
+
+### //TODO:  On the importance of Craftsmanship
+
+asdf
+
+### //TODO:  On management
+
+asdf
+
+-------
+Legacy Text
+-------
 ###POSITION STATEMENT
 Booz Allen Hamilton (Booz Allen) views Agile as a “mindset,” defined by values, guided by principles, and manifested through many different practices. In other words, Agile does not simply equate to delivering software in “Sprints,” but rather represents a way of thinking that embraces change, regular feedback, value-driven development, full-team collaboration, learning through discovery, and continuous improvement. These tenets, codified in the Agile Manifesto1  (statement of values/principles supporting ideals of Agile software development), have proven, when dutifully applied to software and systems delivery, to result in more valuable products at a faster pace, lower cost, higher quality, and with greater levels of customer satisfaction. Agile will not overcome all the challenges inherent to developing software. However, by focusing on incremental value and shorter feedback cycles, Agile practices seek to expose development challenges as early as possible so that they can be addressed in real time. To this extent, Agile embraces the innate mutability of software and employs that flexibility for the benefit of our clients.
 
