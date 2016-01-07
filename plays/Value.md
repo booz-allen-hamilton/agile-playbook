@@ -1,5 +1,7 @@
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
+> *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
+
 > Business people and developers must work together daily throughout the project.
 
 
