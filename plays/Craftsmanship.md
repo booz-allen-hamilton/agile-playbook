@@ -4,11 +4,15 @@
 
 > The best architectures, requirements, and designs emerge from self-organizing teams.
 
+
+# Probably SPARC
+
 - Continuous Integration, Deployment, Delivery
 - DevOps
 - Continuous Monitoring
 - Agile Architecture
 - TDD
+
 
 -----
 Legacy text

@@ -53,80 +53,29 @@ Team members are, of course, the other members of the team, such as testers, dev
 Our experience shows that a cross-functional 10-person team is the preferred maximum team size. This size is also supported by PMI-ACP guidelines and follows general Scrum guidelines. This would include having a dedicated person as Scrum Master, and another as Product Owner. As the project size scales beyond 10, the effectiveness of the team, per-person declines, and significantly more time is spent coordinating work. If the scale of the work requires a large team, we need to think about how that can be divided into multiple cross-functional teams that are tightly coordinated, but loosely coupled.
 
 ### Team structure patterns
-In its simplest frame, Agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team.
+In its simplest frame, Agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- with one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team. There are a few patterns we see work well, so we want to explain those in the next three headings:
 
-#### The Cinderella Team
-//TODO
+#### The Squad
+We strongly believe in keeping things as simple as possible. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is dedicated to just one project at a time and can plan and estimate together. This team tends to be very predictible, has great potential for high-performance, and really enjoys working together. 
 
-#### Expanding a PO to a VT
-//TODO
+#### Expanding to a Value Team
+If the mission needs are sufficiently complex or there are complicated relationships with multiple client stakeholders, it might be impossible to have just one Product Owner. In that case, we recommend thinking of a larger Value Team. This team might grow, itself, to around 10 people and would typically have representatives in it like business analysts, compliance interests, end-users, and so-on. In this case, there can still be a Product Owner, but that person is now the Value Team's facilitator, bringing together all those perspectives and creating a common voice, but not really having a trumping perspective. The jobs of the Scrum Master and Product Owner become more difficult, trying to arrange coordination of all the interests at play, but it can still be very successful.
 
-#### Further expanding to include multiple DTs or VTs.
-//TODO
+#### Further expanding to include multiple Delivery Teams and Value Teams
+If the overall solution scope is so large, expertise required is sufficiently diverse, or timeline constrained such that a single team is insuffcient to produce the solution, then you'll have to scale up to multiple Delivery Teams, each with their own Product Owner/Value Team. There are a few frameworks that help shape this, which are discussed later in this Playbook, about scaling agile. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
 
 ### Practices for creating team-ness
-//TODO
+Teams become better teams by working together over time. But there are also practices teams can put into place that can facilitate the teaming process. A couple we recommend are:
 
-- Chartering
-- Retrospectives
+#### Retrospectives
+If a team must only pick one agile practice to adopt, it should be retrospectives! Retrospectives are a vital part of a healthy team. They take the form of a regular meeting for a team to be able to pause and reflect on how things are going, and adust their process, and reflect areas of improvement to each other. The simplest form of a retrospective would be to come together and ask a team questions like, What are we doing well? What aren't we doing well? And what would we change for the next few weeks? Retrospectives should be common enough that the team is comfortable experiementing with things. If what you try doesn't work out, you can talk about it at the next retrospective and try something different next time. Many teams fall into a trap of skipping retrospectives when pressure is on. Don't do it! Treat retrospectives with importance, and reach out to another facilitator or a coach if you're having trouble finding value in the meeting.
+
+#### Chartering
+At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
 
 
 ### On physical proximity
-//TODO
 - Colocaton
 - Distributed teams
-
-
-
-### Legacy text
-###RECOMMENDED AGILE TEAM STRUCTURE
-Booz Allen Agile teams are cross functional in nature and work collectively to determine how and when the product will be built and delivered to the client. A standard Agile Team structure comprises a Delivery Team and a Value Team.
-####ROLES AND RESPONSIBILITIES
-
-An Agile Team includes an interdisciplinary mix of individuals. Together, they form an Agile community committed to project success. Depending on the scope of the project, the size and organization of these teams vary, as do the names and roles.
-
-The roles listed in this playbook serve as a basic structure for organizing an Agile Team. Keep in mind that Agile projects executing a Scrum-like framework generally engage a Scrum Master, a Product Owner, and the team described in Table 1. For teams new to adoption of the Agile mindset, an Agile Coach role should also be established on the team. While not necessarily a full-time member of the Delivery Team, the Agile Coach is an experienced “Agilist,” who facilitates team events (e.g., Standup Meetings, Sprint Planning) early in the project. The Agile Coach also helps the team adhere to the Agile mindset, provides mentorship, and optimizes the processes to promote value-based delivery.
-
-
-###Standard Agile Team Structure 
-
-
-
-###The Delivery Team
-The Delivery Team is a cross-functional group that possesses all the skills and resources necessary to deliver valuable, high-quality, tested products to the client. In a software context, a typical team consists of developers, architects, testers, and systems engineers. This team works together in a highly communicative and collaborative manner, taking collective ownership of the product delivered and resolving any bugs/defects that may be encountered. High-performing Agile teams are self-organizing—able to drive themselves toward delivering the highest value software for the client.
-###The Value Team
-The Value Team’s responsibility is to communicate and represent the client’s needs by defining priorities and acknowledging acceptance when the product meets the intended need. The Value Team can be as small as one person (often called the Product Owner, a key stakeholder who also represents the client), but a larger team may consist of a group of users, business analysts, and members of the Program Management Office. A chief responsibility of the Value Team is to own the Product Backlog—the prioritized list of all the work yet to be completed. The Value Team must also provide regular feedback about the working product the Delivery Team demonstrates. To attain the maximum benefit of Agile development, the Value Team must be readily available to the Delivery Team to respond to questions and provide feedback.
-###ROLES BASED ON TEAM SIZE
-
-
-Roles and responsibilities vary if the team is particularly small or large, because it is easier to implement Agile with small team constraints versus attempting to scale broadly. Sub roles can be incorporated into the Agile Team structure, based on small or large projects. Suggested configurations include:
-
-* **Small Project** (six team members or fewer) > Scrum Master role may overlap with Project Manager and Agile Coach responsibilities; team members possess multiple areas of expertise (e.g., Analyst may also serve as a Tester); Product Owner remains a distinct role.
-* **Large Project** (15 team members or more) > Agile Coach must have experience with large Agile projects; the project is likely to have multiple Product Owners, with a single Lead Product Owner assigned for the entire system; Team Product Owners are treated as a proxy for that single voice.
-
-When large projects are involved, facilitate collaboration among the Product Owners, Team Leads, and Development staff through the “Scrum of Scrums” practice. In a large team environment, it may be inefficient for all staff to attend Daily Standup Meetings.
-
-Restrict these meetings to four or five members, and conduct multiple standup meetings if necessary, to keep them short, focused, and effective. Finally, unique Project Manager, Scrum Master, Architect, Requirements Manager, Test Manager, Quality Assurance (QA) Manager, and Configuration Manager roles are required for the project. These norms and responsibilities should be finalized as a part of Sprint 0 activities.
-
-**Table 2** provides a list of additional roles that may be included in Agile sub teams for both small and large projects.
-
-#####Table 2:	Agile Sub-team Roles
-
-| Role | Value Team/Delivery Team | Responsibilities | 
-| ---- | ------------------------ | ---------------- | 
-| Project Manager | Value Team/Delivery Team | •	Handles project-level responsibilities, including staffing, monitoring progress, and costing | 
-| Chief Architect | Delivery Team | •	Assists with prioritizing the Product Backlog, Accepts or rejects each product increment | 
-| User Interface Designers | Delivery Team | • Assists Product Owner with user interface issues and provides solutions; Provides prototypes as potential input to Sprint planning (if needed) |
-| Test Manager | Delivery Team | •Oversees testing activities of the Scrum Development Team |
-| Software Developer | Delivery Team | •	Provides demonstrations of working software; Builds extensive suites of automated testing to prevent breaks in existing functionality during future software development Sprints | 
-| Software Tester | Delivery Team | • Assists Value Team in defining acceptance criteria for Product Backlog items; validates criteria have been met through incremental testing efforts | 
-| Information Assurance Specialist | Value Team | • Plans, coordinates, and implements required security measures | 
-| Business and/or Requirements Analyst | Value Team | • Works with Agile Team members to define requirements in smaller increments; Interacts and communicates with Delivery Team (developers and testers) | 
-| QA Manager | Value Team | • Provides independent review of processes, procedures, and plans |
-| Configuration Management (CM) Manager | Value Team | • Addresses integrity of work products, baselines, version control, and continuous integration | 
-| Requirements Manager | Value Team | •	Works with Agile Team regarding requirements specifications and allocating/de-allocating requirements | 
-| Functional SMEs | Value Team | • Provides technical knowledge and skill set related to efficient and effective execution of Agile development practices | 
-| Agile Coach | Independent  of Delivery and Value Teams | •	Performs the role of team facilitator, skilled in requirements elicitation and systems delivery | 
-
 
 
