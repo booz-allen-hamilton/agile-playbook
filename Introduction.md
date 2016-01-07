@@ -4,18 +4,18 @@
 
 We view Agile as a mindset – defined by values, guided by principles, and manifested through countless practices - and actively encourage industry to embrace this definition.  Indeed, Agile should not simply equate to delivering software in "Sprints" or a handful of "best practices" you can read in a book – but rather represents a way of thinking that embraces change, regular feedback, value-driven delivery, full-team collaboration, learning through discovery, and continuous improvement. Products and sytems built using agile methods are shown to be delivered at a faster pace, lower cost, higher quality, and a greater level of customer satisfaction. Agile techniques cannot magically eliminate challenges intrinsic to high-discovery software development. But, by focusing on continuous delivery of incremental value and shorter feedback cycles, they do expose these challenges as early as possible, while there is still time to correct for them. As agile practitioners, we embrace the innate mutability of software and harness that flexibility for the benenfit of our customers and users. 
 
-We've come to this perspective by being software pracitioners, living in the trenches and delivering software on teams using increasingly modern methods, and in support of dozens of customers across the US Government and international commercial market.  The following few sections provide further elaboration on this perspective.
+We've come to this perspective as software pracitioners, living in the trenches and delivering software on teams using increasingly modern methods, and in support of dozens of customers across the US Government and international commercial market.  The following few sections provide further elaboration on this perspective.
 
 
-### //TODO:  On Delivery and Value
+### On Delivery and Value
 
 A central concept to how teams accomplish work in agile environments is understanding the place for Delivery and for Value. We use these words to distinguish how the work gets done versus what the work needs to accomplish.
 
-While many teams have an official Product Owner to represent the value of the project, we want you to understand these perspectives exist whether we assign people to them or not. 
+While many teams have an official Product Owner to represent the value of the project, we want you to understand the Delivery and Value perspectives exist in every project, whether we assign people to them or not. 
 
 It is the job of Value to dream big and ask for the moon. It is the job of Delivery to speak to what's possible and communicate the cost of the work. This healthy tension drives us toward a common agreed solution that is predictable in its execution and fit for purpose.
 
-We recommend explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be -- but it's crucial to consider that, together, we are still one team, with one goal, and must find our own unified path to reach that goal.
+We recommend explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be:  but it's crucial to consider that, together, we are still one team, with one goal, and we seek a common path to reach that goal.
 
 //TODO: Always be delivering? Quick wins?
 
