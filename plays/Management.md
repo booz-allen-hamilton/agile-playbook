@@ -1,37 +1,29 @@
-> Welcome changing requirements, even late in  development. Agile processes harness change for the customer's competitive advantage.
 
-> The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+The complexion of management changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated.  The team still needs to be built, encouraged, motivated.  An environment of collaboration must be established and communication must flow.  And, a connection between the team and its sponsorship must be maintained.
 
-> Working software is the primary measure of progress.
+Planning, status, and metrics - Oh my!
+=========================================
+> *Working software is the primary measure of progress.*
 
+Estimating work
+-----------------------------------------
+Estimation on software projects is extremely difficult, often costly, and possibly time-consuming. We must acknowledge that an estimate _is an estimate_, ~~and continuously set that expectation~~.
 
-### Managing for the near term, the Sprint
-//TODO
+The image below is a thought experiment comparing the accuracy of an estimate and the effort required to obtain it.  It is meant to show that, regardless of our invested effort, an estimate will never be completely accurate and may run the risk of becoming less accurate if we "overthink" things.  Our goal is always to find the balance between effort and accuracy, achieving a "good enough" estimate as quickly as possible.
 
-### Managing for multiple Sprints (e.g. a Release)
-//TODO
+The agile community has embraced a technique called **relative estimation** to approach this balance.
 
-### Executing a Strategy (e.g. multiple Releases)
-//TODO
-
-#### other topics
-- estimating
-- metrics
-- meetings
-- Sprint 0 - possible play?
+| _Estimation accuracy v. effort_ |
+|   :-----------------------------------:   |
+|![07 044 13_008b](https://cloud.githubusercontent.com/assets/5417850/10046744/93296d1e-61d8-11e5-8855-d619c3bbcbd6.jpg)|
 
 
------
-Legacy Text
------
+| Play: | _Use relative estimation to achieve "good enough" estimates_ |
+| ---:  | :---------------------------------------------------------- |
+| M1    |  Relative estimation is a concept that those new to the agile world often struggle with.  It simply means "compare two things to each other."  Thinking of work in this way taps into some instinctual skills we have ingrained in our human DNA.  We have evolved over millenia to make fairly snap judgments regarding the size, the speed, and the danger of stimuli.  While not perfect, these snap judgments have proven accurate enough to ensure our survival.  
+Considering the thought experiment above, using relative estimation techniques is able to get us fairly high on the estimate accuracy scale with very minimal effort. |
 
-### STORY POINTS AND IDEAL DAYS 
-One of the starkest departures from traditional planning practices is that Agile teams decouple the estimation of their work from the time it will take to deliver. In other words, Agile teams estimate how much work they have and measure how fast they complete that work to predict when they will be able to deliver.
 
-Estimation, and in particular the estimation of software development, is an extremely difficult, often costly, and time-consuming task. Agile teams recognize that an estimate is an estimate. **Figure 7** depicts general Estimation Accuracy versus Estimation Effort. It displays the notion that at an arbitrary point in the estimation process, an estimate can no longer achieve increased accuracy. Several relative estimation techniques are based on size (units) rather than effort (hours or days). This playbook discusses Story Points and Ideal Days, which are both used frequently by Agile teams and are recommended Booz Allen practices when applying relative estimation approaches.
-######Figure 7: Estimation Accuracy v. Effort
-
-![07 044 13_008b](https://cloud.githubusercontent.com/assets/5417850/10046744/93296d1e-61d8-11e5-8855-d619c3bbcbd6.jpg)
 
 
 ![07 044 13_007b](https://cloud.githubusercontent.com/assets/5417850/10046741/93204824-61d8-11e5-9b93-b9e06705eb22.jpg)
@@ -49,6 +41,44 @@ A User Story estimated to be 8 Story Points is roughly four times as big in term
 ####Estimating Size with Ideal Days
 **Ideal Days** are another measure of relative size used by Agile teams. Unlike Story Points, which are unit-less, Ideal Days are expressed in terms of the ideal time it will take to complete a task (assuming a best-case scenario). Ideal Days do not equate to elapsed time and, like Story Points, must be used in conjunction with the team’s measured Velocity to obtain actual time estimations. Developers must consider the number of hours they are productive in a given work day and use that as one of the variables when estimating. It is standard practice to consider whole numbers only when estimating in terms of Ideal Days.
 Agile teams may choose to use Ideal Days instead of Story Points for a variety of reasons. Because we are more accustomed to estimating in terms of time, it is often easier for project teams new to Agile to understand the concept of Ideal Days. Another strong case can be made for using Ideal Days when estimating work on the Sprint Backlog. During Sprint planning, Delivery teams generally decompose User Stories or capabilities into manageable work tasks that can be completed in fewer than 2 days. At this level, it may be more appropriate to perform Ideal Day estimation.
+
+
+
+The time horizons of planning and status
+-----------------------------------------
+
+### Managing for the near term, the Sprint
+//TODO
+
+### Managing for multiple Sprints (e.g. a Release)
+//TODO
+
+### Executing a Strategy (e.g. multiple Releases)
+//TODO
+
+
+
+
+Stop, collaboration, and listen
+=========================================
+> *The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.*
+
+
+
+
+#### other topics
+- estimating
+- metrics
+- meetings
+- Sprint 0 - possible play?
+
+
+-----
+Legacy Text
+-----
+
+### STORY POINTS AND IDEAL DAYS 
+One of the starkest departures from traditional planning practices is that Agile teams decouple the estimation of their work from the time it will take to deliver. In other words, Agile teams estimate how much work they have and measure how fast they complete that work to predict when they will be able to deliver.
 
 
 ####COMMUNICATIONS
@@ -125,3 +155,11 @@ In iterative development, it is common for project teams to try to squeeze an ad
 **FIGURE 12: REQUIREMENT VOLATILITY FOR SPRINTS IN A RELEASE**
 
 ![07 044 13_018c](https://cloud.githubusercontent.com/assets/5417850/10046751/9338124c-61d8-11e5-94f5-1ee492a7e1ce.jpg)
+
+
+
+
+
+
+-----------
+> ~~The image below shows this  depicts general Estimation Accuracy versus Estimation Effort. It displays the notion that at an arbitrary point in the estimation process, an estimate can no longer achieve increased accuracy. Several relative estimation techniques are based on size (units) rather than effort (hours or days). This playbook discusses Story Points and Ideal Days, which are both used frequently by Agile teams and are recommended Booz Allen practices when applying relative estimation approaches.~~
