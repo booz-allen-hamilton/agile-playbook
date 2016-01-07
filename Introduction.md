@@ -1,8 +1,15 @@
+// A sentence or two introducing why this document really exists.
+
 //TODO:  Introductory text; Agile is a mindset; some history; what and why of Agile
+
+We view Agile as a mindset – defined by values, guided by principles, and manifested through countless practices - and actively encourage industry to embrace this definition.  Indeed, Agile should not simply equate to delivering software in "Sprints" or a handful of "best practices" you can read in a book – but rather represents a way of thinking that embraces change, regular feedback, value-driven delivery, full-team collaboration, learning through discovery, and continuous improvement. Products and sytems built using agile methods are shown to be delivered at a faster pace, lower cost, higher quality, and a greater level of customer satisfaction. Agile techniques cannot magically eliminate challenges intrinsic to high-discovery software development. But, by focusing on continuous delivery of incremental value and shorter feedback cycles, they do expose these challenges as early as possible, while there is still time to correct for them. As agile practitioners, we embrace the innate mutability of software and harness that flexibility for the benenfit of our customers and users. 
+
+We've come to this perspective by being software pracitioners, living in the trenches and delivering software on teams using increasingly modern methods, and in support of dozens of customers across the US Government and international commercial market.  The following few sections provide further elaboration on this perspective.
+
 
 ### //TODO:  On Delivery and Value
 
-A central concept to how teams accomplish work in agile environments is understanding the place for Delivery and for Value. We use these words to distinguish how the work gets done versus what the work needs to accomplish. 
+A central concept to how teams accomplish work in agile environments is understanding the place for Delivery and for Value. We use these words to distinguish how the work gets done versus what the work needs to accomplish.
 
 While many teams have an official Product Owner to represent the value of the project, we want you to understand these perspectives exist whether we assign people to them or not. 
 
