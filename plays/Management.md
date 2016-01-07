@@ -20,7 +20,10 @@ The agile community has embraced a technique called **relative estimation** to a
 
 | Play: | _Use relative estimation to achieve "good enough" estimates_ |
 | ---:  | :---------------------------------------------------------- |
-| M1    |  Relative estimation is a concept that those new to the agile world often struggle with.  It simply means "compare two things to each other."  Thinking of work in this way taps into some instinctual skills we have ingrained in our human DNA.  We have evolved over millenia to make fairly snap judgments regarding the size, the speed, and the danger of stimuli.  While not perfect, these snap judgments have proven accurate enough to ensure our survival.  
+| M1    |  Relative estimation is a concept that those new to the agile world often struggle with, but it simply means "compare two things to each other."  It has proven to be a very quick way to get |
+
+
+Thinking of work in this way taps into some instinctual skills we have ingrained in our human DNA.  We have evolved over millenia to make fairly snap judgments regarding the size, the speed, and the danger of stimuli.  While not perfect, these snap judgments have proven accurate enough to ensure our survival.  
 Considering the thought experiment above, using relative estimation techniques is able to get us fairly high on the estimate accuracy scale with very minimal effort. |
 
 
