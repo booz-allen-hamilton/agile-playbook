@@ -86,7 +86,12 @@ Most teams love food. Look for ways to get lunch together, or perhaps everyone c
 #### Colocation is still best
 We still recommend colocating agile teams as much as possible. Being together in one room, or close proximity allows a lot of things that are much tougher otherwise: You can pull together an impromptu meeting or demo more easily. You can put an idea on a whiteboard, or tape up some designs on the wall and get feedback quickly. And there's no substitute for hearing your teammates' sighs, squeals, and applause, signaling you to what's happening on the project right this moment. Our brains are evolved to communicate with much more than words -- seeing each others' faces is just as important as the language being used.
 
-A great team-room contains a few things: Comfortable workspaces for each team member, enough space to move around and pair with another teammember at their desk, information radiators on the walls that reflect project status, a comfortable space to lounge and be social or use for meetings, and a private space for team members to conduct sensitive conversations or escape the noise, for high-intensity thinking.
+A great team-room contains a few things: 
+- Comfortable workspaces for each team member
+- Enough space to move around and pair with another teammember at their desk
+- Information radiators on the walls that reflect project status and monitoring
+- A comfortable space to lounge and be social or use for meetings
+- And a private space for team members to conduct sensitive conversations or escape noise high-concentration work
 
 #### Distribution can work
 Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. We have a few tips that can help distributed teams: 

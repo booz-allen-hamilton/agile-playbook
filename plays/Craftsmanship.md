@@ -15,7 +15,7 @@
 
 
 ### Development
-An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. These methods include secure coding standards and best practices that the team must follow, using code refactoring, applying version control methods, and using continuous integration to merge developed code. Test-Driven Development (TDD) is a software development practice that aggressively increases code quality and testability, providing another avenue for Agile teams to subject their code to strenuous code reviews and refactoring techniques.
+An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. The team strives for a product that has been continuously reviewed, continuously tested, and which has been refined and simplified as much as possible. 
 
 ###Coding Standard—Best Practices
 Forming a **coding standard** is an essential task for any Agile Team. Creating agreed-upon documentation that defines the style in which code will be written and any practices to be followed or deemed unacceptable, prevent the occurrence of potential problems. The team’s coding standards also likely will include topics such as how errors are handled and how code is structured (directory convention, etc.). The intent is to assure the Delivery Team develops code uniformly, which aids future code updates and developer comprehension, and eases code review. Coding best practices fall into two groups, independent best practices (e.g., variable naming conventions) and dependent best practices (e.g., how to use aspect-oriented programming principles).
