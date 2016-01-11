@@ -91,7 +91,7 @@ A great team-room contains a few things:
 - Enough space to move around and pair with another teammember at their desk
 - Information radiators on the walls that reflect project status and monitoring
 - A comfortable space to lounge and be social or use for meetings
-- And a private space for team members to conduct sensitive conversations or escape noise high-concentration work
+- And a private space for team members to conduct sensitive conversations or high-concentration work
 
 #### Distribution can work
 Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. We have a few tips that can help distributed teams: 
