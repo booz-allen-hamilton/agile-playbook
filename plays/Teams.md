@@ -78,7 +78,7 @@ _Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always r
 At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
 
 #### Eat something
-Most teams love food. Look for ways to get lunch together, or perhaps everyone can bring a dish or snack they like to the next retrospective. Doing something together other than typical work helps us build trust and trasnparency with each other, which are crucial for long-term success.
+Most teams love food. Look for ways to get lunch together, or perhaps everyone can bring a dish or snack they like to the next retrospective. Doing something together other than typical work helps us build trust and transparency with each other, which are crucial for long-term success.
 
 
 ### On physical proximity
