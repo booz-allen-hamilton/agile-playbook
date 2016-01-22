@@ -33,7 +33,12 @@ Robust, reliable, well designed. These are not things that we just automatically
 Delivering great systems requires a dedication to the craft and an eye toward excellence. Technical agility and strength is necessary for teams to be truly agile, but is often overlooked in the conversation. We encourage you to continually examine our own technical capability, architecture, and skill as we journey through new ways to work.
 
 ### On management
-Managers new to agile are often confused with their role. How do I manage a team that "self-organizes?" We ask managers to begin thinking of themselves as servant-leaders. Let's acknolwedge that the teams are creating the value on our project; how can we facilitate that value creation? How can we lift up our teams? How can we make this a great project to work on? Teams typically still need help coordinating with each other, and across teams. Teams and clients still need vision and leadership. They need help solving problems and removing obstacles. As managers shift to servant-leaders, they become work multipliers, taking the team's output, quality, and creativity to the next level.
+Is the role for management lessened in an agile environment? It's a common question - and the answer is no! Agile teams still need to plan, still need to manage dependencies, still need to collaborate with customers and stakeholderss. Teams still need staff, opportunities for growth, and effort to address risks. Good managers are vital to agile project success, but the role typically takes on a different character than traditionally expected.
+
+Agile managers grow a tolerance for a healthy level of ambiguity and uncertainty that is intrinsic to today's modern knowledge work. Agile managers also take a keen focus on people and environment: How can we improve communication? How can we lift up our teams? How can we make this a great project to work on? How can we all take part on the project's vision?
+
+
+
 
 
 
