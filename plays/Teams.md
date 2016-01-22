@@ -66,6 +66,12 @@ If the mission needs are sufficiently complex or there are complicated relations
 #### Further expanding to include multiple Delivery Teams and Value Teams
 If the overall solution scope is so large, expertise required is sufficiently diverse, or timeline constrained such that a single team is insuffcient to produce the solution, then you'll have to scale up to multiple Delivery Teams, each with their own Product Owner/Value Team. There are a few frameworks that help shape this, which are discussed later in this Playbook, about scaling agile. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
 
+### On functional roles 
+On agile teams, there should be less emphasis on being a "tester" or a "BA" or a "developer" -- we should be working together, sharing the load, collectively getting to the goal. That said, we still value the specialities and disciplines our team members bring to the project. Agile teams are ideally made of **generalizing specialists** or sometimes referred to as **T-shaped people**, who collaborate across skillsets, but bring a valuable depth in a useful speciality to the project.
+
+On bigger teams, it's reasonable that people may live in their specialty more than they will on a smaller team. Ultimately this is a balance that the team, with all its local context, should talk about and adapt, through inspection and conversation.
+
+
 ### Practices for building stronger teams
 Teams become better teams by working together over time. But there are also practices teams can put into place that can facilitate the teaming process. A couple we recommend are:
 
