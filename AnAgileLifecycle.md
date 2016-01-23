@@ -1,13 +1,11 @@
-# Tim working
-
 ### An Agile Lifecycle
 
 In this section, we introduce a simple "Agile Lifecycle" to help provide some useful context for the plays described in this document.
-Through our experience as practitioners, we've found that nearly all (good) projects
+Our experience has taught us that nearly all (good) projects
 -- regardless of method, framework, or practices -- 
 tend to follow along this same general path.
 
-//TODO (edit): While depicted in sequence, 
+While depicted in sequence, 
 it is important to understand that this is for simplicity and discussion only.
 Projects generally start-up in this way, 
 but they will likely execute these stages (or phases?) as needed
@@ -30,14 +28,14 @@ The team should also establish [working agreements](TODO)
 and technical expectations, such as [coding standards](TODO) and their [definitions of done](TODO).
 
 And, this all should take place _in a matter of days_.
-We want to get the team building as quickly as possible -- that is where the learning truly occurs and value is delivered.
+We want to get the team delivering as quickly as possible -- that is where the learning truly occurs and value is delivered.
 
 #### Initiate & Prepare
 
-Once the team, stakeholders, and users are aligned on the project vision and working arrangements, they do just enough planning to get them building.
+Once the team, stakeholders, and users are aligned on the project vision and working arrangements, they shoud do _just enough planning_ to get the team delivering.
 
 The **Initiate & Prepare** stage is where the team [builds](TODO?) and [estimates](TODO) an initial [backlog](TODO).
-For longer efforts, they [may even sketch out a few sprints](TODO: to release planning play) over the next 3 months (but no more, really).
+For longer efforts, they [may even sketch out a few sprints](TODO-releaseplanningplay?) over the next 3 months (but no more, really).
 
 Oftentimes, we find it beneficial when teams execute this stage within the cadence of their chosing.
 When teams do this, it is sometimes called [Sprint 0](TODO),
@@ -47,4 +45,9 @@ This will set the team up to really hit the ground running when they start deliv
 
 #### Deliver
 
-//TODO: text
+This is where the rubber hits the road, so to speak.
+
+Leveraging one of the [agile delivery frameworks](/plays/Delivery.md),
+the team works to transform the needs of their users into valuable, tested, potentially shippable software.
+
+//TODO: What else to say here?
