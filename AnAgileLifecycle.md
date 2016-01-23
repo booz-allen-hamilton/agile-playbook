@@ -22,23 +22,28 @@ Before we can get to work, we must first understand our target and our team.
 In the **Concept & Alignment** stage, 
 the team begins to build relationsips with their stakeholders and users.
 Together, they will build a shared understanding of 
-the project vision, goals, values, and expectations.  
+the project vision, goals, values, and expectations.
 They may employ [Chartering Meetings](TODO) to build [product roadmaps](TODO) and [user personas](TODO), and capture [strategic themes](TODO).
 
 The team should also establish [working agreements](TODO) 
 -- these identify how they will communicate, resolve conflict, and have fun, among other things --
 and technical expectations, such as [coding standards](TODO) and their [definitions of done](TODO).
 
-And, this all should take place in a matter of days.
-We want to get the team to Delivery as quickly as possible -- that is where the learning truly occurs and value is delivered.
+And, this all should take place _in a matter of days_.
+We want to get the team building as quickly as possible -- that is where the learning truly occurs and value is delivered.
 
 #### Initiate & Prepare
 
-Just enough planning to get started.
+Once the team, stakeholders, and users are aligned on the project vision and working arrangements, they do just enough planning to get them building.
 
-build an initial backlog, estimate it, sketch out a few sprints
+The **Initiate & Prepare** stage is where the team [builds](TODO?) and [estimates](TODO) an initial [backlog](TODO).
+For longer efforts, they [may even sketch out a few sprints](TODO: to release planning play) over the next 3 months (but no more, really).
 
-//TODO: text
+Oftentimes, we find it beneficial when teams execute this stage within the cadence of their chosing.
+When teams do this, it is sometimes called [Sprint 0](TODO),
+and, in addition to putting together their first plans,
+they may [knock out some valuable development and deployment infrastructure tasks](TODO).
+This will set the team up to really hit the ground running when they start delivering against the project's goals.
 
 #### Deliver
 
