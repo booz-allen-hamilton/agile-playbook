@@ -11,14 +11,13 @@ Projects generally start-up in this way,
 but they will likely execute these stages (or phases?) as needed
 -- and often in parallel -- throughout the life of the project.
 
-![An Agile Lifecycle](/figures/AnAgileLifecycle.jpg)
-
+![An Agile Lifecycle](/figures/AnAgileLifecycle.jpgd
 #### Concept & Alignment
 
 Before we can get to work, we must first understand our target and our team.
 
 In the **Concept & Alignment** stage, 
-the team begins to build relationsips with their stakeholders and users.
+the team begins to build relationships with their stakeholders and users.
 Together, they will build a shared understanding of 
 the project vision, goals, values, and expectations.
 They may employ [Chartering Meetings](TODO) to build [product roadmaps](TODO) and [user personas](TODO), and capture [strategic themes](TODO).
@@ -32,12 +31,12 @@ We want to get the team delivering as quickly as possible -- that is where the l
 
 #### Initiate & Prepare
 
-Once the team, stakeholders, and users are aligned on the project vision and working arrangements, they shoud do _just enough planning_ to get the team delivering.
+Once the team, stakeholders, and users are aligned on the project vision and working arrangements, they should do _just enough planning_ to get the team delivering.
 
 The **Initiate & Prepare** stage is where the team [builds](TODO?) and [estimates](TODO) an initial [backlog](TODO).
 For longer efforts, they [may even sketch out a few sprints](TODO-releaseplanningplay?) over the next 3 months (but no more, really).
 
-Oftentimes, we find it beneficial when teams execute this stage within the cadence of their chosing.
+Oftentimes, we find it beneficial when teams execute this stage within the cadence of their choosing.
 When teams do this, it is sometimes called [Sprint 0](TODO),
 and, in addition to putting together their first plans,
 they may [knock out some valuable development and deployment infrastructure tasks](TODO).
