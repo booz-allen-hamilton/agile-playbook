@@ -63,7 +63,11 @@ Continuous Deployment goes one more level -- each change is pushed to Production
 //TODO (should come from the DevOps playbook and reference it)
 
 ### Continuous Monitoring
-//TODO (should come from the DevOps playbook and reference it)
+In order to have success with Continuous Delivery and Continuous Deployment, you must have the backbone of Continuous Monitoring in place.  Without the ability to know how the application is performing, the processes in place no longer stand.
+
+Continuous Monitoring is constant validation that the application is functioning and performing as expected.  Through the creation of monitoring tools, teams are able to remain confident that the applications are performing and functioning at their optimal levels.  
+
+This means that we must know there is a failure before one occurs, and build feedback mechanisms to gather information from the system.  When gathering information it is important to understand: How and why is early detection of defects important to your project? What is the system availability requirement and what is the plan to achieve that? What is the labor cost of your operations? How many systems engineers, systems administrators, and database administrators do you have monitoring the production environments and how do they react when there is an issue? (DevOps Playbook)  When keeping these questions in mind with Continuous Monitoring, teams are able to find issues and defects early and automatically, which in turn increases the overall confidence and reliability in the application.
 
 ### Do Code Reviews
 There are two primary benefits of **code reviews**. First, any bug found during inspection is cheaper to fix then (by orders of magnitude) than if it is found later in the process. Second, a team that is practiced in inspecting the code tends to be able to embrace the Agile principle of collective code ownership. All of the code (and any bugs identified) are the responsibility of the team, rather than a specific individual. This mindset results in a tighter, higher-quality product.
