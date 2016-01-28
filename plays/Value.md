@@ -6,20 +6,52 @@
 
 
 
-## Probably SPARC
+## Preliminary Outline for Value
 
-### Backlogs
-//TODO
+1. Communicating Vision / Prioritization Considerations and Techniques
+  1. Where to start
+    * Elevator Pitch/Overarching Vision and Goal -> product box
+  2. Where to start if you don’t know where to start
+    * Figure who your stakeholders are
+    * Define stakeholder roles and goals
+    * Personas
+  3. Discovery session exercise/requirements gathering/wish list 
+2. Initial Requirements Gathering
+  1. Evaluation of current business state
+    * What business problem are we trying to solve?
+    * Self evaluation-driven questions -- what VALUE do they need from the software
+    * Expected Behaviors to solve the business problem
+    * Desired and Intuitive Interactions
+    * Discuss difference between “I need the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software”
+  2. Communication/translation of vision to UI/UX and development team 
+    * embedding of PO in development team/ active PO role in team
+  3. Importance of iterative requirements refinement
+  4. Champion PO role on dev team via 
+    * Driving of UI/UX wireframe/prototype creation 
+    * Driving of communication of business value and end user goals to development team 
+    * End result: Backlog creation ….transition into next topic
+3. Backlog Creation 
+  1. Requirements != Backlog
+  2. Nothing should be in backlog unless it directly contributes to the goals of a project
+  3. Does not need to be “complete”
+  4. Iterative refinement
+  5. Most current items should be most granular
+  6. Epics
+    * ... to Stories, to Tasks
+4. User Stories
+  1. User story workshop 
+  2. Value Statement
+    * Communicates work to be completed and WHY that work is valuable
+  3. Acceptance Criteria
+    * Testable outcomes of completion of work
+    * Definition of Done?
+  4. Manage traceability of requirements and backlog 
+5. Story Mapping / Traceability 
+Keeping the “big picture” in front of mind while executing
+SM - visibility via whiteboard, story mapping, roadmapping, etc ...end goal in end
+List exercises/tools for team that PO can own 
 
-### Prioritization
-//TODO
-
-### User Stories & Requirements
-//TODO
-
-------
-Other considerations for "plays"
-- Story Mapping
+Running Example: Customer wants a couch...
 
 
 -----
