@@ -8,7 +8,6 @@ Knowledge sharing and collaboration appears in many forms from formalized traini
     - Atlassian Confluence
     - a wiki
 
-
 ### Asynchronous Code Reviews
 Allows team members to review code and provide feedback on their own time versus simultaneously. The give-and-take of collaboration is not lost but occurs when it is convenient for the parties involved.
 - Tools to investigate
@@ -24,7 +23,6 @@ Teams can simultaneously work on and maintain multiple versions of the same soft
     - Git
     - Team Foundation Server
 
-
 ### Test Automation
 Automated tests help the team identify and resolve issues before users do when it is least expensive to fix. Prior to committing the code, it can be executing on a development team member's workstation can be quickly verified and validated with automated tests. This helps team members ensure their new code is compatible with the existing functionality. The tests can be committed with the code easing access and maintenance while encouraging reuse.
 - Tools to investigate
@@ -36,10 +34,42 @@ Automated tests help the team identify and resolve issues before users do when i
     - Unified Functional Testing
 
 ### Code Scanning
+Ensures common coding errors are reduced and/or eliminated. Like automated testing, code-scanning tools assist in finding and fixing defects early in the software development process.
+- Tools to investigate
+    - Fortify
+    - PMD
+    - Armorize CodeSecure
+    
 ### Configuration Management
+Allows the team to have the ability to oversee, organize, manage and control the changes in the project’s artifacts during the development life cycle.  
+- Tools to investigate
+   - IBM Rational Team Concert
+   - Microsoft Visual Studio Team Foundation Server
+   - SVN Subervsion
+   - Atlassian Suite
+   
 ### Build Management / Continuous Integration
+Ensures that all code is constantly merged from all team developers into a specific environment stream. Continuous integration increases the quality of the software by reducing the defect escape rate, and decreases maintenance and sustainment costs.
+- Tools to investigate
+   - Continuum
+   - Cruise Control
+   - Hudson
+   - Atlassian Bamboo
+   
 ### Persistent Group Chat
+Provides the team access to an area for group messaging to encourage communication and collaboration. Group chat can improve the communication with remote team members and others across a geographically detached organization.
+- Tools to investigate
+   - Slack
+   - Skype
+   - Hipchat
+
 ### Video Conference
+Provides a way to meet with all team members regardless of their location in order to promote collaboration and team communication.
+- Tools to investigate
+   - WebEx
+   - Google Hangouts
+   - Zoom
+   
 ### Backlog Item Management
 - ##### Issue and Project Tracking
 - ##### Agile Development
