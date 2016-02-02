@@ -70,8 +70,11 @@ Provides a way to meet with all team members regardless of their location in ord
    - Google Hangouts
    - Zoom
    
-### Backlog Item Management
-- ##### Issue and Project Tracking
-- ##### Agile Development
-- ##### Requirements Management
-- ##### Test Asset Management
+### Backlog Management
+Provides Agile teams a consistent and repeatable tool to create and manage backlog items, whether they are User Stories, Defects, Tasks or Epics/Themes. Allows the Value team to prioritize the Product Backlog while the Delivery team can build the Sprint Backlog and Burndown thus focusing on the delivery of the customers’ most important product features. Defect management activities are conducted in a manner that reflects traceability to requirements, design, and code. Facilitates the collection of metrics and the display of Information Radiators to provide real-time transparency into project progress.
+ - Tools to investigate:
+   - Atlassian Jira / Jira Agile
+   - Team Foundation Server
+   - CA Agile Central (formerly Rally)
+   - IBM Rational Team Concert
+   - Targetprocess
