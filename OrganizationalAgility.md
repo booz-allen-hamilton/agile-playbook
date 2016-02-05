@@ -2,8 +2,10 @@
 
 Agile at scale is more than simply applying agile practices on multiple teams. Agile at scale requires multiple levels of coordination to ensure all the teams are moving in the same direction within the enterprise. Other aspects such as culture and funding must be considered as well. Implementing Agile in an organization cannot be top down or grass roots alone. A successful implementation must include both. It’s for this reason we must address applying agile practices at the team level in addition, we must train the managers and executives as well.
 
-###Managing from the Exective Level
+###Managing Backlogs
 
-Scaling Agile development projects to program or potfolio levels mean managing competing needs through alignment and synchronizaton.  Just as a team has a backlog that is regularly prirotized, and eleborated, a protfolio or program must also have a backlog. The backlog at this level needs to have flxibility and
-###Decentralize decision Making
+Scaling Agile development projects to program or potfolio levels mean managing competing needs through alignment and synchronizaton.  Just as a team has a backlog that is regularly prirotized, and eleborated, a protfolio or program must also have a backlog. The backlog at this level needs to have flxibility and enough elboration to align with the appropriate level of resources.  A Planning Roadmap is a good tool to plan for the near term defined as the current fiscal quarter, with planning up to rolling year in advance with less detail as the Roadmap progresses to the future.
 
+###Decentralize Decision Making
+
+###Managing Uncertainty in a Large Organization
