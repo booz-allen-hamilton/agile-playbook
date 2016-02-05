@@ -122,7 +122,6 @@ Logistics
 [Introduction to the Agile Playbook](https://github.com/booz-allen-hamilton/agile-playbook/blob/master/Introduction.md)
 
 - TODO: Position Statements
-  - TOUPDATE: Mindset, History, What and Why of Agile
   - TODO: On Value
   - TODO: On Delivery
   - TODO: On Teams
@@ -137,9 +136,6 @@ Getting Started - so you've decided to be an agile team
 "Plays"
 
 - TODO: Value
-- TODO: Delivery
-- TODO: Teams
-- TODO: Craftsmanship
 - TODO: Management
 
 TODO: An Agile Maturity Model
