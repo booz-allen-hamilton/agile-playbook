@@ -4,54 +4,33 @@
 
 > Business people and developers must work together daily throughout the project.
 
+-----
+Communicating Vision
+-----
+
+###Product Vision Statement
+The vision for the project should be encapsulated in a Product Vision Statement created by the product owner.  Akin to an ‘elevator pitch’, or quick summary, the goal of the Product Vision Statement is to communicate the value that the software will add to the company. It should be clear and direct enough to be understood by every level of the effort, including project stakeholders.
+
+###Vision Box
+If defining the Product Vision Statement is proving a struggle, or there is a need for a slightly more in-depth look into the overall vision before proceeding with planning, a Vision Box is an excellent, engaging, and, often, fun exercise to define the vision and value of a project. [ Elaborate ]
+
+###Product Roadmap
+With a Vision Statement and potentially a Vision Box in place, a Product Roadmap should be created to consider more specific (although still high-level) objectives and direction for the project.  Be sure to include the ultimate project goals in the Roadmap, keeping in mind their value added and the desired outcomes from the customer’s point of view.  It should loosely encapsulate the progression of development as well as the overall vision.  Rough sizing of work and prioritization should also occur as a part of the Product Roadmap creation process.
+
+###Release Map
+Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
+
+…need transition
+Backlog Basics: 
+Treat your backlog as a “catch all” - as long as the item directly correlates to a final product or project goal, then irrespective of if the item is related to true functional work, is an enhancement or even technical debt it can be added to your backlog. Additionally, keep in mind that your backlog will be ever-evolving. Your backlog should be a living, breathing testament to your product as you will be iteratively refining your backlog as your build your product. Product Backlog items are updated until all features of that product are delivered, which may occur through multiple releases during the project lifecycle. 
+
+Types of Backlogs: Product & Sprint
+A product backlog is a prioritized list of product requirements presented as User Stories, updated at least weekly, and ranked and estimated using a scale based on Story Points. It serves as a high-level view of the work that must be completed to create the product and it is typically owned by the Product Owner. 
+A sprint backlog is a detailed list of all tasks from the product backlog that must be completed based on the user stories assigned to a given sprint, updated daily, modified through the sprint process, and classified as “Done” in accordance with the team’s definition.
 
 
-## Preliminary Outline for Value
 
-1. Communicating Vision / Prioritization Considerations and Techniques
-  1. Where to start
-    * Elevator Pitch/Overarching Vision and Goal -> product box
-  2. Where to start if you don’t know where to start
-    * Figure who your stakeholders are
-    * Define stakeholder roles and goals
-    * Personas
-  3. Discovery session exercise/requirements gathering/wish list 
-2. Initial Requirements Gathering
-  1. Evaluation of current business state
-    * What business problem are we trying to solve?
-    * Self evaluation-driven questions -- what VALUE do they need from the software
-    * Expected Behaviors to solve the business problem
-    * Desired and Intuitive Interactions
-    * Discuss difference between “I need the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software”
-  2. Communication/translation of vision to UI/UX and development team 
-    * embedding of PO in development team/ active PO role in team
-  3. Importance of iterative requirements refinement
-  4. Champion PO role on dev team via 
-    * Driving of UI/UX wireframe/prototype creation 
-    * Driving of communication of business value and end user goals to development team 
-    * End result: Backlog creation ….transition into next topic
-3. Backlog Creation 
-  1. Requirements != Backlog
-  2. Nothing should be in backlog unless it directly contributes to the goals of a project
-  3. Does not need to be “complete”
-  4. Iterative refinement
-  5. Most current items should be most granular
-  6. Epics
-    * ... to Stories, to Tasks
-4. User Stories
-  1. User story workshop 
-  2. Value Statement
-    * Communicates work to be completed and WHY that work is valuable
-  3. Acceptance Criteria
-    * Testable outcomes of completion of work
-    * Definition of Done?
-  4. Manage traceability of requirements and backlog 
-5. Story Mapping / Traceability 
-Keeping the “big picture” in front of mind while executing
-SM - visibility via whiteboard, story mapping, roadmapping, etc ...end goal in end
-List exercises/tools for team that PO can own 
 
-Running Example: Customer wants a couch...
 
 
 -----
