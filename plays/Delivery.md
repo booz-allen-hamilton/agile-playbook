@@ -27,7 +27,7 @@ it is really good for operations and maitenance teams who have to pump out bug f
 | D2    |  |
 
 give a brief description of Kanban, continuous flow, and limiting work in process to raise throughput.
-Talk about how it is a very advanced technique reserved for the most disciplined teams.
+Talk about how it is a very advanced technique reserved for the most disciplined teams. TESTING TESTING......
 
 | Play: | _Try Kanban on only the most disciplined teams and when **throughput** is paramount._ |
 | ---:  | :---------------------------------------------------------- |
