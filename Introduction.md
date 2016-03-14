@@ -1,4 +1,4 @@
-### Why a Playbook?
+### Why a playbook?
 Agile is the de-facto way of delivering software today. Compared to "waterfall" development, agile projects are far more likely to deliver on time, on budget, and having met the customer's need. Despite this broad adoption Industry standards remain elusive due the nature of agility
 The purpose of this playbook is to educate new adopters of the agile mindset by curating many good practices that we’ve found to work for teams at Booz Allen. As we offer our perspective on implementing agile in your context, we present many "plays" -- use cases of agile practices that may work for you which together can help weave an overall approach for tighter delivery and more satisfied customers.
 
@@ -8,13 +8,13 @@ We view Agile as a mindset – defined by values, guided by principles, and mani
 We've come to this perspective as software practitioners, living in the trenches and delivering software on teams using increasingly modern methods, and in support of dozens of customers across the US Government and international commercial market.  The following few sections provide further elaboration on this perspective.
 
 
-### On Delivery and Value
+### On delivery and value
 We are explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be:  but it's crucial to consider that, together, we are still one team, with one goal, and we seek a common path to reach that goal.
 
-### On Teams
+### On teams
 A team is the core of any agile organization. In a project of two people or two-hundred -- the work happens in teams. And at the core of teams are humans. Just as we seek to build products that delight the humans who use them, we seek to be happier, more productive humans at work, later in the playbook we will address specific areas to support the team and scale.
 
-### On Craftsmanship
+### On craftsmanship
 Agile software engineering is still software engineering. Ron Jeffries tells us, "The software we build has to be robust enough to support the business need. It needs to be sufficiently free of defects to be usable and desirable. It needs to be well structured enough to allow us to sustain its development as long as required.
 
 Robust, reliable, well designed. These are not things that we just automatically get by having a Product Owner and a Scrum Master. Much less are these things we get by having really good Portfolio Vision and an Agile Release Train... If we do not build it well, all our teamwork, communication, retrospectives, business focus and WIP limitation are for nothing."
