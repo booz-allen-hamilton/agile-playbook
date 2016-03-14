@@ -1,5 +1,37 @@
-#The Outline of our Agile Playbook#
-
+#Updated Outline of our Agile Playbook#
+Introduction
+Delivery
+- Play: Start With Scrum
+- Play: Scrumban (Kanban training wheels)
+- Play: Kanban
+Value
+- Play: Share a Vision inside and outside your team
+  - Practice: Roadmap
+-Play: Build the most valuable thing first
+  - Practice: Prioritized backlog
+- Play: Be informed by real users
+  - Practice: User Stories
+  - Personas
+Teams
+- Play: Organize as scrum teams
+  - Practice: Keep Consistent teams
+  - Practice: Create coheasive teams through chartering
+  - Practice: Colocate
+Craftsmanship
+- Play: Build in quality
+- Play: Find oppotunities for Automation
+Measuring and Tracking
+Management
+- Play: Evolution from manager to leader
+- Play: Evolving to faciltator
+- Play: Moving to coach
+Inspect and Adapt(or Adaptation)
+- Play: Reflect on how the team woks together
+    -Practice: If nothing else, use retrosectives
+    -Practice: Retrospectives to tune and improve the team
+- Play: Take an empirical view
+    - Practice: Experiment and measure results
+#Original Outline of our Agile Playbook#
 - Logistics of the Playbook
   - README; Contributing to the Playbook
   - Intended Audience(s)
