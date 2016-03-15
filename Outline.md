@@ -1,6 +1,8 @@
 #Updated Outline of our Agile Playbook#
 Introduction
 
+An Agile Lifecycle
+
 Delivery
 
 - Play: Start With Scrum
