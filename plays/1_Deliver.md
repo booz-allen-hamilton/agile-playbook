@@ -53,7 +53,15 @@ https://www.scrumalliance.org/why-scrum/scrum-guide
 
 *If Scrum is too restrictive with changing priorities within a 2 week delivery.  Consider scrumban to provide ceremonies with the flexibility of delivery.*
 
-Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum deliery framework, while introducing the flow theory of kanban.  
+Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum ceremonies, while introducing the flow theory of kanban.  Scrumban was developed in 2009 by Corey Ladas to move teams from scrum which is a good starting point in agile, to kanban, which enables flow for delivery on demand.  The primary delivery impact is that te scrum sprint timebox no longer applies, instead a work in progress limit is set to enable team members to pull work on demand without staunching to flow to completion. Scrumban has since evolved some of its own practices.  
+
+Examples of unique practices to Scrumban include:
+ - *Bucket size planning* Was developed to enable long-term planning where a work item goes from the idea bucket, to a goal, then to the story or requirement.  The final bucket are items ready to be sent to the Kanban board to be pulled and worked.
+ - *Lead and cycle time* By measuring the time that is taken from task creation or beginning work on a task to its completion, this is a way to examine common impediments or eloaboration issues
+ - *On demand planning* This practice moves away from planing on a regular cadence, instead hold planning sessions when more work is needed.  Items to be pulled into the kanban board are priritized at this time, to inform the team the order to pull in items.
+
+
+
 
 
 #Kanban
