@@ -1,5 +1,5 @@
 
-The complexion of managing work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated.  The team still needs to be built, encouraged, motivated.  An environment of collaboration must be established and communication must flow.  And, a connection between the team and its sponsorship must be maintained.
+The complexion of managing work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated.  A self organized teams and a connection with its sponsorship must be maintained.
 
 Planning, status, and metrics - Oh my!
 =========================================
