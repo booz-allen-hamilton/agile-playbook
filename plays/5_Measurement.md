@@ -51,7 +51,13 @@ The time horizons of planning and status
 -----------------------------------------
 
 ### Managing for the near term, the Sprint
-//TODO
+The most essnetial element for sprint planning is a prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  The discussion at the sprint plannning meeting can center around details of the User Story cancidates for the sprint.  The details could be business logic, interface design, or technical implementation.  This discussion could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
+
+Once there is clarity around the User Stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings an additional level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
+
+Definition of done for each user story will be discussed. Questions such as: Will this be full stack development? Will there be stubs?  What level of testing will be completed?  Full regression testing? etc  The dscussion will contribute to the overall understanding and susequent agreement of "done" for the sprint.
+
+The estimating exercise will inform the sprint plannig process as to how much work can be accepted into the sprint.  Based on previous sprints the team will accept work that is well understood and based on estimation will fit into the sprint timebox.  Once the team has collectively commited to the sprint contents, the sprint work can start.
 
 ### Managing for multiple Sprints (e.g. a Release)
 //TODO
@@ -92,6 +98,12 @@ Sprint. Team members often enjoy updating the radiators when they have completed
 
 
 ###COLLECTING METRICS
+
+> *At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.*
+
+
+
+
 The overall objectives for collecting and analyzing applicable measures, for any measurement program, are to promote continuous improvement, increase productivity, enhance product quality, and adopt effective and efficient practices. Metrics that are captured, reviewed, and analyzed prove to be very useful for Agile teams in many ways: they provide a continual evaluation of the progress made in delivering product features to the client and can be used to redirect product-related priorities. Agile metrics can also evaluate task completeness in terms of what has been done or not been done. When results are communicated to team members and the client, the greater understanding of what is being measured and why reinforces Agile principles.
 
 Measures collected during execution of a Sprint include Velocity and Effort Variance, Sprint Burndown Chart, Defect Backlog Severity, and Requirement Volatility. These measures are submitted to Booz Allen’s organizational measurement repository, DataDrill, and reviewed and evaluated by the Systems Review Board (SRB), and will become the recommended metrics for Agile development firm wide.
