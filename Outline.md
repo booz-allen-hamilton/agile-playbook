@@ -41,8 +41,8 @@ Management
 Inspect and Adapt(or Adaptation)
 
 - Play: Reflect on how the team woks together
-    -Practice: If nothing else, use retrosectives
-    -Practice: Retrospectives to tune and improve the team
+    Practice: If nothing else, use retrosectives
+    Practice: Retrospectives to tune and improve the team
 - Play: Take an empirical view
     - Practice: Experiment and measure results
 
