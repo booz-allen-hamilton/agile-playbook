@@ -62,8 +62,8 @@ The time horizons of planning and status
 
 
 
-Communicationg plan and status
-=========================================
+Communicationg the plan and status
+-----------------------------------------
 > *The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.*
 
 
