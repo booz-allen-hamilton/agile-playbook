@@ -4,8 +4,11 @@
 
 > The best architectures, requirements, and designs emerge from self-organizing teams.
 
-### Craftsmanship in development teams
+##Craftsmaship in software
 Craftsmanship is expressed by an agile team taking pride in ownership through simultaneous thoughtful design and an emphasis on quality code to create a sustainable product.  An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. The team strives for a product that has been continuously reviewed, continuously tested, and which has been refined and simplified as much as possible. The practices and process that a team uses are owned by the team itself. How a team incorporates craftsmanship to their solutions should be a common discussion among the team, and an area that the team strives to regularly improve.
+
+## Build in quality
+We will delve into some ways to ensure quality is always considered in every aspect of software delivery.  It starts with the indidicuals mindset, these supporting practices help support the mindeset throughout the process.
 
 ### Adopt a Coding Standard
 Forming a **coding standard** is an essential task for any agile team. Creating agreed-upon documentation that defines the style in which code will be written and any practices to be followed or deemed unacceptable, prevent the occurrence of potential problems. The team’s coding standards also likely will include topics such as how errors are handled and how code is structured (directory convention, etc.). The intent is to assure the Delivery Team develops code uniformly, which aids future code updates and developer comprehension, and eases code review. Coding best practices fall into two groups, independent best practices (e.g., variable naming conventions) and dependent best practices (e.g., how to use aspect-oriented programming principles).
@@ -51,6 +54,41 @@ Unit tests are a foundational software engineering practice for development team
 
 Unit tests should be included in the definition of “Done” for any work item, and developers should discuss plausible test strategies when the work is planned. When a developer makes the code ready for the Sprint’s releasable software, this indicates that the unit tests scoped for the code are also ready and included in continuous integration. Continuous integration means that unit tests are executed every time automated test builds are generated from the code repository. If one of the unit tests should fail during execution, the continuous integration mechanism notifies the project team every time it tries to execute the test, until the problem is resolved.
 
+
+##Build in quality but check again
+
+### Use Test-Driven Development
+TDD is a software development practice that increases code quality by ensuring high unit test coverage.  Unit test coverage has been proven to increase overall code quaility by providing the first level of test on which later testing continues to check additional quality factors.  When using TDD,  developers write a unit test first, then produce only enough code to pass that test, then refactor the code to elegantly integrate into the existing codebase. When diligently followed, this practice builds the foundation for a robust, tested body of code.
+
+TDD is performed whenever code is written. It is **not a testing methodology**; it is a software development technique. The objective is 100-percent coverage for all software with automation. The automated TDD test suite is generally executed with each build, but at least once a day as part of the continuous integration to check the state of the software. Automatic TDD tests executed during a automated integration builds serve to immediately identify new defects, or integration issues.
+
+The system's correct behavior is well defined in the body of tests that developers can confidently make changes and deploy.  These tests augment any code documentation by demonstrating the funcationality enabling developers unfmailiar with the code to quickly become zunderstand with the intended code behavior. 
+
+## Testing
+Testing incremental functionalities of the product developed by the agile team involves reviewing the User Stories to ensure they meet the definition of “Done,” are considered complete, and have passed the acceptance testing criteria. Preparing for testing activities includes any artifacts required to successfully execute testing, such as the scripts, code, data, etc. The objective of any testing activity is to determine whether the incremental product developed satisfies the intended requirements and also proves to be a testable component. Along with Functional and Regression Testing activities, Automated Testing, and Acceptance Testing are also performed.
+
+###Functional Testing
+The team performs **functional testing** to ensure that the functional behavior of the product (or system) corresponds to its specifications, which involves testing one component at a time. Unit Testing focuses on testing the smallest individual units or components of the build, application modification, or system, to verify that each component is built to design specifications. Functional testing is performed after the component has been unit tested to verify functionality against the requirements and specifications, before system and integration testing.
+
+###Regression Testing
+The team performs **regression testing** to isolate and resolve any errors or defects introduced during modifications based on change requests. This testing verifies that the component still meets its specified requirements and no adverse effects have been identified as a result of implemented changes. Regression testing focuses on executing test scripts and/or scenarios in functional and non-functional areas of a system after changes have been made; ensuring the product/system still meets its specified requirements, and will not fail when deployed to the operational environment or adversely affect code that is currently in production. The agile team should conduct a degree of regression testing at the end of each level of testing to ensure that any defects corrected during each testing segment have not caused additional defects.
+
+###Automated Testing
+**Automated testing** must be considered part of the software development cycle. The tests themselves are an integral part of software development because they help minimize time spent debugging and help the team identify and resolve issues before users do. Prior to committing code, the code should be thoroughly subjected to automated test, and those tests should be committed with the code. This helps team members ensure their work is compatible with the code being committed. The entire automated test suite should be run against all code changes before that code is committed to ensure that there are no conflicts with other areas of the project.
+When a bug is found in the system, the developer committed to fixing the bug should follow the following steps:
+
+1. Write a unit test that expects the specific failing behavior not to occur
+2. Run the test, which should fail because the bug will still be in the code
+3. Fix the bug
+4. Run the unit test to ensure the test now passes.
+
+This practice ensures the bug can never be reintroduced into the system without being caught by the automated test suite.
+
+###User Feedback or Acceptance Test
+Successful agile projects regularly put new software in front of the users for immediate feedback. This does not require a deployment to a production server but does require a demonstration or test server to which users have access and can use to try out new features still in development. Making this environment available increases communication between the users and the agile team. If features are found to be off track, the developers can start over, with only the loss of a Sprint’s worth of work versus 6 months or more if discovered later. This has the added benefit of showing users that while you may not have had a deployment recently, you are making progress on the highest priority request.
+
+## Look for opportunities to automate
+
 ### Use Continuous Integration
 Continuous integration is a foundational agile technical practice. It requires each team member to integrate their latest work with the trunk frequently -- at least daily -- and to have each integration verified by an automated build (with automated testing included). Continuous integration increases the quality of the software by reducing the defect escape rate, and decreases maintenance and sustainment costs. Developers working from a local copy for days at a time is a bad practice and contributes to risky, complicated merges; continuous integration mitigates this risk.
 
@@ -90,35 +128,4 @@ This means that we must know there is a failure before one occurs, and build fee
 
 
 ### Seek an agile architecture
-//TODO
-
-### Use Test-Driven Development
-TDD is a software development practice that increases code quality by ensuring high unit test coverage.  Unit test coverage has been proven to increase overall code quaility by providing the first level of test on which later testing continues to check additional quality factors.  When using TDD,  developers write a unit test first, then produce only enough code to pass that test, then refactor the code to elegantly integrate into the existing codebase. When diligently followed, this practice builds the foundation for a robust, tested body of code.
-
-TDD is performed whenever code is written. It is **not a testing methodology**; it is a software development technique. The objective is 100-percent coverage for all software with automation. The automated TDD test suite is generally executed with each build, but at least once a day as part of the continuous integration to check the state of the software. Automatic TDD tests executed during a automated integration builds serve to immediately identify new defects, or integration issues.
-
-The system's correct behavior is well defined in the body of tests that developers can confidently make changes and deploy.  These tests augment any code documentation by demonstrating the funcationality enabling developers unfmailiar with the code to quickly become zunderstand with the intended code behavior. 
-
-## Testing
-Testing incremental functionalities of the product developed by the agile team involves reviewing the User Stories to ensure they meet the definition of “Done,” are considered complete, and have passed the acceptance testing criteria. Preparing for testing activities includes any artifacts required to successfully execute testing, such as the scripts, code, data, etc. The objective of any testing activity is to determine whether the incremental product developed satisfies the intended requirements and also proves to be a testable component. Along with Functional and Regression Testing activities, Automated Testing, and Acceptance Testing are also performed.
-
-###Functional Testing
-The team performs **functional testing** to ensure that the functional behavior of the product (or system) corresponds to its specifications, which involves testing one component at a time. Unit Testing focuses on testing the smallest individual units or components of the build, application modification, or system, to verify that each component is built to design specifications. Functional testing is performed after the component has been unit tested to verify functionality against the requirements and specifications, before system and integration testing.
-
-###Regression Testing
-The team performs **regression testing** to isolate and resolve any errors or defects introduced during modifications based on change requests. This testing verifies that the component still meets its specified requirements and no adverse effects have been identified as a result of implemented changes. Regression testing focuses on executing test scripts and/or scenarios in functional and non-functional areas of a system after changes have been made; ensuring the product/system still meets its specified requirements, and will not fail when deployed to the operational environment or adversely affect code that is currently in production. The agile team should conduct a degree of regression testing at the end of each level of testing to ensure that any defects corrected during each testing segment have not caused additional defects.
-
-###Automated Testing
-**Automated testing** must be considered part of the software development cycle. The tests themselves are an integral part of software development because they help minimize time spent debugging and help the team identify and resolve issues before users do. Prior to committing code, the code should be thoroughly subjected to automated test, and those tests should be committed with the code. This helps team members ensure their work is compatible with the code being committed. The entire automated test suite should be run against all code changes before that code is committed to ensure that there are no conflicts with other areas of the project.
-When a bug is found in the system, the developer committed to fixing the bug should follow the following steps:
-
-1. Write a unit test that expects the specific failing behavior not to occur
-2. Run the test, which should fail because the bug will still be in the code
-3. Fix the bug
-4. Run the unit test to ensure the test now passes.
-
-This practice ensures the bug can never be reintroduced into the system without being caught by the automated test suite.
-
-###User Feedback or Acceptance Test
-Successful agile projects regularly put new software in front of the users for immediate feedback. This does not require a deployment to a production server but does require a demonstration or test server to which users have access and can use to try out new features still in development. Making this environment available increases communication between the users and the agile team. If features are found to be off track, the developers can start over, with only the loss of a Sprint’s worth of work versus 6 months or more if discovered later. This has the added benefit of showing users that while you may not have had a deployment recently, you are making progress on the highest priority request.
-
+To support changing needs an achritectue to support agile projects must support the current effort as well as any future complexities.  Additionally, software development projects rarely get to start fresh with new technolgies that support loosely coupled solutions, the legacy infrastructure and contruct must be integrated.  Need more information here.
