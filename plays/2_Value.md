@@ -22,13 +22,11 @@ With a Vision Statement and potentially a Vision Box in place, a Product Roadmap
 ###Release Map
 Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
 
-*Backlog* 
+
+##Our Vision is Defined - Now What?
 
 > *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
 
-The backlog is comprised of the building blocks used to make the vision a reality.  By cultivating the backlog, with the user, the voice of the user will help the team build a product valuable to the user.  
-
-##Our Vision is Defined - Now What?
 Now that you know your product vision and business needs, have clearly defined the players involved, and have ideas and to-dos for miles - now what? How do we organize these thousands of wants and wishes into an actionable plan that not only will be of value, but effective? Your answer is to create a product backlog. A backlog can mean many things to many different people and industries; however, the foundational principle that a backlog of work is some sort of list of all of the work you want to do still applies in scrum. 
 
 ###Backlog Basics: 
