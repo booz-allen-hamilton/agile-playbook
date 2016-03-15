@@ -1,9 +1,9 @@
 #Table of Content for our Agile Playbook#
-[Introduction] (Introduction.md)
+[Introduction] (2_Introduction.md)
 
-[An Agile Lifecycle] (AnAgileLifecycle.md)
+[An Agile Lifecycle] (3_AnAgileLifecycle.md)
 
-[Getting Started Graphic] (GettingStarted_Graphic.md)
+[Getting Started Graphic] (4_GettingStarted_Graphic.md)
 
 [Delivery] (plays/1_Delivery.md)
 
