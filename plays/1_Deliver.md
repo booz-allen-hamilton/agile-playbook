@@ -18,6 +18,7 @@ Over the course of several sprints, a picture of progress and direction emerges.
 If scrum is properly followed, many of the traditional problems associated with complex projects are avoided.  The frequent feedback prevents projects from spending too much time going in the wrong direction.  Furthermore, due to its iterative nature, projects can be terminated early and still deliver a functional, though not ideal, product.
 
 *Scrum Theory*
+
 Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
 Transparency
 Significant aspects of the process must be visible to those responsible for the outcome. Transparency requires those aspects be defined by a common standard so observers share a common understanding of what is being seen.
@@ -43,6 +44,7 @@ Scrum prescribes four formal events for inspection and adaptation, as described 
 
 
 References: 
+
 Unless otherwise specified, all images and content is sourced from Mountain Goat Software, Microsoft Project User Group, or Scrum Alliance:
 https://www.scrumalliance.org/why-scrum/scrum-guide
 
