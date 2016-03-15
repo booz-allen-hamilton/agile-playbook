@@ -51,7 +51,7 @@ The time horizons of planning and status
 -----------------------------------------
 
 ### Managing for the near term, the Sprint
-The most essnetial element for sprint planning is a prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  The discussion at the sprint plannning meeting can center around details of the User Story cancidates for the sprint.  The details could be business logic, interface design, or technical implementation.  This discussion could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
+The most essnetial element for sprint planning is a prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  The discussion in the sprint plannning meeting can center around details of the user story candidates for the sprint.  The details could be business logic, interface design, or technical implementation.  This discussion could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
 
 Once there is clarity around the User Stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings an additional level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
 
