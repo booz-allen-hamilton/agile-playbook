@@ -1,4 +1,4 @@
-###APPENDIX E: US GAO REPORT
+###APPENDIX A: US GAO REPORT
 
 In July 2012, the United States Government Accountability Office (GAO)9  published a report describing the use of Agile in the Federal Government and also in the private sector for small to medium sized projects and some larger projects. The report supports the use of Agile and identifies some effective practices in applying Agile, but also includes information regarding some federal challenges in following some of the Agile development techniques.
 A total of 32 practices and approaches were categorized into 5 key project management (PM) activities: strategic planning, organizational commitment and collaboration, preparation, execution, and evaluation. Table 4 below provides a list of 10 practices used by the 5 projects surveyed that were found to be most effective in applying Agile practices and presents how the Booz Allen approach maps to each of the practice statements. It is noteworthy to mention that four of the five federal software development projects surveyed and identified in the GAO report embraced Scrum as their approach to implementing Agile.
