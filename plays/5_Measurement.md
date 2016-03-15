@@ -62,29 +62,13 @@ The time horizons of planning and status
 
 
 
-Stop, collaboration, and listen
+Communicationg plan and status
 =========================================
 > *The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.*
 
 
 
 
-#### other topics
-- estimating
-- metrics
-- meetings
-- Sprint 0 - possible play?
-
-
------
-Legacy Text
------
-
-### STORY POINTS AND IDEAL DAYS 
-One of the starkest departures from traditional planning practices is that Agile teams decouple the estimation of their work from the time it will take to deliver. In other words, Agile teams estimate how much work they have and measure how fast they complete that work to predict when they will be able to deliver.
-
-
-####COMMUNICATING AND PLANNING
 Software development project teams recognize that the most effective and productive means of communication is a face-to-face conversation. Encouraging powerful, personal conversations requires strong facilitation and leadership skills from the Delivery Team Lead/
 Scrum Master. Using an outside facilitator (such as an Agile Coach) may be useful from time to time. Agile teams may also employ a communication method such as Information Radiators to display and convey progress both within the team and to outside stakeholders.
 
