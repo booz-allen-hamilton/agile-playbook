@@ -42,7 +42,7 @@ Scrum prescribes four formal events for inspection and adaptation, as described 
  - Sprint Review
  - Sprint Retrospective
 
-(agile-playbook/figures/Scrum Table.JPG)
+![Scrum Pros and Cons] (/figures/Scrum Table.JPG)
 
 References: 
 
