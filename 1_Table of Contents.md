@@ -3,7 +3,7 @@
 
 [An Agile Lifecycle] (AnAgileLifecycle.md)
 
-[Getting Started] (GettingStarted_Graphic.md)
+[Getting Started Graphic] (GettingStarted_Graphic.md)
 
 [Delivery] (plays/1_Delivery.md)
 
