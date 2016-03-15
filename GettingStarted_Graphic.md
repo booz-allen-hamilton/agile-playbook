@@ -1,4 +1,4 @@
-# (To Be Graphic)Getting started - Your first month (or so)
+# (To Be Graphic) Getting started - Your first month (or so)
 So you've never been an agile team before. How to get started?
 
 This quick list gives a framework for getting started, using concepts you'll find more detail about in other areas of this playbook.
