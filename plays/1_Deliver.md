@@ -14,7 +14,7 @@ Practically, this means that design decisions are not made way ahead of time, bu
 Over the course of several sprints, a picture of progress and direction emerges.  Customers and management are kept informed through progress charts (known as burndowns) and end of sprint-demos.  This process enables customers and product managers to offer near real-time feedback and direction to the project without incurring the high-costs of micromanagement.
 If scrum is properly followed, many of the traditional problems associated with complex projects are avoided.  The frequent feedback prevents projects from spending too much time going in the wrong direction.  Furthermore, due to its iterative nature, projects can be terminated early and still deliver a functional, though not ideal, product.
 
-#Scrum Theory
+*Scrum Theory*
 Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
 Transparency
 Significant aspects of the process must be visible to those responsible for the outcome. Transparency requires those aspects be defined by a common standard so observers share a common understanding of what is being seen.
@@ -24,9 +24,13 @@ For example:
 - Those performing the work and those accepting the work product must share a common definition of “Done”
 
 
-Inspection
+*Inspection*
+
 Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
-Adaptation
+
+
+*Adaptation*
+
 If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation (see Figure 1-2).
 Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of the:
  - Sprint Planning
