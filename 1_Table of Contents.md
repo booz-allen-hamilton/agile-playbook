@@ -48,7 +48,7 @@
 - Play: Take an empirical view
     - Practice: Experiment and measure results
 
-[Conclusion] (x-Conclusion.md)
+[Conclusion] (5_Conclusion.md)
 
 - Special Topics
   - [Perspective on Organizational Agility] (OrganizationalAgility.md)
