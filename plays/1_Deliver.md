@@ -56,10 +56,9 @@ https://www.scrumalliance.org/why-scrum/scrum-guide
 Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum ceremonies, while introducing the flow theory of kanban.  Scrumban was developed in 2009 by Corey Ladas to move teams from scrum which is a good starting point in agile, to kanban, which enables flow for delivery on demand.  The primary delivery impact is that te scrum sprint timebox no longer applies, instead a work in progress limit is set to enable team members to pull work on demand without staunching to flow to completion. Scrumban has since evolved some of its own practices.  
 
 Examples of unique practices to Scrumban include:
- - *Bucket size planning* Was developed to enable long-term planning where a work item goes from the idea bucket, to a goal, then to the story or requirement.  The final bucket are items ready to be sent to the Kanban board to be pulled and worked.
- - *Lead and cycle time* By measuring the time that is taken from task creation or beginning work on a task to its completion, this is a way to examine common impediments or eloaboration issues
- - *On demand planning* This practice moves away from planing on a regular cadence, instead hold planning sessions when more work is needed.  Items to be pulled into the kanban board are priritized at this time, to inform the team the order to pull in items.
-
+ - *Bucket size planning* was developed to enable long-term planning where a work item goes from the idea bucket, to a goal bucket, then to the story bucket.  The story bucket holds items ready to be considered during an on demand planning session.
+ - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the kanban board are priritized and finalized and added to the Kanban board.
+ - *Cycle time* Is a metreic captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
 
 
 
@@ -68,6 +67,6 @@ Examples of unique practices to Scrumban include:
 *Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 give a brief description of Kanban, continuous flow, and limiting work in process to raise throughput.
-Talk about how it is a very advanced technique reserved for the most disciplined teams. TESTING TESTING......
+Talk about how it is a very advanced technique reserved for the most disciplined teams. 
 
 
