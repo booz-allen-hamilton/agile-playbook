@@ -1,4 +1,4 @@
-#Updated Outline of our Agile Playbook#
+#Table of Content for our Agile Playbook#
 [Introduction] (Introduction.md)
 
 [An Agile Lifecycle] (AnAgileLifecycle.md)
