@@ -1,15 +1,15 @@
 #Updated Outline of our Agile Playbook#
 [Introduction] (Introduction.md)
 
-An Agile Lifecycle
+[An Agile Lifecycle] (AnAgileLifecycle.md)
 
-Delivery
+[Delivery] (plays/1_Delivery.md)
 
 - Play: Start With Scrum
 - Play: Scrumban (Kanban training wheels)
 - Play: Kanban
 
-Value
+[Value] (plays/2_Value.md)
 
 - Play: Share a Vision inside and outside your team
   - Practice: Roadmap
@@ -19,26 +19,26 @@ Value
   - Practice: User Stories
   - Practice: Personas
 
-Teams
+[Teams] (plays/3_Teams.md)
 
 - Play: Organize as scrum teams
   - Practice: Keep Consistent teams
   - Practice: Create coheasive teams through chartering
   - Practice: Colocate
   
-Craftsmanship
+[Craftsmanship] (plays/4_Craftsmanship.md)
 
 - Play: Build in quality
 - Play: Find oppotunities for Automation
 
-Measuring and Tracking
+[Measuring and Tracking] (plays/5_Measurement.md)
 
-Management
+[Management] (plays/6_Management.md)
 - Play: Evolution from manager to leader
 - Play: Evolving to faciltator
 - Play: Moving to coach
 
-Inspect and Adapt(or Adaptation)
+[Adaptation] (plays/7_Adaptation)
 
 - Play: Reflect on how the team woks together
     - Practice: If nothing else, use retrosectives
