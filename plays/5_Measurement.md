@@ -55,19 +55,18 @@ The most essnetial element for sprint planning is a groomed, prioritized backlog
 
 Once there is clarity around the user stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings a deeper level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
 
-The estimating exercise will inform the sprint plannig process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox.  .  The measurement of progress in the sprint is a burndown chart and kanban boards as described in this section.
+The estimating exercise will inform the sprint plannig process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox based on previous velocity (story points) or days in the sprint (ideal days).   The measurement of progress in the sprint is captured in a burndown chart and the kanban boards provides more granual information on user story status (blockers and journey toward completion).
 
 ### Managing for multiple Sprints (e.g. a Release)
-A release is built from one to many sprints.  Therefore the process of release planning is a scaling of  the sprint process but with less the farther the sprint is in the future and the lower the item on the backlog.  Just as there are discussion of user stories and estimation in sprint planning, release planning attempts to plan a high level assessment of sprint contents based on the release timebox or scope (but not both). 
+A release is built from one to many sprints.  Therefore the process of release planning is a scaling of  the sprint planning and measurrement process but with less detail at a higher level. Releases often look at assigning Epics to one or many sprints, with high level understanding of the user needs and work estimates.  The most important Epics are executed first to give the user the most value first.
 
-Releases often look at assigning Epics to one or many sprints, with high level understanding of the user needs and work estimates.  The most important Epics are executed first to give the user the most value first.  As the sprints as executed, the work is evaluated at the end to repriorotize the backlog as needed, as well as determine if the product is ready for release.  
+For release planning, the most time and elboration should be spent on the most high value items, as assessed by the users.  As the sprints progress, each will be deliverying items with deminishing value.  Therefore, the most effort in estimation and detailed planning should be conducted on the first sprint, with continued elboration to gain details as the sprints progress.  As the sprints as executed, the work is evaluated at the end to repriorotize the backlog as needed, as well as determine if the product is ready for release.  
 
-If the product is not ready for the release, backlog grooming will continue to break down the epics into user stories, and elaborate on the user stories in preparation for sprint planning.  The progress of releases will be measured by burnup charts as described above.
+The progress of releases will be measured by burnup charts as described above.
 
 
 ### Executing a Strategy (e.g. multiple Releases)
 Just as the release is based upon muliple sprints, the strategy is based on muliple releases which would comprise a roadmap. The burnup charts from multiple releases can show patterns to determine the long term ability to sustainably execute the strategy. The burnup charts can show if work is often added late in the release, or if work is removed as it will not be ready or has become irrelvant.  
-
 
 
 
