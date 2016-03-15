@@ -1,4 +1,4 @@
-###APPENDIX D: VERSIONONE® AGILE DEVELOPMENT SURVEY
+###APPENDIX B: VERSIONONE® AGILE DEVELOPMENT SURVEY
 
 VersionOne®, an enterprise software company dedicated to Agile lifecycle management, surveyed software professionals regarding their use of Agile in relation to current trends, successes, and lessons learned. Results of this survey were presented in the State  of Agile Development Survey for 2012 (VersionOne®)8. An overview of the findings in several areas that would help a project team determine where they fall in the continuum of incorporating Agile best practices in their approach is as follows:
 * **Agile Adoption and Use** > Organizations are moving from implementing single Agile teams/projects to multiple Agile teams/ projects; use of Scrum and Kanban methodologies were prevalent.
