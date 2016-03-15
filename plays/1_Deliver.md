@@ -57,7 +57,7 @@ Scrumban is derived from Scrum and Kanban (described below) as the name would su
 
 
 #Kanban
-*Try Kanban on only the most disciplined teams and when **throughput** is paramount*
+*Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 give a brief description of Kanban, continuous flow, and limiting work in process to raise throughput.
 Talk about how it is a very advanced technique reserved for the most disciplined teams. TESTING TESTING......
