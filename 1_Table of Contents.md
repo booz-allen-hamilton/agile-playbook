@@ -51,8 +51,8 @@
 [Conclusion] (5_Conclusion.md)
 
 - Special Topics
-  - [Perspective on Organizational Agility] (OrganizationalAgility.md)
-  - [Agile Tools] (Tools.md)
+  - [Perspective on Organizational Agility] (6_OrganizationalAgility.md)
+  - [Agile Tools] (7_Tools.md)
 
 - Appendices
   - [Appendix A: GAO Report] (US-GAO-Report.md)
