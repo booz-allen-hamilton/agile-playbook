@@ -60,6 +60,7 @@ Examples of unique practices to Scrumban include:
  - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the kanban board are priritized and finalized and added to the Kanban board.
  - *Cycle time* Is a metreic captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
 
+![Scrumban Pros and Cons] (/figures/Scrumban.JPG)
 
 References: 
 Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
@@ -70,4 +71,4 @@ Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
 give a brief description of Kanban, continuous flow, and limiting work in process to raise throughput.
 Talk about how it is a very advanced technique reserved for the most disciplined teams.  
 
-
+![Kanban Pros and Cons] (/figures/Kanban.JPG)
