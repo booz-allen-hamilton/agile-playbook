@@ -57,15 +57,13 @@ Unit tests should be included in the definition of “Done” for any work item,
 
 ##Build in quality... but check again
 
-### Use test first development
+
+### Use test driven development
 TDD is a software development practice that increases code quality by ensuring high unit test coverage.  Unit test coverage has been proven to increase overall code quaility by providing the first level of test on which later testing continues to check additional quality factors.  When using TDD,  developers write a unit test first, then produce only enough code to pass that test, then refactor the code to elegantly integrate into the existing codebase. When diligently followed, this practice builds the foundation for a robust, tested body of code.
 
 TDD is performed whenever code is written. It is **not a testing methodology**; it is a software development technique. The objective is 100-percent coverage for all software with automation. The automated TDD test suite is generally executed with each build, but at least once a day as part of the continuous integration to check the state of the software. Automatic TDD tests executed during a automated integration builds serve to immediately identify new defects, or integration issues.
 
 The system's correct behavior is well defined in the body of tests that developers can confidently make changes and deploy.  These tests augment any code documentation by demonstrating the funcationality enabling developers unfmailiar with the code to quickly become zunderstand with the intended code behavior. 
-
-## Testing
-Testing incremental functionalities of the product developed by the agile team involves reviewing the User Stories to ensure they meet the definition of “Done,” are considered complete, and have passed the acceptance testing criteria. Preparing for testing activities includes any artifacts required to successfully execute testing, such as the scripts, code, data, etc. The objective of any testing activity is to determine whether the incremental product developed satisfies the intended requirements and also proves to be a testable component. Along with Functional and Regression Testing activities, Automated Testing, and Acceptance Testing are also performed.
 
 ###Functional testing
 The team performs **functional testing** to ensure that the functional behavior of the product (or system) corresponds to its specifications, which involves testing one component at a time. Unit Testing focuses on testing the smallest individual units or components of the build, application modification, or system, to verify that each component is built to design specifications. Functional testing is performed after the component has been unit tested to verify functionality against the requirements and specifications, before system and integration testing.
