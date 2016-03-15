@@ -1,5 +1,5 @@
  
-APPENDIX B: GLOSSARY
+APPENDIX D: GLOSSARY
 
 **Burndown Chart** > Simple, easy-to-understand graphical representation of “Work Remaining” versus “Time Remaining.”
 
