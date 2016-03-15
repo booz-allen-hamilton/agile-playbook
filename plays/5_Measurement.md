@@ -7,7 +7,7 @@ Planning, status, and metrics - Oh my!
 
 Estimating work
 -----------------------------------------
-Estimation on software projects is extremely difficult, often costly, and possibly time-consuming. We must acknowledge that an estimate _is an estimate_, ~~and continuously set that expectation~~.
+Estimation on software projects is extremely difficult, often costly, and possibly time-consuming. We must acknowledge that an estimate _is an estimate_.
 
 The image below is a thought experiment comparing the accuracy of an estimate and the effort required to obtain it.  It is meant to show that, regardless of our invested effort, an estimate will never be completely accurate and may run the risk of becoming less accurate if we "overthink" things.  Our goal is always to find the balance between effort and accuracy, achieving a "good enough" estimate as quickly as possible.
 
@@ -53,11 +53,9 @@ The time horizons of planning and status
 ### Managing for the near term, the Sprint
 The most essnetial element for sprint planning is a prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  The discussion in the sprint plannning meeting can center around details of the user story candidates for the sprint.  The details could be business logic, interface design, or technical implementation.  This discussion could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
 
-Once there is clarity around the User Stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings an additional level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
+Once there is clarity around the user stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings a deeper level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
 
-Definition of done for each user story will be discussed. Questions such as: Will this be full stack development? Will there be stubs?  What level of testing will be completed?  Full regression testing? etc  The discussion will contribute to the overall understanding and subsequent agreement of "done" for the sprint.
-
-The estimating exercise will inform the sprint plannig process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and based on estimation, will fit into the sprint timebox.  Once the team has collectively commited to the sprint contents, the sprint work can start.  The measurement of progress in the sprint is a burndown chart and kanban boards as described in this section.
+The estimating exercise will inform the sprint plannig process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox.  .  The measurement of progress in the sprint is a burndown chart and kanban boards as described in this section.
 
 ### Managing for multiple Sprints (e.g. a Release)
 A release is built from one to many sprints.  Therefore the process of release planning is a scaling of  the sprint process but with less the farther the sprint is in the future and the lower the item on the backlog.  Just as there are discussion of user stories and estimation in sprint planning, release planning attempts to plan a high level assessment of sprint contents based on the release timebox or scope (but not both). 
