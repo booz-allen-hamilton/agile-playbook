@@ -76,15 +76,12 @@ On bigger teams, it's reasonable that people may live in their specialty more th
 Teams become better teams by working together over time. But there are also practices teams can put into place that can facilitate the teaming process. A couple we recommend are:
 
 #### Retrospectives
-If a team must only pick one agile practice to adopt, it should be retrospectives! Retrospectives are a vital part of a healthy team. They take the form of a regular meeting for a team to be able to pause and reflect on how things are going, and adust their process, and reflect areas of improvement to each other. The simplest form of a retrospective would be to come together and ask a team questions like, What are we doing well? What aren't we doing well? And what would we change for the next few weeks? Retrospectives should be common enough that the team is comfortable experiementing with things. If what you try doesn't work out, you can talk about it at the next retrospective and try something different next time. Many teams fall into a trap of skipping retrospectives when pressure is on. Don't do it! Treat retrospectives with importance, and reach out to another facilitator or a coach if you're having trouble finding value in the meeting. Holding a retrospective about once per month is a healthy practice for most teams.
+Retrospectives should be common enough that the team is comfortable experiementing with things. If what you try doesn't work out, you can talk about it at the next retrospective and try something different next time. Many teams fall into a trap of skipping retrospectives when pressure is on.  Treat retrospectives with importance, they are a vital ingredient to a high performaning team. 
 
 _Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always recommend to grow in your skill conducting retrospectives. But there is no better learning than by doing.
 
 #### Chartering
 At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
-
-#### Eat something
-Most teams love food. Look for ways to get lunch together, or perhaps everyone can bring a dish or snack they like to the next retrospective. Doing something together other than typical work helps us build trust and transparency with each other, which are crucial for long-term success.
 
 
 ### On physical proximity
