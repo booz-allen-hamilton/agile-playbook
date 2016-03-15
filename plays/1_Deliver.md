@@ -51,11 +51,9 @@ https://www.scrumalliance.org/why-scrum/scrum-guide
 
 #ScrumBan
 
-*ScrumBan for teams that need or want to release as soon as possible*
+*If Scrum is too restrictive with changing priorities within a 2 week delivery.  Consider scrumban to provide ceremonies with the flexibility of delivery.*
 
-If Scrum is too restrictive with changing priorities within a 2 week delivery.  Consider scrumban to provide ceremonies with the flexibility of delivery.  
-
-
+Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum deliery framework, while introducing the flow theory of kanban.  
 
 
 #Kanban
