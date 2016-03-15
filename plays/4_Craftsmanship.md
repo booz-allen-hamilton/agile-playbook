@@ -56,7 +56,7 @@ Unit tests should be included in the definition of “Done” for any work item,
 
 
 ##Build in quality... but check again
-
+Testing incremental functionalities of the product developed by the agile team involves reviewing the User Stories to ensure they meet the definition of “Done,” are considered complete, and have passed the acceptance testing criteria. Preparing for testing activities includes any artifacts required to successfully execute testing, such as the scripts, code, data, etc. The objective of any testing activity is to determine whether the incremental product developed satisfies the intended requirements and also proves to be a testable component. Along with Functional and Regression Testing activities, Automated Testing, and Acceptance Testing are also performed.
 
 ### Use test driven development
 TDD is a software development practice that increases code quality by ensuring high unit test coverage.  Unit test coverage has been proven to increase overall code quaility by providing the first level of test on which later testing continues to check additional quality factors.  When using TDD,  developers write a unit test first, then produce only enough code to pass that test, then refactor the code to elegantly integrate into the existing codebase. When diligently followed, this practice builds the foundation for a robust, tested body of code.
