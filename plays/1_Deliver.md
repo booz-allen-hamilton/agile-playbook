@@ -45,13 +45,12 @@ Scrum prescribes four formal events for inspection and adaptation, as described 
 
 References: 
 
-Unless otherwise specified, all images and content is sourced from Mountain Goat Software, Microsoft Project User Group, or Scrum Alliance:
 https://www.scrumalliance.org/why-scrum/scrum-guide
 
 
 #ScrumBan
 
-*If Scrum is too restrictive with changing priorities within a 2 week delivery.  Consider scrumban to provide ceremonies with the flexibility of delivery.*
+*If Scrum is too restrictive or too many changing priorities within a sprint, consider scrumban to provide the structure of ceremonies with flexibility of delivery.*
 
 Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum ceremonies, while introducing the flow theory of kanban.  Scrumban was developed in 2009 by Corey Ladas to move teams from scrum which is a good starting point in agile, to kanban, which enables flow for delivery on demand.  The primary delivery impact is that te scrum sprint timebox no longer applies, instead a work in progress limit is set to enable team members to pull work on demand without staunching to flow to completion. Scrumban has since evolved some of its own practices.  
 
@@ -61,12 +60,13 @@ Examples of unique practices to Scrumban include:
  - *Cycle time* Is a metreic captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
 
 
-
+References: 
+Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
 
 #Kanban
 *Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 give a brief description of Kanban, continuous flow, and limiting work in process to raise throughput.
-Talk about how it is a very advanced technique reserved for the most disciplined teams. 
+Talk about how it is a very advanced technique reserved for the most disciplined teams.  
 
 
