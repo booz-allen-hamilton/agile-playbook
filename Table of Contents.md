@@ -56,7 +56,7 @@
 
 - Appendices
   - [Appendix A: GAO Report] (US-GAO-Report.md)
-  - [Appendix B: VersionOne Agile Development Survey] (VersionOne-Agile-Development-Survey.md_
+  - [Appendix B: VersionOne Agile Development Survey] (VersionOne-Agile-Development-Survey.md)
   - [Appendix C: References] (References.md)
   - [Appendix D: Glossary] (Glossary.md)
   - Reading list
