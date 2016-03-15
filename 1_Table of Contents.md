@@ -55,8 +55,8 @@
   - [Agile Tools] (7_Tools.md)
 
 - Appendices
-  - [Appendix A: GAO Report] (US-GAO-Report.md)
-  - [Appendix B: VersionOne Agile Development Survey] (VersionOne-Agile-Development-Survey.md)
-  - [Appendix C: References] (References.md)
-  - [Appendix D: Glossary] (Glossary.md)
+  - [Appendix A: GAO Report] (8_US-GAO-Report.md)
+  - [Appendix B: VersionOne Agile Development Survey] (9_VersionOne-Agile-Development-Survey.md)
+  - [Appendix C: References] (10_References.md)
+  - [Appendix D: Glossary] (11_Glossary.md)
   - Reading list
