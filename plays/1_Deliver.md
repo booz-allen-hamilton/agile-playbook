@@ -3,24 +3,39 @@
 > Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
 
-# Probably SPARC
+The agile software world uses Scrum extensively. Scrum is an powerful, lightweight product delivery framework that has existed for 25 years. The definitive description of the framework is maintained by its creators in the Scrum Guides.
 
-The agile software world [uses Scrum extensively](http://stateofagile.versionone.com).
-Scrum is an powerful, lightweight product delivery framework that has existed for 25 years.
-The definitive description of the framework is maintained by its creators in the [Scrum Guides](http://www.scrumguides.org).
+#Scrum
+Scrum was developed with the goal of producing value at a faster, more predictable, and sustainable pace than traditional approaches, all while enabling project teams to adapt more readily to changing requirements.  Refer to the Scrum Guides
+Traditionally, projects undergo large amounts of time and effort before the project is released.  In such cases, two distinct processes occur.  First, the product is designed and developed.  Then the product is demonstrated or released to the customer.  Many times, the customer is unhappy with the result and wants changes.  The more fundamental the changes, the more costly.  
+Scrum mitigates the cost of changing requirements by incorporating frequent demos and feedback into short development iterations.  Scrum breaks work down into small, understandable, and well-defined requirements.  These requirements are placed into a prioritized list known as the product backlog.  The project is worked in short (usually 2-4 week) iterations known as sprints.  During a sprint, one or more small, self-organized teams (5-9 members) take items off of the product backlog and complete them.  At the end of every sprint, each team demonstrates the working software which they produced during the sprint.  During the demo, the team gathers feedback which will help shape the direction of the next sprint 
+Practically, this means that design decisions are not made way ahead of time, but rather right before or even during active development.  Instead of having heavy, top-down design, design emerges and evolves over several iterations—develop, demo, gather feedback, incorporate feedback, develop, demo…
 
-talk about how scrum is great for pumping out software on a regular basis.
-talk about how scrum is especially good when new feature development is the primary objective.
-talk about how it is a great entry point to the agile world.
-provide a brief description ofthe scrum process, possibly quoting words from the scrum guide.
-Include a picture of the scrum process.  We have one but it is not the best.
+Over the course of several sprints, a picture of progress and direction emerges.  Customers and management are kept informed through progress charts (known as burndowns) and end of sprint-demos.  This process enables customers and product managers to offer near real-time feedback and direction to the project without incurring the high-costs of micromanagement.
+If scrum is properly followed, many of the traditional problems associated with complex projects are avoided.  The frequent feedback prevents projects from spending too much time going in the wrong direction.  Furthermore, due to its iterative nature, projects can be terminated early and still deliver a functional, though not ideal, product.
 
-| Play: | _Start with Scrum for agile delivery, but with an eye for "agility"_ |
-| ---:  | :---------------------------------------------------------- |
-| D1    | We believe that teams looking to adopt an Agile mindset should start with Scrum. It is a lightweight and straightfoward framework that can quickly accelerate software delivery. **As a point of caution,** teams should take stock to be grounded in the [Agile Manifesto](http://agilemanifesto.org). Over time, the team's implementation of Scrum should change as the team matures and the work moves forward. |
+#Scrum Theory
+Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
+Transparency
+Significant aspects of the process must be visible to those responsible for the outcome. Transparency requires those aspects be defined by a common standard so observers share a common understanding of what is being seen.
+For example:
+- A common language referring to the process must be shared by all participants; and,
+- Those performing the work and those accepting the work product must share a common definition of “Done”
+Inspection
+Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+Adaptation
+If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation (see Figure 1-2).
+Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of the:
+ - Sprint Planning
+ - Daily Scrum
+ - Sprint Review
+ - Sprint Retrospective
 
-give a brief description of scrumban - essnetially it is scrum where the team is capable and encouraged to release as often as possible.  primarily the scrum framework serves to give the team reoccurring opportunities to regularly plan, show, and reflect on how they work, when such things do not happen naturally.  
-it is really good for operations and maitenance teams who have to pump out bug fixes and patches as soon as possible.
+
+References: 
+Unless otherwise specified, all images and content is sourced from Mountain Goat Software, Microsoft Project User Group, or Scrum Alliance:
+https://www.scrumalliance.org/why-scrum/scrum-guide
+
 
 | Play: | _ScrumBan for teams that need or want to release as soon as possible _ |
 | ---:  | :---------------------------------------------------------- |
@@ -34,22 +49,3 @@ Talk about how it is a very advanced technique reserved for the most disciplined
 | D3    |  |
 
 
-
-
---------------
-Legacy text
----------------
-
-More than 70 percent of the organizations using Agile have adopted Scrum or Scrum variants, as noted from the survey results conducted by VersionOne®. (See Appendix D for additional details.) Agile programs at Booz Allen have also overwhelmingly employed Scrum as the foundational framework for implementing the Agile mindset through a set of proven repeatable results using Agile practices. For this reason, we have used Scrum as the basis for developing Booz Allen’s Agile Development Model and recommended it as a team’s entry point into Agile development, with other Agile frameworks (e.g. Kanban) reserved for more experienced Agile teams.
-
-For newly formed Agile teams, the recommended approach is to integrate Booz Allen’s Agile Development Model with the capabilities offered through our SmartSuite integrated lifecycle management tool set. The iterative nature of Agile and associated processes that comprise the Agile Development Model (see Figure 1) are presented in Booz Allen’s Organizational Standard Process (OSP), which provides a set of standard engineering lifecycle processes for use by systems and software development projects. The OSP is housed in the Process Director (PD) application (Thin Client version) and is accessible online.
-
-
-###2.1	SCRUM AS A FRAMEWORK
-Scrum is an iterative, incremental Agile framework for managing software development projects. Its focus is “a flexible, holistic product development strategy where a development team works as a unit to reach a common goal” as opposed to a “traditional, sequential approach.”  Our Agile Development Model (See Figure 1) incorporates several Scrum practices that are described later in this playbook. But first, we introduce you to key terminology. Bear in mind that Scrum employs time-boxed events (defined periods of time during which a task must be completed), including Product Backlog Development, Release Planning Meeting, Sprint Planning Meeting, Sprint, Sprint Review, Sprint Retrospective, and Daily Standup Meetings.
-
-User Stories depict high-level definitions of requirements that address specific functionality of the product and are planned and executed across a series of Sprints (tightly time-boxed events that include repetitive development cycles). The project team uses Burndown Charts to track estimated work versus actual work to ensure development activities execute on schedule. Velocity determines how much Product Backlog effort the team can take on in a given Sprint. Daily Standup Meetings promote team communication and interaction on a regular and consistent basis. These meetings also identify potential blockers or impediments in the workflow, which are then handled outside the Daily Standup Meeting by only the required stakeholders.
-
-Sprints, which generally last about a month, provide a process for the team to design, code, build, test, and then potentially release functioning features of a given product. The process begins with Release Planning, followed by Sprint Planning, and Sprint Execution. Upon conclusion of the Sprint, the team conducts a Sprint Review to discuss what has been accomplished (demonstration of new features created during the Sprint) and then concludes with a Sprint Retrospective (similar to lessons learned).
-
-It is important to note that, in many cases, the project team may not release the software to system end users after each Sprint, but rather focus on incrementally creating working software for the Product Owner to review and validate against expectations. **Figure 1** on the following page captures the Booz Allen approach to Agile development.
