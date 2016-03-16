@@ -6,4 +6,13 @@ If a team must only pick one agile practice to adopt, it should be retrospective
 _Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always recommend to grow in your skill conducting retrospectives. But there is no better learning than by doing.
 
 #### Play - Take an empirical view
-Kanban refers to this, maybe take a page from that?
+Kanban often refers to doing experiements look at the current process and help determine better ways to execute.  To start, review areas that there is often wait time involved, regular quality issues, or unoredictability where there should be predictability.  Next reach back to elementary school and borrow from the scientific method basics:
+ 
+ - Define the problem
+ - Form a Hypothesis
+ - Define The resources you’ll need from your team
+ - Conduct Experiment - Always have a control group and an experiment with only on variable at a time
+ - Gather Data: Compiling test data once completed
+ - Take action on findings
+
+Keep and open mind on experiments to conduct, these can include technical, interface, process, or people.  
