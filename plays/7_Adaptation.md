@@ -5,5 +5,5 @@ If a team must only pick one agile practice to adopt, it should be retrospective
 
 _Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always recommend to grow in your skill conducting retrospectives. But there is no better learning than by doing.
 
-#### Scientific experiments
+#### Play - Take an empirical view
 Kanban refers to this, maybe take a page from that?
