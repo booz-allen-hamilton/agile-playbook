@@ -23,11 +23,7 @@ With a Vision Statement and potentially a Vision Box in place, a Product Roadmap
 Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
 
 
-##Our Vision is Defined - Now What?
-
-> *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
-
-Play: Be informed by end users
+##Our Vision is Defined - Now What?  Backlogs!
 
 Now that you know your product vision and business needs, have clearly defined the players involved, and have ideas and to-dos for miles - now what? How do we organize these thousands of wants and wishes into an actionable plan that not only will be of value, but effective? Your answer is to create a product backlog. A backlog can mean many things to many different people and industries; however, the foundational principle that a backlog of work is some sort of list of all of the work you want to do still applies in scrum. 
 
@@ -41,6 +37,11 @@ A backlog is made of epics and user stories. User stories are simply something a
 A product backlog is a prioritized list of product requirements presented as User Stories, updated at least weekly, and ranked and estimated using a scale based on Story Points. It serves as a high-level view of the work that must be completed to create the product and it is typically owned by the Product Owner. 
 A sprint backlog is a detailed list of all tasks from the product backlog that must be completed based on the user stories assigned to a given sprint, updated daily, modified through the sprint process, and classified as “Done” in accordance with the team’s definition.
 
+
+-----
+Play - Be informed by real users
+-----
+> *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
 
 ###Before Backlog Creation Define Personas 
 Personas can be used to get started with the requirements gathering process.  Each persona should capture the user and their individual needs.  Create a template with an area to draw a picture of the user, and separate spaces  to describe the user personally, but also describe their desired goals, use cases, and desires for the software.  
