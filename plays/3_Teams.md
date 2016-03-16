@@ -5,7 +5,9 @@
 > At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 
-### Introduction
+--------------
+Play- Organize as scrum teams
+--------------
 Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile teams members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
 
 ### The Scrum Team
@@ -84,7 +86,7 @@ _Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always r
 At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
 
 
-### On physical proximity
+### Practice - Colocate
 
 #### Colocation is still best
 We still recommend colocating agile teams as much as possible. Being together in one room, or close proximity allows a lot of things that are much tougher otherwise: You can pull together an impromptu meeting or demo more easily. You can put an idea on a whiteboard, or tape up some designs on the wall and get feedback quickly. And there's no substitute for hearing your teammates' sighs, squeals, and applause, signaling you to what's happening on the project right this moment. Our brains are evolved to communicate with much more than words -- seeing each others' faces is just as important as the language being used.
