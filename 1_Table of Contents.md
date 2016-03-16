@@ -5,7 +5,7 @@
 
 [Getting Started Graphic] (4_GettingStarted_Graphic.md)
 
-[Delivery] (plays/1_Deliver.md)
+[Deliver] (plays/1_Deliver.md)
 
 - Play: Start With Scrum
 - Play: Getting more agile? Move on to ScrumBan
