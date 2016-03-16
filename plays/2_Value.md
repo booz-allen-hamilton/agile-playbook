@@ -43,13 +43,13 @@ Play - Be informed by real users
 -----
 > *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
 
-###Before Backlog Creation Define Personas 
+###Practice -  Define Personas 
 Personas can be used to get started with the requirements gathering process.  Each persona should capture the user and their individual needs.  Create a template with an area to draw a picture of the user, and separate spaces  to describe the user personally, but also describe their desired goals, use cases, and desires for the software.  
 Persona goals can then be used to create Epics, which will lead to user stories.  … User Story Creation -> Discuss difference between “I need the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software”.  Can reuse the diagram they already have about bad vs good user stories.  The Product Owner should play an active role in ensuring that the User Stories will ultimately deliver the desired value to the stakeholders by driving the communication of business value at key times like Sprint Planning and Release Planning, but also as a day-to-day integrated member of the development team, available for conversations and consulting as progress is made.
 End result: Backlog creation ….transition into next topic
 
 
-###Epic & User Story Components
+###Practice - Epics and user stories
 +Component
 +Definition
 +Value Statement
