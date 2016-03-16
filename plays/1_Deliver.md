@@ -3,7 +3,7 @@
 > Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
 
-#Scrum
+#Play - Start with Scrum
 
 *Start with Scrum for agile delivery, but with an eye for "agility"*
 
@@ -49,7 +49,7 @@ References:
 https://www.scrumalliance.org/why-scrum/scrum-guide
 
 
-#ScrumBan
+#Play - Getting more agile? Move on to ScrumBan
 
 *If Scrum is too restrictive or too many changing priorities within a sprint, consider scrumban to provide the structure of ceremonies with flexibility of delivery.*
 
@@ -65,7 +65,7 @@ Examples of unique practices to Scrumban include:
 References: 
 Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
 
-#Kanban
+#PLay - If you are ready to kick off the training wheels, move to Kanban
 *Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 Kanban is a framework adopted from industrial engineering.  Originally it was developed to be mindful of organizational change management which is apparent in the four original principles:
