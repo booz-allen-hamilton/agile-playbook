@@ -10,7 +10,7 @@ Play- Organize as scrum teams
 --------------
 Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile teams members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
 
-### The Scrum Team
+### Practice: Build the scrum team
 Scrum gives us a simple model for a team, and we believe this is a valuable frame for most agile teams. Scrum suggests just three roles:
 - Scrum Master 
 - Product Owner
@@ -74,7 +74,7 @@ On agile teams, there should be less emphasis on being a "tester" or a "BA" or a
 On bigger teams, it's reasonable that people may live in their specialty more than they will on a smaller team. Ultimately this is a balance that the team, with all its local context, should talk about and adapt, through inspection and conversation.
 
 
-### Practices for building stronger teams
+### Practice: Build a cohesive team
 Teams become better teams by working together over time. But there are also practices teams can put into place that can facilitate the teaming process. A couple we recommend are:
 
 #### Retrospectives
