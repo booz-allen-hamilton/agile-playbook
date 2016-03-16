@@ -65,7 +65,7 @@ Examples of unique practices to Scrumban include:
 References: 
 Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
 
-##Play - If you are ready to kick off the training wheels, move to Kanban
+##Play - If you are ready to kick off the training wheels, try to Kanban
 *Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 Kanban is a framework adopted from industrial engineering.  Originally it was developed to be mindful of organizational change management which is apparent in the four original principles:
