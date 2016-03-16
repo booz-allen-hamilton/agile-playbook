@@ -1,3 +1,7 @@
+
+> Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+
 ### Play - Move from manager to faciliator
 
 Self-organized teams inevitably leads to the question; What do project or program managers do now?  Not only do the managers themselves ask the question, but also those who report to them.  The traditional hierarchy is blown up and things get uncomfortable.  The first step to accepting the new way is to acknowledge the manager now is more of a facilitator who embraces servant leadership.
