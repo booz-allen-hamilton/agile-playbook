@@ -42,9 +42,9 @@
     - Practice - Velocity and Effort Variance
 
 [Management] (plays/6_Management.md)
-- Play: Evolution from manager to leader
-- Play: Evolving to faciltator
-- Play: Moving to coach
+- Play: Evolution from manager to facilitator
+- Play: Embrace servant leadership
+- Play: Move to coach
 
 [Adaptation] (plays/7_Adaptation)
 - Play: Reflect on how the team woks together
