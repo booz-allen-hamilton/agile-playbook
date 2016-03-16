@@ -8,18 +8,18 @@
 [Delivery] (plays/1_Deliver.md)
 
 - Play: Start With Scrum
-- Play: Scrumban (Kanban training wheels)
-- Play: Kanban
+- Play: Getting more agile? Move on to ScrumBan
+- Play: If you are ready to kick off the training wheels, try Kanban
 
 [Value] (plays/2_Value.md)
 
 - Play: Share a Vision inside and outside your team
   - Practice: Roadmap
--Play: Build the most valuable thing first
+-Play: Build a backlog
   - Practice: Prioritized backlog
 - Play: Be informed by real users
-  - Practice: User Stories
   - Practice: Personas
+  - Practice: User Stories
 
 [Teams] (plays/3_Teams.md)
 
@@ -34,6 +34,12 @@
 - Play: Find oppotunities for Automation
 
 [Measuring and Tracking] (plays/5_Measurement.md)
+ - Play - Estimate your work
+    - Practice - Estimatie size with story points
+    - Practice - Estimate Size with Ideal Days
+ - Play - Communicate the plan and status
+ - Play - Collect Metrics
+    - Practice - Velocity and Effort Variance
 
 [Management] (plays/6_Management.md)
 - Play: Evolution from manager to leader
@@ -41,12 +47,9 @@
 - Play: Moving to coach
 
 [Adaptation] (plays/7_Adaptation)
-
 - Play: Reflect on how the team woks together
-    - Practice: If nothing else, use retrosectives
-    - Practice: Retrospectives to tune and improve the team
 - Play: Take an empirical view
-    - Practice: Experiment and measure results
+
 
 [Conclusion] (5_Conclusion.md)
 
