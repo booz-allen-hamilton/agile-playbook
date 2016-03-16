@@ -5,7 +5,7 @@
 
 [Getting Started Graphic] (4_GettingStarted_Graphic.md)
 
-[Delivery] (plays/1_Delivery.md)
+[Delivery] (plays/1_Deliver.md)
 
 - Play: Start With Scrum
 - Play: Scrumban (Kanban training wheels)
