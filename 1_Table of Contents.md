@@ -1,4 +1,4 @@
-#Table of Content for our Agile Playbook#
+#Table of Content for our agile Playbook#
 [Introduction] (2_Introduction.md)
 
 [An Agile Lifecycle] (3_AnAgileLifecycle.md)
