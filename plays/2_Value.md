@@ -16,14 +16,14 @@ The vision for the project should be encapsulated in a Product Vision Statement 
 ###Vision Box
 If defining the Product Vision Statement is proving a struggle, or there is a need for a slightly more in-depth look into the overall vision before proceeding with planning, a Vision Box is an excellent, engaging, and, often, fun exercise to define the vision and value of a project. [ Elaborate ]
 
-###Product Roadmap
+###Practice -  Roadmap
 With a Vision Statement and potentially a Vision Box in place, a Product Roadmap should be created to consider more specific (although still high-level) objectives and direction for the project.  Be sure to include the ultimate project goals in the Roadmap, keeping in mind their value added and the desired outcomes from the customer’s point of view.  It should loosely encapsulate the progression of development as well as the overall vision.  Rough sizing of work and prioritization should also occur as a part of the Product Roadmap creation process.
 
 ###Release Map
 Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
 
 
-##Our Vision is Defined - Now What?  Backlogs!
+##Play - Our Vision is Defined - Now What?  Build a backlog
 
 Now that you know your product vision and business needs, have clearly defined the players involved, and have ideas and to-dos for miles - now what? How do we organize these thousands of wants and wishes into an actionable plan that not only will be of value, but effective? Your answer is to create a product backlog. A backlog can mean many things to many different people and industries; however, the foundational principle that a backlog of work is some sort of list of all of the work you want to do still applies in scrum. 
 
@@ -33,7 +33,7 @@ Treat your backlog as a “catch all” - as long as the item directly correlate
 ###Backlog Creation
 A backlog is made of epics and user stories. User stories are simply something a user wants whereas epics are large user stories that need to be broken down further into a capacity that the team can actually execute. 
 
-###Types of Backlogs: Product & Sprint
+###Practice -  Product & Sprint
 A product backlog is a prioritized list of product requirements presented as User Stories, updated at least weekly, and ranked and estimated using a scale based on Story Points. It serves as a high-level view of the work that must be completed to create the product and it is typically owned by the Product Owner. 
 A sprint backlog is a detailed list of all tasks from the product backlog that must be completed based on the user stories assigned to a given sprint, updated daily, modified through the sprint process, and classified as “Done” in accordance with the team’s definition.
 
