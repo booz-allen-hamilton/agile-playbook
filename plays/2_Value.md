@@ -5,7 +5,7 @@
 > Business people and developers must work together daily throughout the project.
 
 -----
-Communicating Vision
+Play: Communicate a vision
 -----
 
 The vision is the foundation upon which product decisions are made.  When at critical junctures, turn to the visiosn to help determine which direction will help the vision become a material reality.  At the team and individual level, the vision provides a common mission to rally around, and help understand the long term goals, as well as incremental goals.
@@ -26,6 +26,8 @@ Once the Roadmap is complete, a Release Plan may be created for the first releas
 ##Our Vision is Defined - Now What?
 
 > *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
+
+Play: Be informed by end users
 
 Now that you know your product vision and business needs, have clearly defined the players involved, and have ideas and to-dos for miles - now what? How do we organize these thousands of wants and wishes into an actionable plan that not only will be of value, but effective? Your answer is to create a product backlog. A backlog can mean many things to many different people and industries; however, the foundational principle that a backlog of work is some sort of list of all of the work you want to do still applies in scrum. 
 
