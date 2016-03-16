@@ -9,7 +9,7 @@ We've come to this perspective as software practitioners, living in the trenches
 
 
 ### On delivery and value
-We are explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be:  but it's crucial to consider that, together, we are still one team, with one goal, and we seek a common path to reach that goal.
+We are explicitly acknowledging the relationship between Delivery and Value, and we use terms like Delivery Team and Value Team to help us understand what each others' focus may be:  but it's crucial to consider that, together, we are still one team, with one goal, and we seek a common path to reach that goal.  In the delivery and value sections, we will take a look at plays that will help deliver quality software to users in the shortest intervals possible.
 
 ### On teams
 A team is the core of any agile organization. In a project of two people or two-hundred -- the work happens in teams. And at the core of teams are humans. Just as we seek to build products that delight the humans who use them, we seek to be happier, more productive humans at work, later in the playbook we will address specific areas to support the team and scale.
@@ -21,8 +21,11 @@ Robust, reliable, well designed. These are not things that we just automatically
 
 Delivering great systems requires a dedication to the craft and an eye toward excellence. Technical agility and strength is necessary for teams to be truly agile, the we will explore the many facets of craftsmanship.
 
+### On measurement
+Self organizaed teams still need ways to detetmine estimate their work to determine how much can be delivered when.  In addtion, measuring progress and performance helps the team improve overall.  Agile measurement is a topic that impacts the enire team and no longer is reservred for managers.  We will take a look at som specific mearsurments and discuss their meaning.
+
 ### On management
- Good managers are vital to agile project success, the management section will show how the role takes on a different character as the manager supports the learning and growth of the entire project.
+ In a system with self organizing teams, where is the room for a manager?  What does agile management versus leadership look like and how does this affect everyone on the team?  We will take a look at how the manager leads in a new paradigm.
 
 
 
