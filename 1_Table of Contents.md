@@ -46,7 +46,7 @@
 - Play: Embrace servant leadership
 - Play: Move to coach
 
-[Adaptation] (plays/7_Adaptation)
+[Adaptation] (plays/7_Adaptation.md)
 - Play: Reflect on how the team woks together
 - Play: Take an empirical view
 
