@@ -5,7 +5,7 @@ Planning, status, and metrics - Oh my!
 =========================================
 > *Working software is the primary measure of progress.*
 
-Estimating work
+Play - Estimate your work
 -----------------------------------------
 Estimation on software projects is extremely difficult, often costly, and possibly time-consuming. We must acknowledge that an estimate _is an estimate_.
 
@@ -31,7 +31,7 @@ Considering the thought experiment above, using relative estimation techniques i
 
 ![07 044 13_007b](https://cloud.githubusercontent.com/assets/5417850/10046741/93204824-61d8-11e5-9b93-b9e06705eb22.jpg)
 
-####Estimating Size with Story Points
+####Practice - Estimatie size with story points
 Story Points are unit-less measures of relative size used to capture estimates for software delivery. Most Agile teams employ a scale using the Fibonacci sequence when applying points to a given story (1, 2, 3, 5, 8, 13…). Many Booz Allen Agile teams have found this scale useful because the gaps in the sequence become incrementally larger as the numbers increase. These nonlinear sequences work well because they reflect the greater uncertainty associated with estimates for larger units of work. Determining size relates to the scope of the effort and to estimate size, the following three questions help formulate the team’s assessment:
 
 1. How much work is there?
@@ -41,7 +41,7 @@ Story Points are unit-less measures of relative size used to capture estimates f
 For example, the team may need to deliver a capability that is extremely easy but will require many hours of work, and at the same time, it must deliver another capability of equivalent size that might be considered complex but will require relatively fewer hours.
 A User Story estimated to be 8 Story Points is roughly four times as big in terms of combined effort, complexity, and risk as a User Story estimated at 2 Story Points. It is extremely important to note that Story Point estimate values should not be used to compare across Agile teams. The estimated value of 5 presented by one team could easily equate to an estimated value of 13 by another team. Story Points are used in a variety of ways on Agile projects, but certainly, the most common use is to estimate the Product Backlog.
 
-####Estimating Size with Ideal Days
+####Practice - Estimate Size with Ideal Days
 **Ideal Days** are another measure of relative size used by Agile teams. Unlike Story Points, which are unit-less, Ideal Days are expressed in terms of the ideal time it will take to complete a task (assuming a best-case scenario). Ideal Days do not equate to elapsed time and, like Story Points, must be used in conjunction with the team’s measured Velocity to obtain actual time estimations. Developers must consider the number of hours they are productive in a given work day and use that as one of the variables when estimating. It is standard practice to consider whole numbers only when estimating in terms of Ideal Days.
 Agile teams may choose to use Ideal Days instead of Story Points for a variety of reasons. Because we are more accustomed to estimating in terms of time, it is often easier for project teams new to Agile to understand the concept of Ideal Days. Another strong case can be made for using Ideal Days when estimating work on the Sprint Backlog. During Sprint planning, Delivery teams generally decompose User Stories or capabilities into manageable work tasks that can be completed in fewer than 2 days. At this level, it may be more appropriate to perform Ideal Day estimation.
 
@@ -70,7 +70,7 @@ Just as the release is based upon muliple sprints, the strategy is based on muli
 
 
 
-Communicationg the plan and status
+Play - Communicate the plan and status
 -----------------------------------------
 > *The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.*
 
@@ -99,7 +99,7 @@ Sprint. Team members often enjoy updating the radiators when they have completed
 
 
 
-###COLLECTING METRICS
+###Play - Collect Metrics
 
 > *At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.*
 
@@ -110,7 +110,7 @@ The overall objectives for collecting and analyzing applicable measures, for any
 
 Measures collected during execution of a Sprint include Velocity and Effort Variance, Sprint Burndown Chart, Defect Backlog Severity, and Requirement Volatility. These measures are submitted to Booz Allen’s organizational measurement repository, DataDrill, and reviewed and evaluated by the Systems Review Board (SRB), and will become the recommended metrics for Agile development firm wide.
 
-###Velocity and Effort Variance
+###Practice - Velocity and Effort Variance
 Metrics used to communicate the degree to which User Stories are being completed, as well as the corresponding effort, can be captured through the Sprint Effort Backlog, User Story Progress Indicator, and Velocity. **Velocity** (number of Story Points the team completed within a single, time-boxed Sprint) and **Effort Variance** (at the Sprint level) help to forecast schedule risks and provide a basis for future estimates that can be applied to development activities. Effort Variance is the percentage difference between the planned hours to complete the User Stories in that Sprint (as defined by the definition of “Done”) versus the actual hourly effort.
 The development team sizes the User Stories at the start of the Sprint, estimates the number of hours required to develop and unit test the User Stories, and then distributes the work over the duration of the Sprint(s). Key factors to note:
 * If the Effort Variance is above 15 percent, but Velocity remains on pace, a cost overrun risk may occur.
