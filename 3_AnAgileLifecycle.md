@@ -48,5 +48,3 @@ This is where the rubber hits the road, so to speak.
 
 Leveraging one of the [agile delivery frameworks](/plays/Delivery.md),
 the team works to transform the needs of their users into valuable, tested, potentially shippable software.
-
-//TODO: What else to say here?
