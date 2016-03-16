@@ -24,8 +24,8 @@
 [Teams] (plays/3_Teams.md)
 
 - Play: Organize as scrum teams
-  - Practice: Keep Consistent teams
-  - Practice: Create coheasive teams through chartering
+  - Practice: Build a scrum team
+  - Practice: Create cohesive teams 
   - Practice: Colocate
   
 [Craftsmanship] (plays/4_Craftsmanship.md)
