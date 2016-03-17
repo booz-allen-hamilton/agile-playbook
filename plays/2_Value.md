@@ -27,7 +27,7 @@ Once the Roadmap is complete, a Release Plan may be created for the first releas
 
 Now that you know your product vision and business needs, have clearly defined the players involved, and have ideas and to-dos for miles - now what? How do we organize these thousands of wants and wishes into an actionable plan that not only will be of value, but effective? Your answer is to create a product backlog. A backlog can mean many things to many different people and industries; however, the foundational principle that a backlog of work is some sort of list of all of the work you want to do still applies in scrum. 
 
-###Backlog Basics: 
+###Backlog Basics
 Treat your backlog as a “catch all” - as long as the item directly correlates to a final product or project goal, then irrespective of if the item is related to true functional work, is an enhancement or even technical debt it can be added to your backlog. Additionally, keep in mind that your backlog will evolve in detail and priority through engagement with the end user . Your backlog should be a living, breathing testament to your product as you will be iteratively refining your backlog as your build your product. Product Backlog items are updated until all features of that product are delivered, which may occur through multiple releases during the project lifecycle. 
 
 ###Backlog Creation
