@@ -157,10 +157,3 @@ In iterative development, it is common for project teams to try to squeeze an ad
 
 ![07 044 13_018c](https://cloud.githubusercontent.com/assets/5417850/10046751/9338124c-61d8-11e5-94f5-1ee492a7e1ce.jpg)
 
-
-
-
-
-
------------
-> ~~The image below shows this  depicts general Estimation Accuracy versus Estimation Effort. It displays the notion that at an arbitrary point in the estimation process, an estimate can no longer achieve increased accuracy. Several relative estimation techniques are based on size (units) rather than effort (hours or days). This playbook discusses Story Points and Ideal Days, which are both used frequently by Agile teams and are recommended Booz Allen practices when applying relative estimation approaches.~~
