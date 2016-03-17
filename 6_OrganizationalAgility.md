@@ -71,11 +71,9 @@ other teams from their perspective of having to O&M.
 
 ####Program Kick-off:
 Train Everyone - BAH has in-house experts to train and certify: Agile Fundamentals, Product Owner,
-and all SAFe courses (except SPC)
+and all SAFe courses (except SPC).  BAH has 20+ Agile Coaches who can help perform an Agile Readiness Evaluation in order to prioritize and tackle potential Agile impediments (formulate a plan of action based on results)
 
 
-BAH also has 20+ Agile Coaches. Perform an Agile Readiness Evaluation in order to prioritize and
-tackle potential Agile impediments (formulate a plan of action based on results)
 Prioritization:
 
 Begin at the Portfolio - prioritize Epics and align to strategic themes (LOB?) of the business
