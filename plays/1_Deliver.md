@@ -2,7 +2,7 @@
 
 > Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
-
+> Simplicity--the art of maximizing the amount of work not done--is essential.
 
 ##Play - Start with Scrum
 
