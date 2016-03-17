@@ -54,13 +54,11 @@ Product Owners typically:
 Team members are, of course, the other members of the team, such as testers, developers, designers. They are the people who, collectively, work together to deliver value on the project. They will carry a diverse set of skills and expertise, but they are happy to help out in areas that are not their speciality. Team members, together, take collecitve responsibility for the total solution, rather than "just my job." Team members do whatever they can to help the team meet its sprint goal and build a successful product. 
 
 ### On team size
-Our experience shows that a cross-functional 10-person team is the preferred maximum team size. This size is also supported by PMI-ACP guidelines and follows general Scrum guidelines. This would include having a dedicated person as Scrum Master, and another as Product Owner. As the project size scales beyond 10, the effectiveness of the team, per-person declines, and significantly more time is spent coordinating work. If the scale of the work requires a large team, we need to think about how that can be divided into multiple cross-functional teams that are tightly coordinated, but loosely coupled.
+Our experience shows that a cross-functional 5-7 person team is the preferred maximum team size. This size is also supported by PMI-ACP guidelines and follows general Scrum guidelines. This would include having a dedicated person as Scrum Master, and another as Product Owner. As the project size scales beyond 10, the effectiveness of the team, per-person declines, and significantly more time is spent coordinating work. If the scale of the work requires a large team, we need to think about how that can be divided into multiple cross-functional teams that are tightly coordinated, but loosely coupled.
 
 ### Team structure patterns
 In its simplest frame, agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- with one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team. There are a few patterns we see work well, so we want to explain those in the next three headings:
 
-#### The Squad
-We strongly believe in keeping things as simple as possible. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. This team tends to be very predictible, has great potential for high-performance, and really enjoys working together. 
 
 #### Expanding to a Value Team
 If the mission needs are sufficiently complex or there are complicated relationships with multiple client stakeholders, it might be impossible to have just one Product Owner. In that case, we recommend thinking of a larger Value Team. This team might grow, itself, to around 10 people and would typically have representatives in it like business analysts, compliance interests, end-users, and so-on. In this case, there can still be a Product Owner, but that person is now the Value Team's facilitator, bringing together all those perspectives and creating a common voice, but typically would not be able to trump the other stakeholders. In this setting, the jobs of the Scrum Master and Product Owner become more difficult, trying to arrange coordination of all the interests at play, but it can still be very successful.
@@ -75,12 +73,7 @@ On bigger teams, it's reasonable that people may live in their specialty more th
 
 
 ### Practice: Build a cohesive team
-Teams become better teams by working together over time. But there are also practices teams can put into place that can facilitate the teaming process. A couple we recommend are:
-
-#### Retrospectives
-Retrospectives should be common enough that the team is comfortable experiementing with things. If what you try doesn't work out, you can talk about it at the next retrospective and try something different next time. Many teams fall into a trap of skipping retrospectives when pressure is on.  Treat retrospectives with importance, they are a vital ingredient to a high performaning team. 
-
-_Agile Retrospectives_, by Esther Derby and Diana Larson is the book we always recommend to grow in your skill conducting retrospectives. But there is no better learning than by doing.
+We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictible, has great potential for high-performance, and really enjoys working together. .
 
 #### Chartering
 At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
