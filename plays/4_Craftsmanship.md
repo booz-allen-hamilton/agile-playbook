@@ -126,4 +126,4 @@ This means that we must know there is a failure before one occurs, and build fee
 
 
 ### Seek an agile architecture
-To support changing needs an achritectue to support agile projects must support the current effort as well as any future complexities.  Additionally, software development projects rarely get to start fresh with new technolgies that support loosely coupled solutions, the legacy infrastructure and contruct must be integrated.  Need more information here.
+To support changing needs an achritectue to support agile projects must support the current effort as well as any future complexities. Loosely coupled service oriented architectures are often used to leave room for future changes,  Many project do not have the luxury of starting new and need the legacy infrastructure and construct integrated. When these complexities arise, tailored solutions that take into account latency, or potential performance issues must be developed with the end user experience in mind.  Arcitecture, just like any other part of the development must always keep the agile principles in mind during developement and implementations.
