@@ -7,7 +7,7 @@
 ##Craftsmaship in software
 Craftsmanship is expressed by an agile team taking pride in ownership through simultaneous thoughtful design and an emphasis on quality code to create a sustainable product.  An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. The team strives for a product that has been continuously reviewed, continuously tested, and which has been refined and simplified as much as possible. The practices and process that a team uses are owned by the team itself. How a team incorporates craftsmanship to their solutions should be a common discussion among the team, and an area that the team strives to regularly improve.
 
-## Build in quality
+## PLay - Build in quality
 We will delve into some ways to ensure quality is always considered in every aspect of software delivery.  It starts with the indidicuals mindset, these supporting practices help support the mindeset throughout the process.
 
 ### Adopt a coding standard
@@ -16,7 +16,7 @@ Forming a **coding standard** is an essential task for any agile team. Creating 
 During Sprint 0, the agile team and its senior developers should define the coding best practices the team will use during software development activities. These practices should be presented to the team and discussed in detail to assure complete understanding of how to execute acceptable coding practices, and the implications of not doing so. During Retrospectives, these practices should be considered and modified as needed, to reflect possible improvements for the team.
 
 ### Peer review
-Peer review benefits the team increasing through quality early identification of potential issues, as well engaging team mates in overall commitment to the quality of the product, in addition to being a learning opportunity for both parties.  It should be employed when creating any artifact for the project from code through documentation.  Specifically addressing code peer review, a reviewer should be named and given a due date for the review.  The reviewers should examine the code for coding standards, cohesiveness, opportunities for efficiencies, and potential integration issues.  Ideally the review happens with the developers paired, discussing and making changes together.  Peer review helps build relationships that encourage individuals to ask questions and provide assistance to team mates, and reinforces the collective ownership of the product.
+Peer review benefits the team through increasing  early identification of potential issues, as well engaging team mates in overall commitment to the quality of the product, in addition to being a learning opportunity for both parties.  It should be employed when creating any artifact for the project from code through documentation.  Specifically addressing code peer review, a reviewer should be named and given a due date for the review.  The reviewers should examine the code for coding standards, cohesiveness, opportunities for efficiencies, and potential integration issues.  Ideally the review happens with the developers paired, discussing and making changes together.  Peer review helps build relationships that encourage individuals to ask questions and provide assistance to team mates, and reinforces the collective ownership of the product.
 
 ### Do code reviews
 There are two primary benefits of **code reviews**. First, any bug found during inspection is cheaper to fix then (by orders of magnitude) than if it is found later in the process. Second, a team that is practiced in inspecting the code tends to be able to embrace the agile principle of collective code ownership. All of the code (and any bugs identified) are the responsibility of the team, rather than a specific individual. This mindset results in a tighter, higher-quality product.
@@ -85,7 +85,7 @@ This practice ensures the bug can never be reintroduced into the system without 
 ###User feedback or acceptance test
 Successful agile projects regularly put new software in front of the users for immediate feedback. This does not require a deployment to a production server but does require a demonstration or test server to which users have access and can use to try out new features still in development. Making this environment available increases communication between the users and the agile team. If features are found to be off track, the developers can start over, with only the loss of a Sprint’s worth of work versus 6 months or more if discovered later. This has the added benefit of showing users that while you may not have had a deployment recently, you are making progress on the highest priority request.
 
-## Look for opportunities to automate
+## Play - Look for opportunities to automate
 
 ### Use continuous integration
 Continuous integration is a foundational agile technical practice. It requires each team member to integrate their latest work with the trunk frequently -- at least daily -- and to have each integration verified by an automated build (with automated testing included). Continuous integration increases the quality of the software by reducing the defect escape rate, and decreases maintenance and sustainment costs. Developers working from a local copy for days at a time is a bad practice and contributes to risky, complicated merges; continuous integration mitigates this risk.
