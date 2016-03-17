@@ -11,7 +11,7 @@ The key to remaining agile with more than one team, is allowing decisions that a
 ###Managing backlogs
 Scaling agile development teams to program or portfolio levels mean managing competing needs through alignment of vision and synchronization of sprints and delivery with dependence upon each other.  Just as a team has a backlog that is regularly prioritized, and elaborated, a  program or portfolio must also have a backlog that is groomed to allow for prioritization of work. The backlog at this level needs to have flexibility to align with near term organizational priorities and enough elaboration to assign the appropriate level of resources.  A Planning Roadmap is a good tool to plan for the near term defined as the current fiscal quarter, with planning up to rolling year in advance.  Less detail in the Roadmap is needed as it progresses to the future, as the longer term needs will continue to be prioritized and elaborated on a regular basis.
 
-### Play - Allow for uncertainty in a large organizations
+### Play - Plan for uncertainty in a large organizations
 How do you plan for something unplanned?  As discussed earlier, decentralizing decision authority is one technique to enable flow and eliminate waiting for a centralized authority.  Other ways are to plan only as long term as required. Put energy into only the immediate or funded activities.  Planning beyond this, should have less effort expended as it will allow to pivot, should organizational context change. The planning horizons vary among organizations, but often fiscal schedules or contracts guide the overall roadmap.  Agile is a mindset, even those at the highest level of the organization need to remember that.
 
 
