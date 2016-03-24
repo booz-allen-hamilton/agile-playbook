@@ -1,4 +1,6 @@
 
+# Measurement
+
 The complexion of managing work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated.  A self organized teams and a connection with its sponsorship must be maintained.
 
 Planning, status, and metrics - Oh my!

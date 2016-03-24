@@ -1,3 +1,5 @@
+# Teams
+
 > Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
 > The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.

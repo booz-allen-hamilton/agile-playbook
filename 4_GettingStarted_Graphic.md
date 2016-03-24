@@ -1,4 +1,4 @@
-# (To Become a Graphic) Getting started - Your first month (or so)
+# Getting started - Your first month (or so)
 So you've never been an agile team before. How to get started?
 
 This quick list gives a framework for getting started, using concepts you'll find more detail about in other areas of this playbook.
@@ -8,7 +8,8 @@ talk about it, and improve as you go.
 
 ## Sprint 0 — Two weeks to a month
 
-This period does not have to be strictly timeboxed; you want to get things in place so that you're ready to begin delivery as an agile team.
+This period does not have to be strictly timeboxed; you want to get things in place so that you're ready to begin delivery as an agile team. 
+Don't linger though -- we want to be delivering!
 
 ### Likely activities 
 * Identify the users and stakeholders

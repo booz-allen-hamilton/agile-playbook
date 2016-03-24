@@ -1,3 +1,5 @@
+# Deliver
+
 > Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
 > Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
@@ -8,58 +10,41 @@
 
 *Start with Scrum for agile delivery, but with an eye for "agility"*
 
-The agile software world uses Scrum extensively. Scrum is an powerful, lightweight product delivery framework that has existed for 25 years. The definitive description of the framework is maintained by its creators in the Scrum Guides.
+Scrum is the most popular delivery framework for agile teams to use, by far; so much so that it's often confused for "agile" itself. Scrum is a powerful, lightweight product delivery framework that has existed for 25 years. The definitive description of the framework is maintained by its creators in the Scrum Guides (Scrumguides.org). Because the Scrum Guides are such a well-maintained and well-used resource, we won't try to explain everything about Scrum here. 
 
-Scrum was developed with the goal of producing value at a faster, more predictable, and sustainable pace than traditional approaches, all while enabling project teams to adapt more readily to changing requirements.  Refer to the Scrum Guides
+Scrum was developed with the goal of producing value at a faster, more predictable, and sustainable pace than traditional approaches, all while enabling project teams to adapt more readily to changing requirements.  
+
 Traditionally, projects undergo large amounts of time and effort before the project is released.  In such cases, two distinct processes occur.  First, the product is designed and developed.  Then the product is demonstrated or released to the customer.  Many times, the customer is unhappy with the result and wants changes.  The more fundamental the changes, the more costly.  
 Scrum mitigates the cost of changing requirements by incorporating frequent demos and feedback into short development iterations.  Scrum breaks work down into small, understandable, and well-defined requirements.  These requirements are placed into a prioritized list known as the product backlog.  The project is worked in short (usually 2-4 week) iterations known as sprints.  During a sprint, one or more small, self-organized teams (5-9 members) take items off of the product backlog and complete them.  At the end of every sprint, each team demonstrates the working software which they produced during the sprint.  During the demo, the team gathers feedback which will help shape the direction of the next sprint 
-Practically, this means that design decisions are not made way ahead of time, but rather right before or even during active development.  Instead of having heavy, top-down design, design emerges and evolves over several iterations—develop, demo, gather feedback, incorporate feedback, develop, demo…
+Practically, this means that design decisions are not made way ahead of time, but rather right before or even during active development.  Instead of having heavy, top-down design, design emerges and evolves over several iterations: develop, demo, gather feedback, incorporate feedback, develop, demo…
 
 Over the course of several sprints, a picture of progress and direction emerges.  Customers and management are kept informed through progress charts (known as burndowns) and end of sprint-demos.  This process enables customers and product managers to offer near real-time feedback and direction to the project without incurring the high-costs of micromanagement.
-If scrum is properly followed, many of the traditional problems associated with complex projects are avoided.  The frequent feedback prevents projects from spending too much time going in the wrong direction.  Furthermore, due to its iterative nature, projects can be terminated early and still deliver a functional, though not ideal, product.
 
-*Scrum Theory*
+If Scrum is followed, many of the traditional problems associated with complex projects are avoided.  The frequent feedback prevents projects from spending too much time going in the wrong direction.  Furthermore, due to its iterative nature, projects can be terminated early and still deliver a functional, though not ideal, product.
 
-Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
-Transparency
-Significant aspects of the process must be visible to those responsible for the outcome. Transparency requires those aspects be defined by a common standard so observers share a common understanding of what is being seen.
+Iteration -- trying something; looking at it -- is core to how Scrum operates. Scrum is built on three pillars: transparency, inspection, and adaptation.
 
-For example:
-- A common language referring to the process must be shared by all participants; and,
-- Those performing the work and those accepting the work product must share a common definition of “Done”
+#### Transparency
+Many of the challenges teams face boil down to communications issues. Scrum values keeping communication and progress out in the open; doing things as a team; being transparent. The fact that Scrum's ceremonies (Sprint Planning, Daily standup, Sprint Review, and Retrospective) are intended for the whole team speaks to the importance of transparency. 
 
+#### Inspection
+Inspecting things is how we know if they're working. Everything on a Scrum team is open to inspection. 
 
-*Inspection*
-
-Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+#### Adaptation
+As we inspect things, if we would benefit from doing it differently, let's try it! We can always adjust again later. Notably, Scrum's Sprint Review ceremony gives us an explicit, regular opportunity to adapt based on how the product is coming along; the Retrospective does the same for how our team is working.
 
 
-*Adaptation*
 
-If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation (see Figure 1-2).
-Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of the:
- - Sprint Planning
- - Daily Scrum
- - Sprint Review
- - Sprint Retrospective
+##Play - Seeing success but need more flexibility? Move on to Scrumban
 
-![Scrum Pros and Cons] (/figures/Scrum Table.JPG)
+*If Scrum is too restrictive or too many changing priorities within a sprint, consider Scrumban to provide the structure of ceremonies with flexibility of delivery.*
 
-References: 
-
-https://www.scrumalliance.org/why-scrum/scrum-guide
-
-
-##Play - Getting more agile? Move on to ScrumBan
-
-*If Scrum is too restrictive or too many changing priorities within a sprint, consider scrumban to provide the structure of ceremonies with flexibility of delivery.*
-
-Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying scrum ceremonies, while introducing the flow theory of kanban.  Scrumban was developed in 2009 by Corey Ladas to move teams from scrum which is a good starting point in agile, to kanban, which enables flow for delivery on demand.  The primary delivery impact is that te scrum sprint timebox no longer applies, instead a work in progress limit is set to enable team members to pull work on demand without staunching to flow to completion. Scrumban has since evolved some of its own practices.  
+Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying Scrum ceremonies, while introducing the flow theory of Kanban.  Scrumban was developed in 2009 by Corey Ladas to move teams from Scrum which is a good starting point in agile, to Kanban, which enables flow for delivery on demand.  The primary delivery impact is that the Scrum sprint timebox no longer applies, instead a work in progress limit is set to enable team members to pull work on demand without staunching to flow to completion. Scrumban has since evolved some of its own practices.  
 
 Examples of unique practices to Scrumban include:
  - *Bucket size planning* was developed to enable long-term planning where a work item goes from the idea bucket, to a goal bucket, then to the story bucket.  The story bucket holds items ready to be considered during an on demand planning session.
- - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the kanban board are priritized and finalized and added to the Kanban board.
- - *Cycle time* Is a metreic captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
+ - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the Kanban board are priritized and finalized and added to the Kanban board.
+ - *Cycle time* Is a metric captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
 
 ![Scrumban Pros and Cons] (/figures/Scrumban.JPG)
 

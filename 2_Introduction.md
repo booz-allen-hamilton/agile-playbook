@@ -1,3 +1,5 @@
+# Introduction
+
 ### Why a playbook?
 Agile is the de-facto way of delivering software today. Compared to "waterfall" development, agile projects are far more likely to deliver on time, on budget, and having met the customer's need. Despite this broad adoption Industry standards remain elusive due the nature of agility
 The purpose of this playbook is to educate new adopters of the agile mindset by curating many good practices that we’ve found to work for teams at Booz Allen. As we offer our perspective on implementing agile in your context, we present many "plays" -- use cases of agile practices that may work for you which together can help weave an overall approach for tighter delivery and more satisfied customers.

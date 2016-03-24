@@ -1,4 +1,4 @@
-### An Agile Lifecycle
+# An Agile Lifecycle
 
 In this section, we introduce a simple "Agile Lifecycle" to help provide some context for the plays described in this document.
 Our experience has taught us that nearly all (good) projects
@@ -12,6 +12,7 @@ but they will likely execute these stages as needed
 -- and often in parallel -- throughout the life of the project.
 
 ![An Agile Lifecycle](/figures/AnAgileLifecycle.jpg)
+
 #### Concept & Alignment
 
 Before we can get to work, we must first understand who we are and what we're trying to build -- at least in a broad sense.

@@ -1,3 +1,5 @@
+# Craftsmanship
+
 > Continuous attention to technical excellence and good design enhances agility.
 
 > Simplicity--the art of maximizing the amount of work not done--is essential.

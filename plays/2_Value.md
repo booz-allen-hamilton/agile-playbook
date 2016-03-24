@@ -1,3 +1,5 @@
+# Value 
+
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
 > *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
@@ -41,7 +43,7 @@ A sprint backlog is a detailed list of all tasks from the product backlog that m
 -----
 Play - Be informed by real users
 -----
-> *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
+> Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
 ###Practice -  Define Personas 
 Personas can be used to get started with the requirements gathering process.  Each persona should capture the user and their individual needs.  Create a template with an area to draw a picture of the user, and separate spaces  to describe the user personally, but also describe their desired goals, use cases, and desires for the software.  

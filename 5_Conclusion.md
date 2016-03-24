@@ -1,2 +1,11 @@
-###CONCLUSION
-For project development teams new to adopting and transitioning to the agile mindset and Scrum Framework, this Agile Playbook offers a recommended approach for achieving success, instilling team collaboration, improving efficiency in addressing and executing client’s requirements, and producing incremental delivery of the product. Each newly formed team can mold its approach, gain momentum, improve their skills, and mature by following the set of processes and recommended practices described in this playbook. For more information, or assistance, please contact Functional_Standards_Support@bah.com.
+# Conclusion
+
+For project development teams new to adopting and transitioning to an agile mindset, this Agile Playbook offers recommendations for achieving success. Use this advice, and your won conversations to instill team collaboration and improve delivery efficiency as you address and execute your client’s needs.
+
+We hope this gives you a good place to start. Keep in mind that each team can and should mold its approach, gain momentum, improve its skill, and become more mature.
+
+For more information, or assistance, please contact Systems_Delivery_Support@bah.com.
+
+To speak with an agile coach, reach out to the Systems Delivery Coaches, at coaching@bah.com.
+
+And, for agile and delivery training for your teams, talk with Systems Delivery University, at sdu@bah.com.
