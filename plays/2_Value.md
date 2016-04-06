@@ -47,11 +47,12 @@ Good backlogs follow the acronym DEEP --
 * *Detailed* - detailed enough so that everyone understands the need (not just the person who wrote it) 
 * *Estimated* - the user story should be sufficient for the Delivery Team to provide an Estimated effort it will take to implement a user story. (Stories near the top of the Product Backlog can be estimated more accurately than those near the bottom.) 
 * *Emergent* - the Product Backlog should contain those stories that are considered Emergent—reflecting current, pressing, and/ or realistic needs. 
-* *Prioritized* - the Product Backlog should be Prioritized so that everyone understands which stories are most important now and require implementation soon. 
+* *Prioritized* - the Product Backlog should be Prioritized so that everyone understands which stories are most important now and require implementation soon.
 
 -----
 Play - Use human-centered design techniques
 -----
+
 > Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
 ###Practice -  Define Personas 
