@@ -43,57 +43,63 @@ A *product backlog* is a prioritized list of product requirements (probably call
 
 A *sprint backlog* is a detailed list of all the work we've committed to doing in the current sprint -- just a few weeks of work. Once we set it up in sprint planning, it remains locked for the duration of the sprint -- no new (surprise!) work should be added. It should stay up to date by the whole team (at least daily), and items should be marked complete based on the team's agreed Definition of Done.
 
-Tools like JIRA facilitate having these backlogs.
+Good backlogs follow the acronym DEEP --
+* *Detailed* - detailed enough so that everyone understands the need (not just the person who wrote it) 
+* *Estimated* - the user story should be sufficient for the Delivery Team to provide an Estimated effort it will take to implement a user story. (Stories near the top of the Product Backlog can be estimated more accurately than those near the bottom.) 
+* *Emergent* - the Product Backlog should contain those stories that are considered Emergent—reflecting current, pressing, and/ or realistic needs. 
+* *Prioritized* - the Product Backlog should be Prioritized so that everyone understands which stories are most important now and require implementation soon. 
 
 -----
-Play - Be informed by real users
+Play - Use human-centered design techniques
 -----
 > Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
 ###Practice -  Define Personas 
-Personas can be used to get started with the requirements gathering process.  Each persona should capture the user and their individual needs.  Create a template with an area to draw a picture of the user, and separate spaces to describe the user personally, but also describe their desired goals, use cases, and desires for the software.  
-Persona goals can then be used to create Epics, which will lead to user stories.  … User Story Creation -> Discuss difference between “I need the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software”.  Can reuse the diagram they already have about bad vs good user stories.  The Product Owner should play an active role in ensuring that the User Stories will ultimately deliver the desired value to the stakeholders by driving the communication of business value at key times like Sprint Planning and Release Planning, but also as a day-to-day integrated member of the development team, available for conversations and consulting as progress is made.
-End result: Backlog creation ….transition into next topic
+Personas are fictitious people who represent the needs of your users, and they help us understand if our work is going to be valuable for the people we're trying to reach.
+They can be very useful at the start of the requirements gathering process, but typically remain important throughout.  
+Each persona should capture the user and their individual needs.  
+Create a template with an area to draw a picture of the user, and separate spaces to describe the user personally, but also describe their desired goals, use cases, and desires for the software.  
 
 // TODO images of personas/persona template
 
+###Practice - Talk with users about needs, not solutions 
+Consider the difference between “I need the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software”.  
+
+Users often think they know exactly what they want to see; but we find that it can be much more effective if we understand the needs, and then exercise creativity in how to provide a
+delightful experience that satisfies that need.
+
+As you can, guide your users into conversations of value and need, and let the delivery team work through the solution.
+
 
 ###Practice - Epics and user stories
-+Component
-+Definition
+Epics and user stories are described below, but both share a typical template --
++Title
 +Value Statement
 --Outlines and communicates the work to be completed and what value delivering this epic or story will bring to a specific persona/user. 
 --Format: As a (user role/persona) I need to be able to (deliverable), so that I can (end result/value). 
-+Assumptions
---Aspects that may or may not impact and/or support your future deliverable that you need to assume exist 
 +Acceptance Criteria 
 ---An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. 
 
-###Epics
-Both epics and user stories are made up of the same components, all that differs between the two is their level of granularity. User stories make up an epic and are a breakdown of an epic. See the example below: 
-Epic: Couch cushions
-Value Statement: As a BAH employee I need the ability to sit on cushions of the blue couch, so that I can comfortably sit on and and utilize the couch. 
-Assumptions: The frame of the couch exists.
-Acceptance Criteria: how many, dimensions, color, fabric, placement, fill 
-User Stories: There’s no right or wrong way to break down an epic, but for purposes of this example we would suggest creating a story for each couch cushion. We’ll use the center top cushion as our example.
- Value Statement: As a BAH employee I need the ability to sit on cushions of the blue couch, so that I can comfortably sit on and and utilize the couch. 
-Assumptions: The frame of the couch exists.
-Acceptance Criteria: how many, dimensions, color, fabric, placement, fill 
-
 ###User Stories 
-User Stories depict high-level definitions of requirements that address specific functionality of the product and are planned and executed across a series of Sprints (tightly time-boxed events that include repetitive development cycles). To create value-driven stories that accurately reflect the client’s requirements, think of the acronym DEEP: 
-Detailed enough so that everyone understands the need. The User Story should be sufficient for the Delivery Team to provide an Estimated value of the amount of effort it will take to implement a User Story. (Stories near the top of the Product Backlog can be estimated more accurately than those near the bottom.) The Product Backlog should contain those stories that are considered Emergent—reflecting current, pressing, and/ or realistic needs. And, of course, the Product Backlog should be Prioritized so that everyone understands which stories are most important now and require implementation. Most agile teams use the concept of User Stories to help define how the work will be accomplished.
-The Product Owner and client, assisted by the Delivery Team, develops User Stories to define the descriptive requirements of a feature or capability that will mold the product’s functionality. User Stories are identified and prepared amidst the project’s lifecycle and generally focus on what should be accomplished and why. Describing the functionality in the User Story should be at a high level, so it can easily be broken down into workable development tasks and sufficiently detailed to be useful for estimating purposes. 
+User Stories depict high-level definitions of requirements that address specific functionality of the product and are planned and executed across a series of sprints. 
+To create value-driven stories that accurately reflect the client’s requirements, most agile teams use the concept of User Stories to help define how the work will be accomplished.
+The Product Owner and client, assisted by the Delivery Team, develop User Stories to define the descriptive requirements of a feature or capability that will mold the product’s 
+functionality. User Stories are identified and prepared amidst the project’s lifecycle and generally focus on what should be accomplished and why. 
+Describing the functionality in the user story should be at a high level, so it can easily be broken down into workable development tasks and
+sufficiently detailed to be useful for estimating purposes. 
 
+//TODO - tighten up the user story description
+
+### Epics
+// TODO
 
 
 ####Strong v. Weak User Stories
 
-
-| **Strong User Stories Are…** | **Weak User Stories Are…** | 
-| ---------------------------- | -------------------------- |
-| - Developed and prioritized by the Product Owner | - Developed without designating the specific user or user group that will receive value from the story’s |
+| **Strong User Stories Are…**                                      | **Weak User Stories Are…** | 
+| ----------------------------                                      | -------------------------- |
+| - Developed and prioritized by the Product Owner                  | - Developed without designating the specific user or user group that will receive value from the story’s |
 | - Written from the user’s perspective, implementation and employ user roles | - Created with limited Product Owner involvement |
-| - Simple and concise, with clear alignment to business value | - Missing a description of the business value |
+| - Simple and concise, with clear alignment to business value      | - Missing a description of the business value |
 | - Entry points to a conversation on how the implementation activities can be decomposed | - Technical specifications which don’t link to the user’s point of view |
-| - Written with easy to understand success criteria | - Open-ended with no means to validate acceptance |
+| - Written with easy to understand success criteria                | - Open-ended with no means to validate acceptance |
