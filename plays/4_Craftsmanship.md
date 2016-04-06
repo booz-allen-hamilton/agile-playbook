@@ -9,7 +9,9 @@
 ##Craftsmaship in software
 Craftsmanship is expressed by an agile team taking pride in ownership through simultaneous thoughtful design and an emphasis on quality code to create a sustainable product.  An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. The team strives for a product that has been continuously reviewed, continuously tested, and which has been refined and simplified as much as possible. The practices and process that a team uses are owned by the team itself. How a team incorporates craftsmanship to their solutions should be a common discussion among the team, and an area that the team strives to regularly improve.
 
-## PLay - Build in quality
+-----
+Play - Build in quality
+-----
 We will delve into some ways to ensure quality is always considered in every aspect of software delivery.  It starts with the indidicuals mindset, these supporting practices help support the mindeset throughout the process.
 
 ### Adopt a coding standard
