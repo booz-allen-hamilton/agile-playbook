@@ -12,7 +12,7 @@ Play- Organize as scrum teams
 --------------
 Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile teams members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
 
-### Practice: Build the scrum team
+### Practice: Build the Scrum team
 Scrum gives us a simple model for a team, and we believe this is a valuable frame for most agile teams. Scrum suggests just three roles:
 - Scrum Master 
 - Product Owner
@@ -75,7 +75,7 @@ On bigger teams, it's reasonable that people may live in their specialty more th
 
 
 ### Practice: Build a cohesive team
-We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictible, has great potential for high-performance, and really enjoys working together. .
+We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictible, has great potential for high-performance, and really enjoys working together.
 
 #### Chartering
 At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
@@ -93,8 +93,11 @@ A great team-room contains a few things:
 - A comfortable space to lounge and be social or use for meetings
 - And a private space for team members to conduct sensitive conversations or high-concentration work
 
+### Practice - Distribute with intent
+
 #### Distribution can work
-Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. We have a few tips that can help distributed teams: 
+Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. If your team is distrubted, you need to approach this intentionally -- fewer good things will happen by accident than what we see
+with colocated team.s We have a few tips that can help distributed teams: 
 
 1. Use video: Make sure each team member, regardless of location, has a camera, and create a virtual team-room by having everyone on-camera all the time. This way, when speaking on the phone, or chatting via IM, we still get to see facial expressions. 
 2. Get off email: Consider banning email for communication inside your team. Emails are easy to lose, and waiting for email responses slows teams down. Use the phone more, and get a persistent chat room tool for your team. 
