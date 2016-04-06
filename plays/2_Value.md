@@ -28,7 +28,7 @@ Most teams need a Product Roadmap to understand high-level objectives and direct
 Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
 
 
-##Play - From Vision to Action. Build a backlog
+##Play - Backlogs. Turn vision into action.
 
 Once we have and share our vision, we understand the big stuff... but we have to turn this to action quickly. A core practice for agile teams is to have a *backlog* of work. In this context, a backlog is a prioritized set of all the desired work we want to do on the project. 
 
@@ -76,22 +76,53 @@ Epics and user stories are described below, but both share a typical template --
 +Title
 +Value Statement
 --Outlines and communicates the work to be completed and what value delivering this epic or story will bring to a specific persona/user. 
---Format: As a (user role/persona) I need to be able to (deliverable), so that I can (end result/value). 
+--Format: As a (user role/persona) I need to be able to (capability), so that I can (end result/value). 
 +Acceptance Criteria 
----An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. 
+---An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. This helps inform the development for undrstanding when the story is ready to demonstrate, or test further.
 
 ###User Stories 
-User Stories depict high-level definitions of requirements that address specific functionality of the product and are planned and executed across a series of sprints. 
-To create value-driven stories that accurately reflect the client’s requirements, most agile teams use the concept of User Stories to help define how the work will be accomplished.
-The Product Owner and client, assisted by the Delivery Team, develop User Stories to define the descriptive requirements of a feature or capability that will mold the product’s 
-functionality. User Stories are identified and prepared amidst the project’s lifecycle and generally focus on what should be accomplished and why. 
-Describing the functionality in the user story should be at a high level, so it can easily be broken down into workable development tasks and
-sufficiently detailed to be useful for estimating purposes. 
+User Stories are the agile response to requirements, and you can call them requirements if you like. 
 
-//TODO - tighten up the user story description
+They often look like this:
+* As a solo traveler
+* I want to safely discover other travelers who traveling alone
+* So I can meet possible companions on my next trip
+
+There are a few things that are different about user stories, versus typical requirements.
+- They are communicated in terms of value, from the user perspective
+- They might look a little lightweight at first. We agree we need to *tell stories* -- we know that there are details that can only be sussed out through collaborating with our users and stakeholders. We understand that what is written down is imperfect. What we want to do is capture enough to get started!
+
+The Product Owner and client, assisted by the Delivery Team, develop User Stories to define the descriptive requirements of a feature or capability that will mold the product’s functionality. User Stories are identified and prepared throughout the project’s lifecycle.
+
+There are two devices we typically use to describe good user stories.
+#### The three Cs
+- The Card
+This is the description of the user story itself, written on a card, or in a tracking tool. The card should give us
+enough detail to get started, and know who to talk to.
+
+- The Conversation
+We acknowledge that anyone implementing needs to -- and should -- speak with some of the players involved in the value
+that story will deliver. So they need to go have a conversation, and record anything that needs to be preserved
+from that conversation.
+
+- The Confirmation
+Once implemented, every user story needs to be verified. So we call this the Confirmation. And we should record in the user
+story how we intend to verify it. This coule be the list of acceptance criteria, test plans, and so-on.
+
+#### INVEST
+A way to see if your user stories are pretty good is to consider the INVEST acronym. 
+* I - Independent. Stories should be as independent as possible, so they can be implemented out of order.
+* N - Negotiable. We should be able to discuss the details of the user story, to find the optimal solution, not treat it as Gospel, as it was written intially.
+* V - Valuable. A story must deliver value to the user or customer when complete.
+* E - Estimable. Stories should be such that we can estimate their effort.
+* S - Small. User stories should be small enough to prioritize, work on, and test. For teams using sprints, they should
+be able to be completed inside one sprint.
+* T - Testable. We should know how to verify and test this story.
+
 
 ### Epics
-// TODO
+Epics are broad functionalities we want our product to deliver, larger than user stories. Epics would typically take multiple sprints to deliver, and 
+would ultimately broken down into many user stories. You can still write epics like user stories, and the guidelines above typically apply, with the exception of small and estimable.
 
 
 ####Strong v. Weak User Stories
