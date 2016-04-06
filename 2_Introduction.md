@@ -24,9 +24,9 @@ Robust, reliable, well designed. These are not things that we just automatically
 Delivering great systems requires a dedication to the craft and an eye toward excellence. Technical agility and strength is necessary for teams to be truly agile, the we will explore the many facets of craftsmanship.
 
 ### On measurement
-Self organizaed teams still need ways to detetmine estimate their work to determine how much can be delivered when.  In addtion, measuring progress and performance helps the team improve overall.  Agile measurement is a topic that impacts the enire team and no longer is reservred for managers.  We will take a look at som specific mearsurments and discuss their meaning.
+Self organizaed teams still need ways to estimate their work and predict how much they can accomplish. Plus, measuring progress and performance helps the team improve overall.  Agile measurement is a topic that impacts the entire team and is not reserved for managers.  We will take a look at some specific mearsurments and discuss their meaning.
 
-### On Adaptation
+### On adaptation
 The purpose of measurement is to improve and adjust based on findings.  Adpatation is key to improving team outcomes and adjusting as the environment and team changes.  We will look at a couple ways to regularly examine and find ways to improve the team and product.
 
 ### On management

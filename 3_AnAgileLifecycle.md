@@ -21,11 +21,11 @@ In the **Concept & Alignment** stage,
 the team begins to build relationships with their stakeholders and users.
 Together, they will build a shared understanding of 
 the project vision, goals, values, and expectations.
-They may employ [Chartering Meetings](TODO) to build [product roadmaps](TODO) and [user personas](TODO), and capture [strategic themes](TODO).
+They may employ Chartering Meetings to build product roadmaps and user personas, and capture strategic themes.
 
-The team should also establish [working agreements](TODO) 
+The team should also establish working agreements 
 -- these identify how they will communicate, resolve conflict, and have fun, among other things --
-and technical expectations, such as [coding standards](TODO) and their [definitions of done](TODO).
+and technical expectations, such as coding standards and their definitions of done.
 
 And, this all should take place _in a matter of days_.
 We want to get the team delivering as quickly as possible -- that is where the learning truly occurs and value is delivered.
@@ -41,7 +41,7 @@ We want to pay attention to the idea that we understand
 things we need to do soon, but we are fuzzy on things that are going to done more than a month from now. We don't want to spend too much time on things
 that are likely to change anyway.
 
-Many teams call this period [Sprint 0]; and in addition to light planning, we want to put some time upfront 
+Many teams call this period Sprint 0; and in addition to light planning, we want to put some time upfront 
 into infrastructure and tooling; let's make sure we can get from a commit to a build quickly.
 Let's smooth our deployment process so it's not a pain when time is tight.
 

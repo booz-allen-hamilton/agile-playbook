@@ -1,7 +1,7 @@
 
 # Measurement
 
-The complexion of managing work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated.  A self organized teams and a connection with its sponsorship must be maintained.
+The complexion of measuring work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated. 
 
 Planning, status, and metrics - Oh my!
 =========================================
@@ -9,7 +9,7 @@ Planning, status, and metrics - Oh my!
 
 Play - Estimate your work
 -----------------------------------------
-Estimation on software projects is extremely difficult, often costly, and possibly time-consuming. We must acknowledge that an estimate _is an estimate_.
+Estimation on software projects can be difficult, costly, and time-consuming. We must acknowledge that an estimate _is an estimate_.
 
 The image below is a thought experiment comparing the accuracy of an estimate and the effort required to obtain it.  It is meant to show that, regardless of our invested effort, an estimate will never be completely accurate and may run the risk of becoming less accurate if we "overthink" things.  Our goal is always to find the balance between effort and accuracy, achieving a "good enough" estimate as quickly as possible.
 
@@ -33,7 +33,7 @@ Considering the thought experiment above, using relative estimation techniques i
 
 ![07 044 13_007b](https://cloud.githubusercontent.com/assets/5417850/10046741/93204824-61d8-11e5-9b93-b9e06705eb22.jpg)
 
-####Practice - Estimatie size with story points
+####Practice - Estimate size with story points
 Story Points are unit-less measures of relative size used to capture estimates for software delivery. Most Agile teams employ a scale using the Fibonacci sequence when applying points to a given story (1, 2, 3, 5, 8, 13…). Many Booz Allen Agile teams have found this scale useful because the gaps in the sequence become incrementally larger as the numbers increase. These nonlinear sequences work well because they reflect the greater uncertainty associated with estimates for larger units of work. Determining size relates to the scope of the effort and to estimate size, the following three questions help formulate the team’s assessment:
 
 1. How much work is there?
@@ -42,10 +42,6 @@ Story Points are unit-less measures of relative size used to capture estimates f
 
 For example, the team may need to deliver a capability that is extremely easy but will require many hours of work, and at the same time, it must deliver another capability of equivalent size that might be considered complex but will require relatively fewer hours.
 A User Story estimated to be 8 Story Points is roughly four times as big in terms of combined effort, complexity, and risk as a User Story estimated at 2 Story Points. It is extremely important to note that Story Point estimate values should not be used to compare across Agile teams. The estimated value of 5 presented by one team could easily equate to an estimated value of 13 by another team. Story Points are used in a variety of ways on Agile projects, but certainly, the most common use is to estimate the Product Backlog.
-
-####Practice - Estimate Size with Ideal Days
-**Ideal Days** are another measure of relative size used by Agile teams. Unlike Story Points, which are unit-less, Ideal Days are expressed in terms of the ideal time it will take to complete a task (assuming a best-case scenario). Ideal Days do not equate to elapsed time and, like Story Points, must be used in conjunction with the team’s measured Velocity to obtain actual time estimations. Developers must consider the number of hours they are productive in a given work day and use that as one of the variables when estimating. It is standard practice to consider whole numbers only when estimating in terms of Ideal Days.
-Agile teams may choose to use Ideal Days instead of Story Points for a variety of reasons. Because we are more accustomed to estimating in terms of time, it is often easier for project teams new to Agile to understand the concept of Ideal Days. Another strong case can be made for using Ideal Days when estimating work on the Sprint Backlog. During Sprint planning, Delivery teams generally decompose User Stories or capabilities into manageable work tasks that can be completed in fewer than 2 days. At this level, it may be more appropriate to perform Ideal Day estimation.
 
 
 
