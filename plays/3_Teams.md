@@ -7,9 +7,7 @@
 > At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 
---------------
-Play- Organize as Scrum teams
---------------
+## Play - Organize as Scrum teams
 Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile teams members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
 
 ### Practice: Build the Scrum team
@@ -62,14 +60,10 @@ Our experience shows that a cross-functional 5-7 person team is the preferred ma
 In its simplest frame, agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- with one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team. There are a few patterns we see work well, so we want to explain those in the next three headings:
 
 
---------------
-Play - Expand to a Value Team when one product owner isn't enough
---------------
+## Play - Expand to a Value Team when one product owner isn't enough
 If the mission needs are sufficiently complex or there are complicated relationships with multiple client stakeholders, it might be impossible to have just one Product Owner. In that case, we recommend thinking of a larger Value Team. This team might grow, itself, to around 10 people and would typically have representatives in it like business analysts, compliance interests, end-users, and so-on. In this case, there can still be a Product Owner, but that person is now the Value Team's facilitator, bringing together all those perspectives and creating a common voice, but typically would not be able to trump the other stakeholders. In this setting, the jobs of the Scrum Master and Product Owner become more difficult, trying to arrange coordination of all the interests at play, but it can still be very successful.
 
---------------
-Play - Scale to multiple Delivery Teams and Value Teams when needed
---------------
+## Play - Scale to multiple Delivery Teams and Value Teams when needed
 If the overall solution scope is so large, expertise required is sufficiently diverse, or timeline constrained such that a single team is insuffcient to produce the solution, then you'll have to scale up to multiple Delivery Teams, each with their own Product Owner/Value Team. There are a few frameworks that help shape this, which are discussed later in this Playbook, about scaling agile. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
 
 ### On functional roles 
@@ -77,9 +71,7 @@ On agile teams, there should be less emphasis on being a "tester" or a "BA" or a
 
 On bigger teams, it's reasonable that people may live in their specialty more than they will on a smaller team. Ultimately this is a balance that the team, with all its local context, should talk about and adapt, through inspection and conversation.
 
---------------
-Play - Build a cohesive team
---------------
+## Play - Build a cohesive team
 We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictible, has great potential for high-performance, and really enjoys working together.
 
 #### Practice - Chartering

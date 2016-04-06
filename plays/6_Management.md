@@ -4,7 +4,7 @@
 
 As managers with agile teams, we may find that our role has evolved, but it is still valuable. With self-organized teams there is always this question; What do project or program managers do now?  Not only do the managers themselves ask the question, but also those who report to them.  The traditional hierarchy is blown up and things may get uncomfortable at first.  Here we present a few shifts to consider as you engage with agile teams. 
 
-### Play - Manager as faciliator
+## Play - Manager as faciliator
 Some managers will have great success looking at themselves as a delivery facilitator. How can you make delivery easier? What roadblocks can you remove? Who can you connect to quicken the pace of the whole team?
 
 The facilitator role can be difficult for those who are more comfortable with assigning work (or having it assigned) and receiving status until it is complete.  Agile tools and reports are designed to make status seamless and availble to anyone who wants it, without having to ask each other. We are hoping that the team will keep each other accountable to fulfilling their own commitments; but the facilitator still is watchful and plays a guiding hand in these interactions. He or she will still make sure the right people are talking, and encourage the team to stretch themselves.

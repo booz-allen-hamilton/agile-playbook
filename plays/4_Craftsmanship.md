@@ -6,12 +6,9 @@
 
 > The best architectures, requirements, and designs emerge from self-organizing teams.
 
-##Craftsmaship in software
 Craftsmanship is expressed by an agile team taking pride in ownership through simultaneous thoughtful design and an emphasis on quality code to create a sustainable product.  An agile team employs multiple methods to build in quality and robustness to the product, creating technical agility. The team strives for a product that has been continuously reviewed, continuously tested, and which has been refined and simplified as much as possible. The practices and process that a team uses are owned by the team itself. How a team incorporates craftsmanship to their solutions should be a common discussion among the team, and an area that the team strives to regularly improve.
 
------
-Play - Build in quality
------
+## Play - Build in quality
 We will delve into some ways to ensure quality is always considered in every aspect of software delivery. Security and quality can not be though of as bolt-on or folllow-on functions, after devlopment is done. Building security and technical excellence into the solution as we go is a shared responsibility, and we need the team to continue to stretch itself to achieve better results over time. They will do this through using good practices, talking together, and regularly inspecting their work.
 
 ### Practice - Adopt a coding standard
@@ -91,9 +88,8 @@ This practice ensures the bug can never be reintroduced into the system without 
 ### Practice -  User feedback or acceptance test
 Successful agile projects regularly put new software in front of the users for immediate feedback. This does not require a deployment to a production server but does require a demonstration or test server to which users have access and can use to try out new features still in development. Making this environment available increases communication between the users and the agile team. If features are found to be off track, the developers can start over, with only the loss of a Sprint’s worth of work versus 6 months or more if discovered later. This has the added benefit of showing users that while you may not have had a deployment recently, you are making progress on the highest priority request.
 
------
 ## Play - Automate as much as you can
------
+
 ### Practice -  Use continuous integration
 Continuous integration is a foundational agile technical practice. It requires each team member to integrate their latest work with the trunk frequently -- at least daily -- and to have each integration verified by an automated build (with automated testing included). Continuous integration increases the quality of the software by reducing the defect escape rate, and decreases maintenance and sustainment costs. Developers working from a local copy for days at a time is a bad practice and contributes to risky, complicated merges; continuous integration mitigates this risk.
 
