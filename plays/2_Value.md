@@ -85,7 +85,7 @@ User Stories are the agile response to requirements, and you can call them requi
 
 They often look like this:
 * As a solo traveler
-* I want to safely discover other travelers who traveling alone
+* I want to safely discover other travelers who are traveling alone
 * So I can meet possible companions on my next trip
 
 There are a few things that are different about user stories, versus typical requirements.
