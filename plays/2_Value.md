@@ -6,9 +6,8 @@
 
 > Business people and developers must work together daily throughout the project.
 
------
-Play - Share a vision inside and outside your team
------
+
+## Play - Share a vision inside and outside your team
 
 The vision is the foundation upon which product decisions are made.  When at critical junctures, turn to the visiosn to help determine which direction will help the vision become a material reality.  At the team and individual level, the vision provides a common mission to rally around, and help understand the long term goals, as well as incremental goals.
 
@@ -50,9 +49,7 @@ Good backlogs follow the acronym DEEP --
 * *Emergent* - the Product Backlog should contain those stories that are considered Emergent—reflecting current, pressing, and/ or realistic needs. 
 * *Prioritized* - the Product Backlog should be Prioritized so that everyone understands which stories are most important now and require implementation soon.
 
------
-Play - Use human-centered design techniques
------
+## Play - Use human-centered design techniques
 
 > Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
