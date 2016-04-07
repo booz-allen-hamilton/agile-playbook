@@ -28,7 +28,7 @@ Robust, reliable, well designed. These are not things that we just automatically
 
 Delivering great systems requires a dedication to the craft and an eye toward excellence. Technical agility and strength is necessary for teams to be truly agile. The Craftsmanship section will walks through practical ways to inject technical health into your solutions.
 
-### On measurement
+### On measurement and planning
 Self organizaed teams still need ways to estimate their work and predict how much they can accomplish. Plus, measuring progress and performance helps the team improve overall.  Agile measurement is a topic that impacts the entire team and is not reserved for managers.  We will take a look at some specific mearsurments and discuss their meaning.
 
 ### On adaptation

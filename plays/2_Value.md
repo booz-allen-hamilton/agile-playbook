@@ -2,12 +2,12 @@
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-> *Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.*
+> Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
 > Business people and developers must work together daily throughout the project.
 
 -----
-Play- Share a vision inside and outside your team
+Play - Share a vision inside and outside your team
 -----
 
 The vision is the foundation upon which product decisions are made.  When at critical junctures, turn to the visiosn to help determine which direction will help the vision become a material reality.  At the team and individual level, the vision provides a common mission to rally around, and help understand the long term goals, as well as incremental goals.
