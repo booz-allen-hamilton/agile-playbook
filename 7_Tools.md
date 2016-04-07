@@ -12,10 +12,10 @@ Additionally, Booz Allen SD teams can request many free tools through SmartSuite
 
 ### Knowledge Share/Collaboration
 Knowledge sharing and collaboration appears in many forms from formalized training to informal chats to white boarding sessions to storage of documents to collaborative authoring and everything in between. Because the breadth of the tools available combined with their strengths and weaknesses, teams are encouraged to assess their goals prior to evaluating and selecting a tool.
-- Tools to investigate
-    - SharePoint
-    - Atlassian Confluence*
-    - Google Drive (free)
+* Tools to investigate
+  * SharePoint
+  * Atlassian Confluence*
+  * Google Drive (free)
 
 ### Asynchronous Code Reviews
 Allows team members to review code and provide feedback on their own time versus simultaneously. The give-and-take of collaboration is not lost but occurs when it is convenient for the parties involved.
