@@ -14,7 +14,8 @@ Scrum is the most popular delivery framework for agile teams to use, by far; so 
 
 Scrum was developed with the goal of producing value at a faster, more predictable, and sustainable pace than traditional approaches, all while enabling project teams to adapt more readily to changing requirements.  
 
-Traditionally, projects undergo large amounts of time and effort before the project is released.  In such cases, two distinct processes occur.  First, the product is designed and developed.  Then the product is demonstrated or released to the customer.  Many times, the customer is unhappy with the result and wants changes.  The more fundamental the changes, the more costly.  
+Traditionally, projects undergo large amounts of time and effort before the project is released.  In such cases, two distinct processes occur.  First, the product is designed and developed.  Then the product is demonstrated or released to the customer.  Many times, the customer is unhappy with the result and wants changes.  The more fundamental the changes, the more costly.
+
 Scrum mitigates the cost of changing requirements by incorporating frequent demos and feedback into short development iterations.  Scrum breaks work down into small, understandable, prioritized requirements. 
 The project is worked in short (usually 2-4 week) iterations known as sprints.  During a sprint, the delivery team chooses what high-value work it can complete; and the team focuses on just that work for the sprint's duration. At the end of each sprint, the team demonstrates the working software which they produced.  During the demo, the team gathers feedback which will help shape the direction of the product going forward.
 
@@ -40,12 +41,13 @@ As we inspect things, if we would benefit from doing it differently, let's try i
 
 ## Play - Seeing success but need more flexibility? Move on to Scrumban
 
-*If Scrum is too restrictive or too many changing priorities within a sprint, consider Scrumban to provide the structure of ceremonies with flexibility of delivery.*
+*If Scrum is too restrictive or there are too many changing priorities within a sprint, consider Scrumban to provide the structure of ceremonies with flexibility of delivery.*
 
 Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying Scrum ceremonies, while introducing the flow theory of Kanban.  
+
 Scrumban was developed in 2009 by Corey Ladas to move teams from Scrum which is a good starting point in agile, to Kanban, which enables flow for delivery on demand.  
 Kanban focuses on flow, but it does not have presecribed meetings and roles -- so we borrow those from Scrum in this Scrumban model. 
-The primary difference versus Scrum is that the sprint timebox no longer applies. Instead, a work-in-progress limit (WIP limit) is set to enable team members to pull work on demand, 
+The primary difference versus Scrum is that the sprint timebox no longer applies to delivery. Instead, a work-in-progress limit (WIP limit) is set to enable team members to pull work on demand, 
 but not so many things that they have trouble finishing the work at hand. Scrumban has evolved some of its own practices.  
 
 Examples of unique practices to Scrumban include:
