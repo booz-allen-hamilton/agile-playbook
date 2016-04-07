@@ -92,6 +92,7 @@ They often look like this:
 * So I can meet possible companions on my next trip
 
 There are a few things that are different about user stories, versus typical requirements.
+
 - They are communicated in terms of value, from the user perspective
 - They might look a little lightweight at first. We agree we need to *tell stories* -- we know that there are details that can only be sussed out through collaborating with our users and stakeholders. We understand that what is written down is imperfect. What we want to do is capture enough to get started!
 
@@ -99,6 +100,7 @@ The Product Owner and client, assisted by the Delivery Team, develop User Storie
 
 There are two devices we typically use to describe good user stories.
 #### The three Cs
+
 - The Card
 This is the description of the user story itself, written on a card, or in a tracking tool. The card should give us
 enough detail to get started, and know who to talk to.
