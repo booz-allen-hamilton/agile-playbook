@@ -3,6 +3,7 @@
 Agile at scale is more than simply applying agile practices on multiple teams. Agile at scale requires multiple levels of coordination to ensure all the teams are moving in the same direction within the enterprise. Other aspects such as culture and funding must be considered as well. Implementing agile in an organization cannot be top down or grass roots alone. A successful adoption includes energy coming from both directions. So, we need to adopt agile practices at the team level, but also train and achieve buy-in with managers and executives as well.
 
 There are some summary things we want you to know about scaling agility -
+
 1. Agile is not its own goal.
    * Embrace agile for happier customers, higher morale, more innovation -- but not just because it's "agile"
 2. It is hard.
