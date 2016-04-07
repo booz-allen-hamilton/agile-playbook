@@ -44,6 +44,7 @@ A *product backlog* is a prioritized list of product requirements (probably call
 A *sprint backlog* is a detailed list of all the work we've committed to doing in the current sprint -- just a few weeks of work. Once we set it up in sprint planning, it remains locked for the duration of the sprint -- no new (surprise!) work should be added. It should stay up to date by the whole team (at least daily), and items should be marked complete based on the team's agreed Definition of Done.
 
 Good backlogs follow the acronym DEEP --
+
 * *Detailed* - detailed enough so that everyone understands the need (not just the person who wrote it) 
 * *Estimated* - the user story should be sufficient for the Delivery Team to provide an Estimated effort it will take to implement a user story. (Stories near the top of the Product Backlog can be estimated more accurately than those near the bottom.) 
 * *Emergent* - the Product Backlog should contain those stories that are considered Emergent—reflecting current, pressing, and/ or realistic needs. 
@@ -85,6 +86,7 @@ Epics and user stories are described below, but both share a typical template --
 User Stories are the agile response to requirements, and you can call them requirements if you like. 
 
 They often look like this:
+
 * As a solo traveler
 * I want to safely discover other travelers who are traveling alone
 * So I can meet possible companions on my next trip
@@ -111,7 +113,8 @@ Once implemented, every user story needs to be verified. So we call this the Con
 story how we intend to verify it. This coule be the list of acceptance criteria, test plans, and so-on.
 
 #### INVEST
-A way to see if your user stories are pretty good is to consider the INVEST acronym. 
+A way to see if your user stories are pretty good is to consider the INVEST acronym.
+ 
 * I - Independent. Stories should be as independent as possible, so they can be implemented out of order.
 * N - Negotiable. We should be able to discuss the details of the user story, to find the optimal solution, not treat it as Gospel, as it was written intially.
 * V - Valuable. A story must deliver value to the user or customer when complete.
