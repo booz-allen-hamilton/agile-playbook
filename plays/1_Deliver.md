@@ -76,7 +76,7 @@ In 2010 David Anderson elaborated with four "Open Kanban" practices tailored for
 - Make Process Policies Explicit
 - Improve Collaboratively (using models & the scientific method)
 
-In Kanban, you fundamentally want to make all of your work visible, continuously prioritize it, and always be flowing things to Done. This is great for a software team that issues seveal new releases per week, or per day. 
+In Kanban, you fundamentally want to make all of your work visible, continuously prioritize it, and always be flowing things to Done. This is great for a software team that issues several new releases per week, or per day. 
 A pitfall, however, is that if priorities are allowed to change too often, no work will ever get done. So be mindful about finishing things, and not starting too many things.
 
 Kanban is appropriate for teams ready to self regulate, rather than rely on timeboxes. The practices require displine to enable flow.
