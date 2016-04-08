@@ -12,6 +12,7 @@ This period does not have to be strictly timeboxed; you want to get things in pl
 Don't linger though -- we want to be delivering!
 
 ### Likely activities 
+
 * Identify the users and stakeholders
 * Get charge authorizations, get user accounts, and access to IT systems and buildings
 * Have a team chartering session; discuss expectations; define “Done” for the project, for a sprint, and for a work item
@@ -26,6 +27,7 @@ Don't linger though -- we want to be delivering!
 ## Sprint 1 — Two weeks
 
 ### Likely activities 
+
 * Hold daily standups
 * Be sure the backlog is estimated
 * Work with the users, Scrum Master, Product Owner, and team members to establish a Sprint backlog
@@ -37,6 +39,7 @@ Don't linger though -- we want to be delivering!
 ## Sprint 2 — Two weeks
 
 ### Likely activities 
+
 * Hold daily standups
 * Estimate new backlog items
 * Hold Sprint planning to establish the Sprint backlog
