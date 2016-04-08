@@ -1,41 +1,65 @@
 
-# Measurement and Planning
+# Measurement
 
 > Working software is the primary measure of progress.
 
-//TODO Make this better
+Yes!
+In any discussion of measurement, it is essential that we not lose sight of an agile team's true measure: the regular and continous delivery of working, high quality software, that is potentially shippable.
 
-The complexion of measuring work changes -- possibly significantly -- on an agile delivey project. But, it does not disappear.  Work must still be tracked and progress communicated. 
-
-The overall objectives for collecting and analyzing applicable measures, 
-for any measurement program, are to promote continuous improvement, increase productivity, enhance product quality, and adopt effective and efficient practices. 
-Metrics that are captured, reviewed, and analyzed prove to be very useful for Agile teams in many ways: they provide a continual evaluation of the progress made in delivering product features to the client and can be used to redirect product-related priorities. 
-Agile metrics can also evaluate task completeness in terms of what has been done or not been done. 
-When results are communicated to team members and the client, the greater understanding of what is being measured and why reinforces Agile principles.
+However, agile teams also use data to plan and commit to work; to communicate progress, quality, and changes in direction; and to continously improve both themselves and the product that they are creating.
 
 
+## Play - Estimate your work as a team, and make team commitments based on facts
 
-## Play - Make educated guesses about the size of your work, and continuously measure how fast you can get it done.
+// Make educated guesses about the size of your work, and continuously measure how fast you can get it done.
+
+It is important to understand what you are commiting to and to acknowledge when you do not.
+
+### Practice - Use relative estimation to discover whether you understand your work
+
+Relative estimation (http://guide.agilealliance.org/guide/relative.html) is a concept that those new to the agile world often struggle with, but it simply means "compare two things to each other."  If you've ever said something like "Hey, this tree is twice as tall as this other tree," you already know how to do it.
+
+When we think about estimating software, we recommend agile teams do so in terms of its _size_.
+Software size is intended to capture, all at once, 
+*(1) the amount of work*, 
+*(2) the difficulty of the work*, and 
+*(3) the risk inherent in the work*.
+When paired with relative estimation, this manifests itself in questions like 
+"is this feature as complicated as the other feature we built last week?" or 
+"if we take on this feature, is it more risky than this other feature?"
+When work items are similar enough across these dimensions, we give them the same number on some predetermined scale (see table below).
+As work items differ in one or more of these dimensions, the team discusses those differences to understand just how different the work is, relatively, and would give a corresponding number from that same scale.
+
+#### Some popular scales used in relative estimation
+
+| Name | Examples | Pro | Con |
+| ---- | -------- | --- | --- |
+|  Modified Fibonacci | 1, 2, 3, 5, 8, 13, 20, 40, 100 | Many Booz Allen Agile teams have found this scale useful because the gaps in the sequence become incrementally larger as the numbers increase. These nonlinear sequences work well because they reflect the greater uncertainty associated with estimates for larger units of work. | asdf |
+| | 1, 2, 3, 100 | asdf | asdf |
+| | 1, Too big, No clue | asdf | asdf |
+| Powers of 2 | 1, 2, 4, 8, 16, 32 | asdf | asdf |
+| T-shirt sizes | XS, S, M, L, XL | asdf | asdf |
+
+#### What do we call these numbers?
+Generally, agile teams call these unit-less measures of software size _story points_, or just points.
+Alternatively, _ideal hours_ can be used but run the risk of being confused with "actual hours". 
+(An ideal hour is an hour where you can work, uninterrupted, with all the knowledge and resources at your fingertips, to get the job done.)
+
+
+#### How do we get these numbers, exactly?
+
+
+One of the most popular techniques for having these conversations and obtaining estimates is Planning Poker (https://www.mountaingoatsoftware.com/agile/planning-poker); the gist of it is that the team talks about their work in a structured (but fun) way.
 
 
 
-### Practice - Use relative estimation to achieve "good enough" estimates, quickly. 
+### Practice - Measure your team's capacity, and use this as input for planning.
 
-Relative estimation is a concept that those new to the agile world often struggle with, but it simply means "compare two things to each other."
+An important input to any planning process is the capacity of the team doing the work.
+In traditional planning, this may look a lot like a formula resulting in the sum of the planned work hours for each of your team members during a given period.
+In contrast, agile teams predict how much work they can collectively accomplish by continuously looking back and how much work they have accomplished.
+Yesterday's weather is the best predictor of today's weather (unless you live on the east coast of the United States).
 
-This practice harnasses our very own biology to get to good estimates, quickly.  We have evolved over millenia to make fairly snap judgments regarding the size, the speed, and the danger of stimuli.  While not perfect, these snap judgments have proven accurate enough to ensure our survival.  
-
-//TODO discussion of how this turns into numbers
-
-//TODO Table of relative scales used
-
-References:
-http://guide.agilealliance.org/guide/relative.html
-
-
-
-
-### Practice - Measure your team's velocity or throughput, and use this as input for planning.
 
 Metrics used to communicate the degree to which User Stories are being completed, as well as the corresponding effort, can be captured through the Sprint Effort Backlog, User Story Progress Indicator, and Velocity. **Velocity** (number of Story Points the team completed within a single, time-boxed Sprint) and **Effort Variance** (at the Sprint level) help to forecast schedule risks and provide a basis for future estimates that can be applied to development activities. Effort Variance is the percentage difference between the planned hours to complete the User Stories in that Sprint (as defined by the definition of “Done”) versus the actual hourly effort.
 The development team sizes the User Stories at the start of the Sprint, estimates the number of hours required to develop and unit test the User Stories, and then distributes the work over the duration of the Sprint(s). Key factors to note:
