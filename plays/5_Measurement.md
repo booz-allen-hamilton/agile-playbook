@@ -52,7 +52,6 @@ Alternatively, _ideal hours_ can be used but run the risk of being confused with
 One of the most popular techniques for having these conversations and obtaining estimates is Planning Poker (https://www.mountaingoatsoftware.com/agile/planning-poker); the gist of it is that the team talks about their work in a structured (but fun) way.
 
 
-
 ### Practice - Measure your team's capacity, and use this as input for planning.
 
 An important input to any planning process is the capacity of the team doing the work.
@@ -60,6 +59,7 @@ In traditional planning, this may look a lot like a formula resulting in the sum
 In contrast, agile teams predict how much work they can collectively accomplish by continuously looking back and how much work they have accomplished.
 Yesterday's weather is the best predictor of today's weather (unless you live on the east coast of the United States).
 
+// TIM is leaving off here for now
 
 Metrics used to communicate the degree to which User Stories are being completed, as well as the corresponding effort, can be captured through the Sprint Effort Backlog, User Story Progress Indicator, and Velocity. **Velocity** (number of Story Points the team completed within a single, time-boxed Sprint) and **Effort Variance** (at the Sprint level) help to forecast schedule risks and provide a basis for future estimates that can be applied to development activities. Effort Variance is the percentage difference between the planned hours to complete the User Stories in that Sprint (as defined by the definition of “Done”) versus the actual hourly effort.
 The development team sizes the User Stories at the start of the Sprint, estimates the number of hours required to develop and unit test the User Stories, and then distributes the work over the duration of the Sprint(s). Key factors to note:
