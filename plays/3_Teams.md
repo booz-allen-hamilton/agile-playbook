@@ -34,7 +34,7 @@ In a team, Scrum Masters typically:
 ​
 
 #### The Product Owner
-The Product Owner is the single person most considering the mission or business value of the solution being developed. They are responsible for maximizing the return on investment (ROI) for the development effor and they speak for the interests of the users. They could be from the client organization; but in the case they are from the Booz Allen team, they represent the client’s perspective. They interact regularly with the delivery team, clarifying the needs, and providing feedback on designs, prototypes, and iterations of the solution. 
+The Product Owner is the single person most considering the mission or business value of the solution being developed. They are responsible for maximizing the return on investment (ROI) for the development effort and they speak for the interests of the users. They could be from the client organization; but in the case they are from the Booz Allen team, they represent the client’s perspective. They interact regularly with the delivery team, clarifying the needs, and providing feedback on designs, prototypes, and iterations of the solution. 
 
 Product Owners typically:
 
@@ -51,7 +51,7 @@ Product Owners typically:
 
 
 #### The Team Member
-Team members are, of course, the other members of the team, such as testers, developers, designers. They are the people who, collectively, work together to deliver value on the project. They will carry a diverse set of skills and expertise, but they are happy to help out in areas that are not their speciality. Team members, together, take collecitve responsibility for the total solution, rather than "just my job." Team members do whatever they can to help the team meet its sprint goal and build a successful product. 
+Team members are, of course, the other members of the team, such as testers, developers, designers. They are the people who, collectively, work together to deliver value on the project. They will carry a diverse set of skills and expertise, but they are happy to help out in areas that are not their speciality. Team members, together, take collective responsibility for the total solution, rather than "just my job." Team members do whatever they can to help the team meet its sprint goal and build a successful product. 
 
 ### On team size
 Our experience shows that a cross-functional 5-7 person team is the preferred maximum team size. This size is also supported by PMI-ACP guidelines and follows general Scrum guidelines. This would include having a dedicated person as Scrum Master, and another as Product Owner. As the project size scales beyond 10, the effectiveness of the team, per-person declines, and significantly more time is spent coordinating work. If the scale of the work requires a large team, we need to think about how that can be divided into multiple cross-functional teams that are tightly coordinated, but loosely coupled.
@@ -64,7 +64,7 @@ In its simplest frame, agile teams have people who focus on the value of things 
 If the mission needs are sufficiently complex or there are complicated relationships with multiple client stakeholders, it might be impossible to have just one Product Owner. In that case, we recommend thinking of a larger Value Team. This team might grow, itself, to around 10 people and would typically have representatives in it like business analysts, compliance interests, end-users, and so-on. In this case, there can still be a Product Owner, but that person is now the Value Team's facilitator, bringing together all those perspectives and creating a common voice, but typically would not be able to trump the other stakeholders. In this setting, the jobs of the Scrum Master and Product Owner become more difficult, trying to arrange coordination of all the interests at play, but it can still be very successful.
 
 ## Play - Scale to multiple Delivery Teams and Value Teams when needed
-If the overall solution scope is so large, expertise required is sufficiently diverse, or timeline constrained such that a single team is insuffcient to produce the solution, then you'll have to scale up to multiple Delivery Teams, each with their own Product Owner/Value Team. There are a few frameworks that help shape this, which are discussed later in this Playbook, about scaling agile. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
+If the overall solution scope is so large, expertise required is sufficiently diverse, or timeline constrained such that a single team is insufficient to produce the solution, then you'll have to scale up to multiple Delivery Teams, each with their own Product Owner/Value Team. There are a few frameworks that help shape this, which are discussed later in this Playbook, about scaling agile. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
 
 ### On functional roles 
 On agile teams, there should be less emphasis on being a "tester" or a "BA" or a "developer" -- we should be working together, sharing the load, collectively getting to the goal. That said, we still value the specialities and disciplines our team members bring to the project. Agile teams are ideally made of **generalizing specialists** or sometimes referred to as **T-shaped people**, who collaborate across skillsets, but bring a valuable depth in a useful speciality to the project.
@@ -72,10 +72,10 @@ On agile teams, there should be less emphasis on being a "tester" or a "BA" or a
 On bigger teams, it's reasonable that people may live in their specialty more than they will on a smaller team. Ultimately this is a balance that the team, with all its local context, should talk about and adapt, through inspection and conversation.
 
 ## Play - Build a cohesive team
-We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictible, has great potential for high-performance, and really enjoys working together.
+We strongly believe in keeping the team together. And the simplest team is under 10 people, has a dedicated single Product Owner, and a dedicated single Scrum Master. This team is committed to just one project at a time and can plan and estimate together. The longer a team is together it tends to be more predictable, has great potential for high-performance, and really enjoys working together.
 
 #### Practice - Chartering
-At the beginning of a project, or after signficiant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
+At the beginning of a project, or after significant change on a project (in scope, or in team makeup), we recommend team chartering. This is a meeting, ideally in-person, together -- even for a team that's otherwise distributed. And the real focus of this meeting is: Who are we, and what are we doing? We recommend working through activities to get to know each other, find out what each members skills and passions are. How do you like to have fun? How do you like to communicate? What makes you happy? What makes you frustrated? You'll likely want a good facilitator to pull this chartering meeting together, but teams find it has lasting effects on the sense of community, empathy for each other, and overall effectiveness.
 
 
 ### Practice - Colocate
@@ -85,7 +85,7 @@ We still recommend colocating agile teams as much as possible. Being together in
 
 A great team-room contains a few things: 
 - Comfortable workspaces for each team member
-- Enough space to move around and pair with another teammember at their desk
+- Enough space to move around and pair with another team member at their desk
 - Information radiators on the walls that reflect project status and monitoring
 - A comfortable space to lounge and be social or use for meetings
 - And a private space for team members to conduct sensitive conversations or high-concentration work
@@ -93,10 +93,10 @@ A great team-room contains a few things:
 ### Practice - Distribute with intent
 
 #### Distribution can work
-Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. If your team is distrubted, you need to approach this intentionally -- fewer good things will happen by accident than what we see
+Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. If your team is distributed, you need to approach this intentionally -- fewer good things will happen by accident than what we see
 with colocated team.s We have a few tips that can help distributed teams: 
 
 1. Use video: Make sure each team member, regardless of location, has a camera, and create a virtual team-room by having everyone on-camera all the time. This way, when speaking on the phone, or chatting via IM, we still get to see facial expressions. 
 2. Get off email: Consider banning email for communication inside your team. Emails are easy to lose, and waiting for email responses slows teams down. Use the phone more, and get a persistent chat room tool for your team. 
-3. Facilitate from the lowest-bandwidth perspective: If you need to lead a meeting, and four people will be in a conference room together, and two will be attending via Skype, then the facilitator should get on Skype and conduct the meeting from another room, teating each person is remote. This ensures no one is overlooked.
+3. Facilitate from the lowest-bandwidth perspective: If you need to lead a meeting, and four people will be in a conference room together, and two will be attending via Skype, then the facilitator should get on Skype and conduct the meeting from another room, treating each person as remote. This ensures no one is overlooked.
 4. Talk about it: There's no substitute for regularly asking each other how things are going, and if we can improve. As time goes you, you'll need different rhythms, different tools, or just need to express what's frustrating you about the way we work. Create space for those conversations. Distribution can be tough, but there are many teams that do it well, and it unlocks a certain freedom that those team members really enjoy.  

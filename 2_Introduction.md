@@ -32,7 +32,7 @@ Delivering great systems requires a dedication to the craft and an eye toward ex
 Self organized teams still need ways to estimate their work and predict how much they can accomplish. Plus, measuring progress and performance helps the team improve overall.  Agile measurement is a topic that impacts the entire team and is not reserved for managers.  We will take a look at some specific measurements and discuss their meaning.
 
 ### On adaptation
-The purpose of measurement is to improve and adjust based on findings.  Adpatation is key to improving team outcomes and adjusting as the environment and team changes.  We will look at a couple ways to regularly examine and find ways to improve the team and product.
+The purpose of measurement is to improve and adjust based on findings.  Adaptation is key to improving team outcomes and adjusting as the environment and team changes.  We will look at a couple of ways to regularly examine and find ways to improve the team and product.
 
 ### On management
  In a system with self organizing teams, where is the room for a manager?  What does agile management versus leadership look like and how does this affect everyone on the team?  We will take a look at how the manager leads in an agile organization.

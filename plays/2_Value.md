@@ -9,10 +9,10 @@
 
 ## Play - Share a vision inside and outside your team
 
-The vision is the foundation upon which product decisions are made.  When at critical junctures, turn to the visiosn to help determine which direction will help the vision become a material reality.  At the team and individual level, the vision provides a common mission to rally around, and help understand the long term goals, as well as incremental goals.
+The vision is the foundation upon which product decisions are made.  When at critical junctures, turn to the vision to help determine which direction will help the vision become a material reality.  At the team and individual level, the vision provides a common mission to rally around, and help understand the long-term goals, as well as incremental goals.
 
 ###Practice - Product Vision Statement
-The vision for the project should be encapsulated in a Product Vision Statement created by the product owner.  Akin to an ‘elevator pitch’, or quick summary, the goal of the Product Vision Statement is to communicate the value that the software will add to the company. It should be clear and direct enough to be understood by every level of the effort, including project stakeholders. The Vision Board by Roman Pichler is nice, simple template for forming this statment (http://www.romanpichler.com/tools/vision-board/)
+The vision for the project should be encapsulated in a Product Vision Statement created by the product owner.  Akin to an ‘elevator pitch’, or quick summary, the goal of the Product Vision Statement is to communicate the value that the software will add to the company. It should be clear and direct enough to be understood by every level of the effort, including project stakeholders. The Vision Board by Roman Pichler is nice, simple template for forming this statement (http://www.romanpichler.com/tools/vision-board/)
 
 //TODO image of vision board from that link
 
@@ -21,7 +21,7 @@ Product Box is another way to try to crack into the product's vision. You might 
 
 
 ###Practice -  Roadmap
-Most teams need a Product Roadmap to understand high-level objectives and direction for the project.  We think of this as the project's North Star. If we've deviated disinctly from it -- we should have a good reason, and we probably need to update the roadmap. Be sure to include the ultimate project goals in the Roadmap, keeping in mind their value added and the desired outcomes from the customer’s point of view.  It should loosely encapsulate the the overall vision and give a sense for when capabilities will be delivered, or intersecting milestones are going to occur.  The roadmap should probably cover the next 6-12 months, and only in broad strokes. Your team will have to talk through rough sizing of work and prioritization during the creation process. You're not building a schedule; but you are trying to pain a *plausible* picture. Be sure to build this together, or at least review and revise it together. Too many roadmaps are built by leadership, and they never have buy-in from the team.
+Most teams need a Product Roadmap to understand high-level objectives and direction for the project.  We think of this as the project's North Star. If we've deviated distinctly from it -- we should have a good reason, and we probably need to update the roadmap. Be sure to include the ultimate project goals in the Roadmap, keeping in mind their value added and the desired outcomes from the customer’s point of view.  It should loosely encapsulate the the overall vision and give a sense for when capabilities will be delivered, or intersecting milestones are going to occur.  The roadmap should probably cover the next 6-12 months, and only in broad strokes. Your team will have to talk through rough sizing of work and prioritization during the creation process. You're not building a schedule; but you are trying to pain a *plausible* picture. Be sure to build this together, or at least review and revise it together. Too many roadmaps are built by leadership, and they never have buy-in from the team.
 
 ###Practice -  Release Map
 Once the Roadmap is complete, a Release Plan may be created for the first release.  Each release should begin with the creation of a Release Plan specific to the goals and priorities for that release.  This ensures that the value being added to the project is consistently reviewed and if necessary, realigned, to maximize the overall value and efficiency of development.   Like the Product Roadmap, the Release Plan should include a high level timeline of the progression of development, specific to the priorities for that release only.  The highest value items should be released first, allowing the stakeholders visibility into the progression of the work.
@@ -32,7 +32,7 @@ Once the Roadmap is complete, a Release Plan may be created for the first releas
 Once we have and share our vision, we understand the big stuff... but we have to turn this to action quickly. A core practice for agile teams is to have a *backlog* of work. In this context, a backlog is a prioritized set of all the desired work we want to do on the project. 
 
 ###Backlog Basics
-Treat your backlog as a “catch all” - any item that moves the team ahead to a final product or project goal can be added to your backlog. New features, defects, abandoned refactoring, meetings, and other work are all game to be placed in there. Additionally, keep in mind that your backlog will evolve in detail and priority through engagement with the end user . Your backlog should be a living, breathing testament to your product as you will be iteratively refining your backlog as your build your product. Product Backlog items are updated until all features of that product are delivered, which may occur through multiple releases during the project lifecycle. 
+Treat your backlog as a “catch all” - any item that moves the team ahead to a final product or project goal can be added to your backlog. New features, defects, abandoned refactoring, meetings, and other work are all game to be placed in there. Additionally, keep in mind that your backlog will evolve in detail and priority through engagement with the end-user . Your backlog should be a living, breathing testament to your product as you will be iteratively refining your backlog as your build your product. Product Backlog items are updated until all features of that product are delivered, which may occur through multiple releases during the project lifecycle. 
 
 ###Backlog Creation
 A backlog is made of epics and user stories. User stories are simply something a user wants, and they're sized such that we understand them well; epics are bigger than that and we need to break them down further into a capacity that the team can actually execute. Generally, anyone can add something to the backlog; but the product owner "owns" that backlog, overall -- setting the priority of things, deciding what we really should be working on next. 
@@ -77,7 +77,7 @@ Epics and user stories are described below, but both share a typical template --
 --Outlines and communicates the work to be completed and what value delivering this epic or story will bring to a specific persona/user. 
 --Format: As a (user role/persona) I need to be able to (capability), so that I can (end result/value). 
 +Acceptance Criteria 
----An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. This helps inform the development for undrstanding when the story is ready to demonstrate, or test further.
+---An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. This helps inform the development for understanding when the story is ready to demonstrate, or test further.
 
 ###User Stories 
 User Stories are the agile response to requirements, and you can call them requirements if you like. 
@@ -109,13 +109,13 @@ from that conversation.
 
 - The Confirmation
 Once implemented, every user story needs to be verified. So we call this the Confirmation. And we should record in the user
-story how we intend to verify it. This coule be the list of acceptance criteria, test plans, and so-on.
+story how we intend to verify it. This could be the list of acceptance criteria, test plans, and so-on.
 
 #### INVEST
 A way to see if your user stories are pretty good is to consider the INVEST acronym.
  
-* I - Independent. Stories should be as independent as possible, so they can be implemented out of order.
-* N - Negotiable. We should be able to discuss the details of the user story, to find the optimal solution, not treat it as Gospel, as it was written intially.
+* I - Independent. Stories should be as independent as possible, so they can be implemented out-of-order.
+* N - Negotiable. We should be able to discuss the details of the user story, to find the optimal solution, not treat it as Gospel, as it was written initially.
 * V - Valuable. A story must deliver value to the user or customer when complete.
 * E - Estimable. Stories should be such that we can estimate their effort.
 * S - Small. User stories should be small enough to prioritize, work on, and test. For teams using sprints, they should

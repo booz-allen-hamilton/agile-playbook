@@ -46,13 +46,13 @@ As we inspect things, if we would benefit from doing it differently, let's try i
 Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying Scrum ceremonies, while introducing the flow theory of Kanban.  
 
 Scrumban was developed in 2009 by Corey Ladas to move teams from Scrum which is a good starting point in agile, to Kanban, which enables flow for delivery on demand.  
-Kanban focuses on flow, but it does not have presecribed meetings and roles -- so we borrow those from Scrum in this Scrumban model. 
+Kanban focuses on flow, but it does not have prescribed meetings and roles -- so we borrow those from Scrum in this Scrumban model. 
 The primary difference versus Scrum is that the sprint timebox no longer applies to delivery. Instead, a work-in-progress limit (WIP limit) is set to enable team members to pull work on demand, 
 but not so many things that they have trouble finishing the work at hand. Scrumban has evolved some of its own practices.  
 
 Examples of unique practices to Scrumban include:
  - *Bucket size planning* was developed to enable long-term planning where a work item goes from the idea bucket, to a goal bucket, then to the story bucket.  The story bucket holds items ready to be considered during an on demand planning session.
- - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the Kanban board are priritized and finalized and added to the Kanban board.
+ - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the Kanban board are prioritized and finalized and added to the Kanban board.
  - *Cycle time* Is a metric captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
 
 ![Scrumban Pros and Cons] (/figures/Scrumban.JPG)
@@ -81,6 +81,6 @@ In 2010 David Anderson elaborated with four "Open Kanban" practices tailored for
 In Kanban, you fundamentally want to make all of your work visible, continuously prioritize it, and always be flowing things to Done. This is great for a software team that issues several new releases per week, or per day. 
 A pitfall, however, is that if priorities are allowed to change too often, no work will ever get done. So be mindful about finishing things, and not starting too many things.
 
-Kanban is appropriate for teams ready to self regulate, rather than rely on timeboxes. The practices require displine to enable flow.
+Kanban is appropriate for teams ready to self regulate, rather than rely on timeboxes. The practices require discipline to enable flow.
 
 ![Kanban Pros and Cons] (/figures/Kanban.JPG)

@@ -4,16 +4,16 @@
 > Working software is the primary measure of progress.
 
 Yes!
-In any discussion of measurement, it is essential that we not lose sight of an agile team's true measure: the regular and continous delivery of working, high quality software, that is potentially shippable.
+In any discussion of measurement, it is essential that we not lose sight of an agile team's true measure: the regular and continuous delivery of working, high quality software, that is potentially shippable.
 
-However, agile teams also use data to plan and commit to work; to communicate progress, quality, and changes in direction; and to continously improve both themselves and the product that they are creating.
+However, agile teams also use data to plan and commit to work; to communicate progress, quality, and changes in direction; and to continuously improve both themselves and the product that they are creating.
 
 
 ## Play - Estimate your work as a team, and make team commitments based on facts
 
 // Make educated guesses about the size of your work, and continuously measure how fast you can get it done.
 
-It is important to understand what you are commiting to and to acknowledge when you do not.
+It is important to understand what you are committing to and to acknowledge when you do not.
 
 ### Practice - Use relative estimation to discover whether you understand your work
 
@@ -76,8 +76,6 @@ Figure 8 and Figure 9 provide examples of metrics captured for both Sprint Veloc
 
 
 
-
-
 ## Play - Make progress visible, across several time horizons
 
 Software development project teams recognize that the most effective and productive means of communication is a face-to-face conversation. Encouraging powerful, personal conversations requires strong facilitation and leadership skills from the Delivery Team Lead/
@@ -89,11 +87,11 @@ Sprint. Team members often enjoy updating the radiators when they have completed
 
 ### Practice - For the near term (e.g a sprint)
 
-The most essential element for sprint planning is a groomed, prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  A groomed backlog does not mean there are exhaustive details around the user stories.  These details will emerge in  in the sprint plannning meeting as well as enoug understand to start the sprint and elborate more during execution. These discussions could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
+The most essential element for sprint planning is a groomed, prioritized backlog.  This backlog will serve as the guide for work to be discuss and agreed upon during sprint planning.  A groomed backlog does not mean there are exhaustive details around the user stories.  These details will emerge in  in the sprint planning meeting as well as enough understand to start the sprint and elaborate more during execution. These discussions could lead to changes in the initial estimates the team may have developed when reviewing the backlog in preparation for the meeting.
 
-Once there is clarity around the user stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings a deeper level of understanding to the team.  An additional benefit of composing tasks, is re-examing the user story and determinging if it is truly one or many user stories.  
+Once there is clarity around the user stories, they are broken into tasks to complete the user story within the sprint timebox (whatever has been agreed upon at team chartering).  Once again, the act of planning the execution of the user story brings a deeper level of understanding to the team.  An additional benefit of composing tasks, is re-examining the user story and determining if it is truly one or many user stories.  
 
-The estimating exercise will inform the sprint plannig process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox based on previous velocity (story points) or days in the sprint (ideal days).   The measurement of progress in the sprint is captured in a burndown chart and the kanban boards provides more granual information on user story status (blockers and journey toward completion).
+The estimating exercise will inform the sprint planning process as to what work can be accepted into the sprint.  As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox based on previous velocity (story points) or days in the sprint (ideal days).   The measurement of progress in the sprint is captured in a burndown chart and the Kanban boards provides more granular information on user story status (blockers and journey toward completion).
 
 The **Burndown Chart**, illustrated in **Figure 10**, is a popular technique for communicating progress of the project’s Agile-based plan in relation to Sprint planning processes. Project teams may estimate activities and track progress based on the number of effort hours planned to develop and unit test the functionality of a feature in a given Sprint. Key factors to note:
 * “Actual Hours Remaining” is driven by the project’s definition of “Done” developed for each User Story.
@@ -105,9 +103,9 @@ The **Burndown Chart**, illustrated in **Figure 10**, is a popular technique for
 
 ### Practice - For multiple sprints (e.g. a release or Product Increment)
 
-A release is built from one to many sprints.  Therefore the process of release planning is a scaling of  the sprint planning and measurrement process but with less detail at a higher level. Releases often look at assigning Epics to one or many sprints, with high level understanding of the user needs and work estimates.  The most important Epics are executed first to give the user the most value first.
+A release is built from one to many sprints.  Therefore the process of release planning is a scaling of  the sprint planning and measurement process but with less detail at a higher level. Releases often look at assigning Epics to one or many sprints, with high level understanding of the user needs and work estimates.  The most important Epics are executed first to give the user the most value first.
 
-For release planning, the most time and elboration should be spent on the most high value items, as assessed by the users.  As the sprints progress, each will be deliverying items with deminishing value.  Therefore, the most effort in estimation and detailed planning should be conducted on the first sprint, with continued elboration to gain details as the sprints progress.  As the sprints as executed, the work is evaluated at the end to repriorotize the backlog as needed, as well as determine if the product is ready for release.  
+For release planning, the most time and elaboration should be spent on the most high value items, as assessed by the users.  As the sprints progress, each will be delivering items with diminishing value.  Therefore, the most effort in estimation and detailed planning should be conducted on the first sprint, with continued elaboration to gain details as the sprints progress.  As the sprints as executed, the work is evaluated at the end to reprioritize the backlog as needed, as well as determine if the product is ready for release.  
 
 The progress of releases will be measured by burnup charts as described above.
 
@@ -133,11 +131,7 @@ In iterative development, it is common for project teams to try to squeeze an ad
 
 ### Practice - Executing a strategy (e.g. multiple releases or Product Increments)
 
-Just as the release is based upon muliple sprints, the strategy is based on muliple releases which would comprise a roadmap. The burnup charts from multiple releases can show patterns to determine the long term ability to sustainably execute the strategy. The burnup charts can show if work is often added late in the release, or if work is removed as it will not be ready or has become irrelvant.  
-
-
-
-
+Just as the release is based upon multiple sprints, the strategy is based on multiple releases which would comprise a roadmap. The burnup charts from multiple releases can show patterns to determine the long-term ability to sustainably execute the strategy. The burnup charts can show if work is often added late in the release, or if work is removed as it will not be ready or has become irrelevant.  
 
 
 ## Play - Have *valuable* meetings
@@ -187,11 +181,6 @@ Story Points are unit-less measures of relative size used to capture estimates f
 
 For example, the team may need to deliver a capability that is extremely easy but will require many hours of work, and at the same time, it must deliver another capability of equivalent size that might be considered complex but will require relatively fewer hours.
 A User Story estimated to be 8 Story Points is roughly four times as big in terms of combined effort, complexity, and risk as a User Story estimated at 2 Story Points. It is extremely important to note that Story Point estimate values should not be used to compare across Agile teams. The estimated value of 5 presented by one team could easily equate to an estimated value of 13 by another team. Story Points are used in a variety of ways on Agile projects, but certainly, the most common use is to estimate the Product Backlog.
-
-
-
-
-
 
 
 
