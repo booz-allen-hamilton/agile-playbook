@@ -3,7 +3,7 @@
 In this section, we introduce a simple "Agile Lifecycle" to help provide some context for the plays described in this document.
 Our experience has taught us that nearly all (good) projects
 -- regardless of method, framework, or practices -- 
-tend to follow along this same general path.
+tend to follow along this general path.
 
 While depicted in sequence, 
 it is important to understand that this is for simplicity and discussion only.
@@ -50,7 +50,7 @@ Let's smooth our deployment process so it's not a pain when time is tight.
 
 This is where the rubber meets the road, so to speak.
 
-Leveraging one of the [agile delivery frameworks](/plays/Delivery.md),
+Leveraging one of the agile delivery frameworks,
 the team works to transform the needs of their users into valuable, tested, potentially shippable software.
 
 We build; we test; we keep designing; we keep talking to users. We do this as much as we need to, until we are done.

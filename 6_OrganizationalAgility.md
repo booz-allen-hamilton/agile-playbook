@@ -5,24 +5,24 @@ Agile at scale is more than simply applying agile practices on multiple teams. A
 There are some summary things we want you to know about scaling agility -
 
 1. Agile is not its own goal.
-   * Embrace agile for happier customers, higher morale, more innovation -- but not just because it's "agile"
+    * Embrace agile for happier customers, higher morale, more innovation -- but not just because it's "agile"
 2. It is hard.
-   * There is no silver bullet, no singular unifying theory or framework that will guarantee stress-free success 
+    * There is no silver bullet, no singular unifying theory or framework that will guarantee stress-free success 
      with agile at scale. It will take trying, improving, and signficant energy and commitment from the organization.
 3. Use agile to scale agile.
-   * Build in constant experimentation and feedback; use a foundation of great agile teams; have empathic lean-agile leaders.
+    * Build in constant experimentation and feedback; use a foundation of great agile teams; have empathic lean-agile leaders.
 4. Training is essential.
-   * Small organizations can accidentally run into great discoveries and organic ways of working. This is much less likely at scale.
-   * Whether using a packaged delivery framework or your own creation, training and alignment is essential.
+    * Small organizations can accidentally run into great discoveries and organic ways of working. This is much less likely at scale.
+    * Whether using a packaged delivery framework or your own creation, training and alignment is essential.
 5. Process isn't everything.
-   * Process is important, but it's not sufficient to execute agile at scale. 
-   * Culture is as or more important. Be mindful that it's happening. Guide it. Treasure great culture.
+    * Process is important, but it's not sufficient to execute agile at scale. 
+    * Culture is as or more important. Be mindful that it's happening. Guide it. Treasure great culture.
 6. SAFe is one approach, but there are others
-   * For many, "scaled agile" is becoming synonymous with the Scaled Agile Framework, or SAFe; but there are other frameworks and 
+    * For many, "scaled agile" is becoming synonymous with the Scaled Agile Framework, or SAFe; but there are other frameworks and 
      approaches for scaling agile that you should consider. Among them are LeSS, NEXUS, and MAXOS.
 7. Start simply.
-   * Little changes can have a big effect on a large organization.
-   * Be mindful of existing culture and institutions. Changing everything overnight is unlikely to be successful.
+    * Little changes can have a big effect on a large organization.
+    * Be mindful of existing culture and institutions. Changing everything overnight is unlikely to be successful.
 
 
 

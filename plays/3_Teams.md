@@ -8,10 +8,11 @@
 
 
 ## Play - Organize as Scrum teams
-Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile teams members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
+Agile teams are cross functional in nature and work together to analyze, design, and build the solution our customers need. Agile team members, together, can understand the business or mission needs, and create an effective solution that meets those needs. We will use one particular set of vocabulary here for this Playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.  
 
 ### Practice: Build the Scrum team
 Scrum gives us a simple model for a team, and we believe this is a valuable frame for most agile teams. Scrum suggests just three roles:
+
 - Scrum Master 
 - Product Owner
 - Team Member
@@ -57,7 +58,7 @@ Team members are, of course, the other members of the team, such as testers, dev
 Our experience shows that a cross-functional 5-7 person team is the preferred maximum team size. This size is also supported by PMI-ACP guidelines and follows general Scrum guidelines. This would include having a dedicated person as Scrum Master, and another as Product Owner. As the project size scales beyond 10, the effectiveness of the team, per-person declines, and significantly more time is spent coordinating work. If the scale of the work requires a large team, we need to think about how that can be divided into multiple cross-functional teams that are tightly coordinated, but loosely coupled.
 
 ### Team structure patterns
-In its simplest frame, agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- with one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team. There are a few patterns we see work well, so we want to explain those in the next three headings:
+In its simplest frame, agile teams have people who focus on the value of things -- what needs to be built --  and other folks focused on the delivery of things -- how we will build it, what's possible. Though they are operating as a single team -- with one goal, one purpose -- you can also consider that there are two virtual, smaller teams here: a Value Team, and a Delivery Team. There are a few patterns we see work well, so we want to explain those in the next three plays:
 
 
 ## Play - Expand to a Value Team when one product owner isn't enough
@@ -84,6 +85,7 @@ At the beginning of a project, or after significant change on a project (in scop
 We still recommend colocating agile teams as much as possible. Being together in one room, or close proximity allows a lot of things that are much tougher otherwise: You can pull together an impromptu meeting or demo more easily. You can put an idea on a whiteboard, or tape up some designs on the wall and get feedback quickly. And there's no substitute for hearing your teammates' sighs, squeals, and applause, signaling you to what's happening on the project right this moment. Our brains are evolved to communicate with much more than words -- seeing each others' faces is just as important as the language being used.
 
 A great team-room contains a few things: 
+
 - Comfortable workspaces for each team member
 - Enough space to move around and pair with another team member at their desk
 - Information radiators on the walls that reflect project status and monitoring
@@ -94,7 +96,7 @@ A great team-room contains a few things:
 
 #### Distribution can work
 Colocation isn't always possible. For lots of different reasons, we may lean to distributed teams: availability of talent, cost, client geographies, and so-on. We might be fully distributed, or just have a few team members in satellite locations. When we are distributed, we have to put in extra effort to stay communicative and engaged with each other, and every common team meeting requires more work from the facilitators -- planning meetings, standups, retrospectives... distribution complicates how we collaborate for all of them. Clearly, technology plays a role here, to keep us together -- tools like chat, video, electronic whiteboards. If your team is distributed, you need to approach this intentionally -- fewer good things will happen by accident than what we see
-with colocated team.s We have a few tips that can help distributed teams: 
+with colocated teams. We have a few tips that can help distributed teams: 
 
 1. Use video: Make sure each team member, regardless of location, has a camera, and create a virtual team-room by having everyone on-camera all the time. This way, when speaking on the phone, or chatting via IM, we still get to see facial expressions. 
 2. Get off email: Consider banning email for communication inside your team. Emails are easy to lose, and waiting for email responses slows teams down. Use the phone more, and get a persistent chat room tool for your team. 

@@ -35,22 +35,24 @@ Teams should create a brief training for new developers, to introduce them to ho
 
 ### Practice - Secure coding
 **Secure coding** is using best practices to prevent known vulnerabilities and keeping the code secure by refactoring as new vulnerabilities are identified, or as the environment (i.e., operating systems, browsers, web specifications, etc.) changes. Implementing this practice includes:
+
 * Defining secure coding best practices at the start of the project.
 * Reviewing practices during the code review for the checked-in file.
 * Using free open-source software that checks against defined best practices to review the code against general coding practices and against custom practices that the team would define within the tool. See the Tools section of this document for more information on code review and scanning tools.
 * Integrating automated code reviews into code check-in and continuous integration to gain the best results with minimal manual effort.
 * Scanning applications for vulnerabilities on the server. Three types of scans would benefit the team:
-*  Scan the server for container-based vulnerabilities. The Retina network security scanner is one of the best tools to use for this purpose. Another tool for the same purpose is the Nessus Vulnerability scanner.
-*  Perform static analysis on the code with tools such as IBM Appscan or HP Fortify.
-*  Perform automated penetration testing using tools such as Hailstorm.
-*  Documenting the actions to be taken for each type of scan.
+    *  Scan the server for container-based vulnerabilities. The Retina network security scanner is one of the best tools to use for this purpose. Another tool for the same purpose is the Nessus Vulnerability scanner.
+    *  Perform static analysis on the code with tools such as IBM Appscan or HP Fortify.
+    *  Perform automated penetration testing using tools such as Hailstorm.
+    *  Documenting the actions to be taken for each type of scan.
 
 Secure-coding best practices incorporate the Open Web Application Security Project (OWASP) Enterprise Security Application Programming Interface (ESAPI) to simplify and standardize the implementation of security functions in the environment, unless environmental factors prohibit deployment. OWASP ESAPI Toolkits help software developers guard against security-related design and implementation flaws by ensuring simple, strong security controls are available to every developer. An integrity check of software products is included to facilitate organizational verification of software integrity after delivery.
 
 ### Practice - Refactor your solutions
 Code refactoring is a technique for restructuring an existing body of code, altering its internal structure without changing its external behavior. We refactor to improve the nonfunctional attributes of the software. Advantages include improved code readability and reduced complexity to support maintenance. There are two general benefits:
-* **Maintainability** > It is easier to fix bugs/defects when the source code has been written so that it is easy to understand and grasp. This might be achieved by reducing large routines into a set of individually concise, well-named, single-purpose methods. It might also be achieved by moving a method to a more appropriate class or by removing misleading comments.
-* **Extensibility** > It is easier to extend the capabilities of an application if it uses recognizable design patterns and provides some flexibility where this may not have existed previously.
+
+* **Maintainability**  It is easier to fix bugs/defects when the source code has been written so that it is easy to understand and grasp. This might be achieved by reducing large routines into a set of individually concise, well-named, single-purpose methods. It might also be achieved by moving a method to a more appropriate class or by removing misleading comments.
+* **Extensibility** It is easier to extend the capabilities of an application if it uses recognizable design patterns and provides some flexibility where this may not have existed previously.
 
 ### Practice - Invest in unit testing
 Unit tests are a foundational software engineering practice for development teams. It refers to developers writing small tests that test individual components in the system, typically with code that's automatically run during builds. Designing unit testing is a challenging task for the development team. The unit test infrastructure and architecture need to be designed during Sprint 0 of the project. The unit tests could cover all layers of the application or target only certain layers.

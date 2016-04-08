@@ -43,14 +43,18 @@ As we inspect things, if we would benefit from doing it differently, let's try i
 
 *If Scrum is too restrictive or there are too many changing priorities within a sprint, consider Scrumban to provide the structure of ceremonies with flexibility of delivery.*
 
-Scrumban is derived from Scrum and Kanban (described below) as the name would suggest.  It keeps the underlying Scrum ceremonies, while introducing the flow theory of Kanban.  
+Scrumban is derived from Scrum and Kanban (described below, in the next play) as the name would suggest.  It keeps the underlying Scrum ceremonies, while introducing the flow theory of Kanban.  
 
-Scrumban was developed in 2009 by Corey Ladas to move teams from Scrum which is a good starting point in agile, to Kanban, which enables flow for delivery on demand.  
-Kanban focuses on flow, but it does not have prescribed meetings and roles -- so we borrow those from Scrum in this Scrumban model. 
-The primary difference versus Scrum is that the sprint timebox no longer applies to delivery. Instead, a work-in-progress limit (WIP limit) is set to enable team members to pull work on demand, 
-but not so many things that they have trouble finishing the work at hand. Scrumban has evolved some of its own practices.  
+Scrumban was developed in 2009 by Corey Ladas to move teams from Scrum which is a good starting point in agile, to Kanban, which enables flow for delivery on demand.  Kanban focuses on flow, but it does not have prescribed meetings and roles -- so we borrow those from Scrum in this Scrumban model. 
+The primary difference versus Scrum is that the sprint timebox no longer applies to delivery. 
+
+Instead, the team is constantly prioritizing and finishing things as soon as possible.  In Scrumban, we would keep Scrum's cadence just to have our
+ceremonies -- so we don't miss out on planning together, showing our work, and having a time for reflection.
+
+A strict work-in-progress limit (WIP limit) is set to enable team members to pull work on demand, but not so many things that they have trouble finishing the work at hand. Scrumban has evolved some of its own practices.  
 
 Examples of unique practices to Scrumban include:
+
  - *Bucket size planning* was developed to enable long-term planning where a work item goes from the idea bucket, to a goal bucket, then to the story bucket.  The story bucket holds items ready to be considered during an on demand planning session.
  - *On demand planning* This practice moves away from planing on a regular cadence, instead only holding planning sessions when more work is needed.  Items to be pulled into the Kanban board are prioritized and finalized and added to the Kanban board.
  - *Cycle time* Is a metric captured to measure the time it takes from task creation or beginning work to completion.  Because items on pulled when ready to work, it allows examination of common impediments or elaboration issues that disrupt the flow.
@@ -64,6 +68,7 @@ Ladas, Corey. "Scrum-ban". Lean Software Engineering. 2009
 *Try Kanban on only the most disciplined teams and when throughput is paramount*
 
 Kanban is a framework adopted from industrial engineering.  It was developed to be mindful of organizational change management which is apparent in the four original principles:
+
 - Start with existing process
 - Agree to pursue incremental, evolutionary change
 - Respect the current process, roles, responsibilities and title
@@ -72,6 +77,7 @@ Kanban is a framework adopted from industrial engineering.  It was developed to 
 So, in Kanban, you will not (inherently) be receiving a bunch of new titles, or using much new vocabulary.
 
 In 2010 David Anderson elaborated with four "Open Kanban" practices tailored for software delivery:
+
 - Visualize the workflow
 - Limit WIP
 - Manage Flow

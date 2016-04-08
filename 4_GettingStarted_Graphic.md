@@ -1,7 +1,7 @@
 # Getting started - Your first month (or so)
 So you've never been an agile team before. How to get started?
 
-This quick list gives a framework for getting started, using concepts you'll find more detail about in other areas of this playbook.
+This quick list gives a frame for getting started, using concepts you'll find more detail about in other areas of this playbook.
 
 Keep in mind, it's not practical to totally change everything about how you work overnight. You should start somewhere, try things, 
 talk about it, and improve as you go.
@@ -33,7 +33,7 @@ Don't linger though -- we want to be delivering!
 * Work with the users, Scrum Master, Product Owner, and team members to establish a Sprint backlog
 * Focus on identifying end-to-end functionality that can offer value, end-to-end, when delivered
 * Write code; test; get user stories “Done”
-* Hold a demo — at this stage, you may just have some wireframes and/or screen mockups - to obtain client feedback
+* Hold a demo -- at this stage, you may just have some wireframes and/or screen mockups -- to obtain client feedback
 * Hold a retrospective and make changes to improve
 
 ## Sprint 2 — Two weeks

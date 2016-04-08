@@ -72,12 +72,13 @@ As you can, guide your users into conversations of value and need, and let the d
 
 ###Practice - Epics and user stories
 Epics and user stories are described below, but both share a typical template --
-+Title
-+Value Statement
---Outlines and communicates the work to be completed and what value delivering this epic or story will bring to a specific persona/user. 
---Format: As a (user role/persona) I need to be able to (capability), so that I can (end result/value). 
-+Acceptance Criteria 
----An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. This helps inform the development for understanding when the story is ready to demonstrate, or test further.
+
+* Title
+* Value Statement
+    * Outlines and communicates the work to be completed and what value delivering this epic or story will bring to a specific persona/user. 
+    * Format: As a (user role/persona) I need to be able to (capability), so that I can (end result/value). 
+* Acceptance Criteria 
+    * An outlined list of granular criteria that must be met in order for the story or epic to be fully delivered and adequately tested and verified. This help inform the development for understanding when the story is ready to demonstrate, or test further.
 
 ###User Stories 
 User Stories are the agile response to requirements, and you can call them requirements if you like. 
@@ -96,19 +97,20 @@ There are a few things that are different about user stories, versus typical req
 The Product Owner and client, assisted by the Delivery Team, develop User Stories to define the descriptive requirements of a feature or capability that will mold the product’s functionality. User Stories are identified and prepared throughout the project’s lifecycle.
 
 There are two devices we typically use to describe good user stories.
+
 #### The three Cs
 
 - The Card
-This is the description of the user story itself, written on a card, or in a tracking tool. The card should give us
+    * This is the description of the user story itself, written on a card, or in a tracking tool. The card should give us
 enough detail to get started, and know who to talk to.
 
 - The Conversation
-We acknowledge that anyone implementing needs to -- and should -- speak with some of the players involved in the value
+    * We acknowledge that anyone implementing needs to -- and should -- speak with some of the players involved in the value
 that story will deliver. So they need to go have a conversation, and record anything that needs to be preserved
 from that conversation.
 
 - The Confirmation
-Once implemented, every user story needs to be verified. So we call this the Confirmation. And we should record in the user
+    * Once implemented, every user story needs to be verified. So we call this the Confirmation. And we should record in the user
 story how we intend to verify it. This could be the list of acceptance criteria, test plans, and so-on.
 
 #### INVEST

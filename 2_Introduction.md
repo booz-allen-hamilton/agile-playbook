@@ -11,7 +11,8 @@ We view agile as a mindset – defined by values, guided by principles, and mani
 We've come to this perspective as software practitioners, living in the trenches and delivering software on teams using increasingly modern methods, and in support of dozens of customers across the US Government and international commercial market.  
 
 ### Can I use agile on my project?
-Booz Allen Systems Delivery uses a number of frameworks across our projects, depending on client preferences and what fits best. We use Scrum, Kanban, Waterfall, Spiral, and SAFe, as well as hybrid approaches. But, we embrace agile as our default approach, and Scrum specifically as our foundational method, if it fits the scope and nature of the work. As you start a new project, or have an opportunity to retool an existing one, we urge you to lean to agile for its reduced risk and higher customer satisfaction.
+Booz Allen Systems Delivery uses a number of frameworks across our projects, depending on client preferences and what fits best. We use Scrum, Kanban, waterfall, Spiral, and SAFe, as well as hybrid approaches. But, we embrace agile as our default approach, and Scrum specifically as our foundational method, if it fits the scope and nature of the work. As you start a new project, or have an opportunity to retool an existing one, we urge you to lean to agile for its reduced risk and higher customer satisfaction.
+
 
 ## A look ahead at some of the covered topics
 
