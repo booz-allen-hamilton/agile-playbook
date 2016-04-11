@@ -1,6 +1,6 @@
 # Organizational agility and agile at scale
 
-Agile at scale is more than simply applying agile practices on multiple teams. Agile at scale requires multiple levels of coordination to ensure all the teams are moving in the same direction within the enterprise. Other aspects such as culture and funding must be considered as well. Implementing agile in an organization cannot be top down or grass roots alone. A successful adoption includes energy coming from both directions. So, we need to adopt agile practices at the team level, but also train and achieve buy-in with managers and executives as well.
+Agile at scale is more than simply applying agile practices on multiple teams. Agile at scale requires multiple levels of coordination to ensure all the teams are moving in the same direction within the enterprise. Other aspects such as culture and funding must be considered as well. Implementing agile in an organization cannot be top down or grass-roots alone. A successful adoption includes energy coming from both directions. So, we need to adopt agile practices at the team level, but also train and achieve buy-in with managers and executives as well.
 
 There are some summary things we want you to know about scaling agility -
 
@@ -29,20 +29,20 @@ There are some summary things we want you to know about scaling agility -
 ## Play - Train management to be agile
 To migrate an entire organization to a new way of thinking and acting, all members of the organization need two-way communication, to help everyone understand what it means to the organization and for his/her particular role.  This is most crucial for management at all levels.  Through educating the management team in the changing mindset and overall vision for the organization, the team can work through the change management together with a unified approach.  This assists with organizational change, as well as ensuring the teams are being provided the resources and space they need to norm.
 
-## Play - Decentralize decision making
-The key to remaining agile with more than one team, is allowing decisions that are made frequently or do not have widespread impact, be made at the team level.  Large organizations that require all decision to be made by an organization's body that meets to make decisions for all parts of the organization often cause delay.  The decision delay can be as long as it would take to execute the decision, causing waste in the form of time for an organization.  Localized decision making also contribute to team ownership, which is essential to embodying the agile principles.  Centralized decision making still has a place in large organizations, however.  When deciding to centralize a decision examine if the decision is; infrequent, impacts the entire organization, and has a time constraint.  This will help guide whether it would benefit from decentralization.
+## Play - Decentralize decision-making
+The key to remaining agile with more than one team, is allowing decisions that are made frequently or do not have widespread impact, be made at the team level.  Large organizations that require all decision to be made by an organization's body that meets to make decisions for all parts of the organization often cause delay.  The decision delay can be as long as it would take to execute the decision, causing waste in the form of time for an organization.  Localized decision-making also contribute to team ownership, which is essential to embodying the agile principles.  Centralized decision-making still has a place in large organizations, however.  When deciding to centralize a decision examine if the decision is; infrequent, impacts the entire organization, and has a time constraint.  This will help guide whether it would benefit from decentralization.
 
 ###Managing backlogs
 Scaling agile development teams to program or portfolio levels mean managing competing needs through alignment of vision and synchronization of sprints and delivery with dependence upon each other.  Just as a team has a backlog that is regularly prioritized, and elaborated, a  program or portfolio must also have a backlog that is groomed to allow for prioritization of work. The backlog at this level needs to have flexibility to align with near term organizational priorities and enough elaboration to assign the appropriate level of resources.  A Planning Roadmap is a good tool to plan for the near term defined as the current fiscal quarter, with planning up to rolling year in advance.  Less detail in the Roadmap is needed as it progresses to the future, as the longer term needs will continue to be prioritized and elaborated on a regular basis.
 
 ## Play - Plan for uncertainty in a large organizations
-How do you plan for something unplanned?  As discussed earlier, decentralizing decision authority is one technique to enable flow and eliminate waiting for a centralized authority.  Other ways are to plan only as long term as required. Put energy into only the immediate or funded activities.  Planning beyond this, should have less effort expended as it will allow to pivot, should organizational context change. The planning horizons vary among organizations, but often fiscal schedules or contracts guide the overall roadmap.  Agile is a mindset, even those at the highest level of the organization need to remember that.
+How do you plan for something unplanned?  As discussed earlier, decentralizing decision authority is one technique to enable flow and eliminate waiting for a centralized authority.  Other ways are to plan only as long-term as required. Put energy into only the immediate or funded activities.  Planning beyond this, should have less effort expended as it will allow to pivot, should organizational context change. The planning horizons vary among organizations, but often fiscal schedules or contracts guide the overall roadmap.  Agile is a mindset, even those at the highest level of the organization need to remember that.
 
 ## Play - Implement SAFe when relevant
 
 ### SAFe at a high level
 The Scaled Agile Framework (SAFe) is perhaps the most popular overall framework for scaling agile. It works well, typically,
-when the organizaiton is over 50 people, and multiple teams are depending on each other to make the overall delivery work. 
+when the organization is over 50 people, and multiple teams are depending on each other to make the overall delivery work. 
 We will explain some of the basics of SAFe here, but more information is freely available at scaledagileframework.com.
 
 Just as the Agile Manifesto is founded in principles and values, the foundation of SAFe includes
@@ -52,10 +52,10 @@ fiduciary responsibility and utilizes Kanban practices to move work through thei
 System makes the strategic business initiatives visible and brings a structured analysis process driven
 by economics. Strategic initiatives are realized through the elaboration and prioritization of Epics.
 Once the Epic has been analyzed, vetted, and relatively sized using story points within the Portfolio
-Kanaban it goes into the Portfolio backlog. 
+Kanban it goes into the Portfolio backlog. 
 
 At the levels below the Portfolio lives the virtual organization called an Agile Release Train (ART). This
-organization is a long lived team of teams comprised of the Program and Team levels. It’s at this level
+organization is a long_lived team of teams comprised of the Program and Team levels. It’s at this level
 we break down the Portfolio Epics to Features and eventually stories. The ART receives it’s operating
 budget from the Portfolio and delivers Features based on the capacity of the ART. All teams work in 2
 week increments as part of the ART. This synchronization of team cadence allows for planning,
