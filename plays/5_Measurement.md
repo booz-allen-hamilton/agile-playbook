@@ -1,178 +1,184 @@
+## Measurement
 
-# Measurement
+Measurement affects the entire team. It is an essential aspect of planning, committing, communicating, improving, and, most importantly, delivering.
 
-> Working software is the primary measure of progress.
+### Play: Make educated guesses about the size of your work
 
-Yes!
-In any discussion of measurement, it is essential that we not lose sight of an agile team's true measure: the regular and continuous delivery of working, high quality software, that is potentially shippable.
+It is important to understand what you are committing to and acknowledge when you do not. Agile teams seek to discover this understanding through the process of estimation.
 
-However, agile teams also use data to plan and commit to work; to communicate progress, quality, and changes in direction; and to continuously improve both themselves and the product that they are creating.
+One of the historical challenges of software estimation is the perception of precision. When a feature is estimated as “273 FTE hours,” it unintentionally gives a very false sense of precision and confidence in that estimate. In reality, a manager asked five different people to provide estimates across 150 requirements and summed them up.
+
+Agile teams apply several simple practices to drive conversation, quickly expose what they collectively understand or don’t understand, and get some numbers that are approximately right instead of precisely wrong.
+
+#### Practice: Use relative estimation
+
+Relative estimation is a concept that those new to the agile world often struggle with, but it simply means “compare two things to each other.” If you’ve ever said something like, “Hey, this tree is twice as tall as that tree,” you already know how to do it.
+
+When we think about estimating software, we recommend agile teams do so in terms of size. Software size is intended to capture, all at once, the:
+
+1. Amount of work
+1. Difficulty of the work
+1. Risk inherent in the work.
+
+When paired with relative estimation, it results in questions like, Is this feature as complicated as the other feature we built last week? Or, If we take on this feature, is it more risky than this other feature? When work items are similar enough across these questions, we give them the same number on a scale (see table below) that the team has previously selected. As work items differ, the team discusses those differences to understand just how different the work is, relatively, and give a corresponding number from that same scale.
+
+##### Example relative estimation scales
+
+| Name | Examples |
+| ---- | -------- |
+|  Modified Fibonacci | 1, 2, 3, 5, 8, 13, 20, 40, 100 |
+| SNTB | 1, 2, 3, 100 |
+| SSW | 1, too big, no clue |
+| Powers of 2 | 1, 2, 4, 8, 16, 32 |
+| T-shirt sizes | XS, S, M, L, XL |
+
+These are just a few examples of scales we’ve seen teams use at Booz Allen. The most popular is the Modified Fibonacci scale because it was documented in a fantastic book (Agile Estimating and Planning by Mike Cohn) and is sold on estimation card decks. But, its popularity is for good reason: The nonlinear sequence works well because the gaps reflect the greater levels of uncertainty associated with estimates for bigger, more unknown pieces of work. More mature and disciplined teams often move toward simpler scales, such as small numbers, too big (SNTB) and same-sized work (SSW); in these cases, they essentially seek to know if work is small and understood, or if more discussion is required before commitment. Don’t try to look up SNTB or SSW; we made those names up.
+
+##### What do we call these numbers?
+
+Generally, agile teams call these unit-less measures of software size “story points,” or simply “points.” We recommend that teams avoid the temptation to continue to estimate in hours, even when deliberately using relative scales, because the perception to stakeholders is often a higher degree of certainty than there truly is. At one point, “ideal hours” were offered as an alternative to story points. An ideal hour is a mythical hour where you can work, uninterrupted, with all the knowledge and resources at your fingertips to get the job done. In practice, we find this causes too much confusion among the team and stakeholders—someone inevitably confuses an ideal hour estimate with an actual hour from reality.
+
+#### Practice: Estimate as a team
+
+A generally accepted practice among the agile community is to have the team make estimates together. This practice allows the team to discover how well work is understood, encourages knowledge sharing, builds team cohesiveness, and fosters buy-in.
+
+One of the most popular techniques for having these team conversations to obtain estimates is Planning Poker (mountaingoatsoftware.com/agile/planning-poker). The gist of it is that the team talks about its work in a structured (but fun) way. It is based on a popular expert-based method called “wide-band delphi,” but we encourage you to provide chips and salsa.
+
+There are other methods (e.g., Affinity Estimation, Magic Estimation), and more are created all the time. What do they all have in common? They get the team to make the estimates together, they drive conversation, and they expose uncertainty. And numbers pop out that are just good enough to move forward.
 
 
-## Play - Estimate your work as a team, and make team commitments based on facts
+### Play: Use data to drive decisions and make improvements
 
-// Make educated guesses about the size of your work, and continuously measure how fast you can get it done.
+Across many of our highest performing teams and programs, we've found a common love of data.  The best software practitioners really are geeks about it.  And why not?!  Data is objective.  Data tells a story.  Data is awesome.
 
-It is important to understand what you are committing to and to acknowledge when you do not.
+Agile teams should use data to drive important decisions, commitments, schedules, and improvements
 
-### Practice - Use relative estimation to discover whether you understand your work
+> **Anti-Pattern Collecting data without purpose** > Any data collected should be intentional and with purpose to improve the current process.  Collecting the same data because you always have, is waste.  Review what you do collect and how it improves the system.
 
-Relative estimation (http://guide.agilealliance.org/guide/relative.html) is a concept that those new to the agile world often struggle with, but it simply means "compare two things to each other."  If you've ever said something like "Hey, this tree is twice as tall as this other tree," you already know how to do it.
 
-When we think about estimating software, we recommend agile teams do so in terms of its _size_.
-Software size is intended to capture, all at once, 
-*(1) the amount of work*, 
-*(2) the difficulty of the work*, and 
-*(3) the risk inherent in the work*.
-When paired with relative estimation, this manifests itself in questions like 
-"is this feature as complicated as the other feature we built last week?" or 
-"if we take on this feature, is it more risky than this other feature?"
-When work items are similar enough across these dimensions, we give them the same number on some predetermined scale (see table below).
-As work items differ in one or more of these dimensions, the team discusses those differences to understand just how different the work is, relatively, and would give a corresponding number from that same scale.
+#### Practice: Use the past to predict the future
 
-#### Some popular scales used in relative estimation
+An important input to any planning process is the team’s capacity for doing work. In traditional capacity planning, this may look a lot like the sum of your team’s *planned* work hours during a given period. The trouble with this is you are making decisions solely on estimates and focusing entirely on the individual people on the team rather than the team itself.
 
-| Name | Examples | Pro | Con |
-| ---- | -------- | --- | --- |
-|  Modified Fibonacci | 1, 2, 3, 5, 8, 13, 20, 40, 100 | Many Booz Allen Agile teams have found this scale useful because the gaps in the sequence become incrementally larger as the numbers increase. These nonlinear sequences work well because they reflect the greater uncertainty associated with estimates for larger units of work. | asdf |
-| | 1, 2, 3, 100 | asdf | asdf |
-| | 1, Too big, No clue | asdf | asdf |
-| Powers of 2 | 1, 2, 4, 8, 16, 32 | asdf | asdf |
-| T-shirt sizes | XS, S, M, L, XL | asdf | asdf |
+In contrast, agile teams predict how much work they can collectively accomplish by continuously looking back at how much work they have accomplished. Yesterday’s weather is the best predictor of today’s weather (unless you live on the East Coast of the United States).
 
-#### What do we call these numbers?
-Generally, agile teams call these unit-less measures of software size _story points_, or just points.
-Alternatively, _ideal hours_ can be used but run the risk of being confused with "actual hours". 
-(An ideal hour is an hour where you can work, uninterrupted, with all the knowledge and resources at your fingertips, to get the job done.)
+> **Anti-Pattern - Taking partial credit** >  Have you ever felt like you're super busy, but you're not getting many things finished? This happens to agile teams, too. It's tempting to quickly start all the current tasks on deck. But, code isn't really valuable until it's running and the user can try it. Since delivering value should be our primary measure of progress, our time is better spent taking things to Done rather than starting more things. Taking partial credit for work does not help the team improve and deliver value.  Inspect why the team is doing this, if there are blockers to completion, those blockers should be addressed rather than starting new work.  
 
-#### How do we get these numbers, exactly?
+##### Velocity (and throughput)
 
-One of the most popular techniques for having these conversations and obtaining estimates is Planning Poker (https://www.mountaingoatsoftware.com/agile/planning-poker); the gist of it is that the team talks about their work in a structured (but fun) way.
+For most agile teams practicing some variation of Scrum, they should measure their velocity. Velocity is the amount of work the team has historically been able to deliver in a single sprint. We usually recommend using three to seven sprints’ worth of data to produce a rolling average of your velocity each time you walk into a planning meeting.
 
-// TODO: Talk about additional approaches for obtaining estimates, e.g. affinity estimation or magic estimation
+For agile teams that are moving toward a more Kanban-style delivery, the analog to velocity is throughput. Throughput is the amount of work the team is able to deliver over some period of time. A Kanban team may measure throughput in terms of hours or days.
 
-### Practice - Measure your team's capacity, and use this as input for planning.
+Some teams may get value in tracking their velocity in a Velocity Chart, example below.
 
-An important input to any planning process is the capacity of the team doing the work.
-In traditional planning, this may look a lot like a formula resulting in the sum of the planned work hours for each of your team members during a given period.
-In contrast, agile teams predict how much work they can collectively accomplish by continuously looking back at how much work they have accomplished.
-Yesterday's weather is the best predictor of today's weather (unless you live on the east coast of the United States).
-
-// TODO: Talk about *velocity* and *throughput*
-
-| Capacity measure | Description | Used when |
-| ---------------- | ------- | --------- | 
-| Throughput       | Number of points that a team can complete within a given period of time | asdf |
-| Velocity         | Throughput for a sprint | asdf |
-
-**FIGURE : VELOCITY CHART (Tim note: needs update; needs to add Thruput chart)**
+**FIGURE : VELOCITY CHART (Tim note: need to add rolling average line)**
 
 ![07 044 13_014b](https://cloud.githubusercontent.com/assets/5417850/10046746/932b30ea-61d8-11e5-9165-6ec0345900f3.jpg)
 
-// TODO: Discuss **Committment Variance** (previously called Effort Variance...)
+> **Anti-Pattern - Using Velocity to compare across teams** > Throughput and Velocity are unique to every team. Said differently, _you cannot compare teams based on their velocity measures_. Relative estimates are completely dependent on the team that is doing the estimating - one team's 1 might be another team's 5. In practice, we've found that efforts to standardize estimation scales across multiple teams tend to diverge fairly quickly.  Teams should be compared based on the value they are delivering per sprint and the predictability of their delivery.
 
-**Committment Variance** is the percentage difference between the planned work versus the actual amount of work to be completed.
-The development team sizes the User Stories at the start of the Sprint, estimates the number of hours required to develop and unit test the User Stories, and then distributes the work over the duration of the Sprint(s). Key factors to note:
-* If the Effort Variance is above 15 percent, but Velocity remains on pace, a cost overrun risk may occur.
-* If the project team is behind pace against its backlog of User Stories, but on pace against its Effort Estimate, the Sprint completion date may be at risk, or a cost overrun risk may emerge.
+##### Kanban metrics borrowed from lean manufacturing (cycle time, lead time, response time)
 
-// TODO: Double check those assertions above...
+Kanban teams utilize several additional metrics from the manufacturing world because Kanban emphasizes the flow of work through the system to produce valuable outcomes. These metrics help understand how well the system is working.
 
-## Play - Make progress visible, across several time horizons
+| Metrics | Definition |
+| ------- | ---------- |
+| Cycle Time | Average time per work item (the inverse of throughput—think about it!) | 
+| Lead Time | Average time it takes to deliver an item from the moment work starts |
+| Response Time | Average time it takes to begin work on a single item from the moment it is added to the backlog | 
 
-//TODO The following sections are largely unchanged from v1, but reordered.  Need to be updated for narrative flow and accuracy.
+Note: These are "time per item" metrics. The average is calculated across a sample of your work items.
 
-//TODO Discuss why this play is important; possibly discuss Information Radiators here (text below)
+##### Team predictability: Commitment Variance
 
-When using the **Information Radiators** method of communication, we recommend placing tracking charts in a conspicuous place in or near the team’s general working area so that the team and any interested parties can easily view their progress. 
-These charts, along with other visual aids, such as a storyboard (illustrates user interactions about the product) and visual representations of passing tests or code reviews, result in Information Radiators. 
-Using this type of communication can both inform and motivate an Agile Team, because members can visually track whether they are on pace to execute the activities delegated for the
-Sprint. 
-Team members often enjoy updating the radiators when they have completed additional work. However, to be effective, the radiators must be kept up-to-date and have buy-in from the entire team.
+Commitment variance is a predictability measure of your team’s ability to deliver on its commitments.
 
-### Practice - For the near term (e.g a sprint)
+In essence, it is the percentage ratio of the team’s delivered work to the team’s committed work, averaged over time. For example, if a team commits to delivering 10 points in a sprint, but it actually delivers 12, the commitment variance for that sprint is 12/10*100 or 120%. The team has delivered 120% of its commitment.
 
-// TODO: goal of this section is to talk about tracking work within a sprint.  Sprint Backlog and Burndown Chart
+If your team’s commitment variance tends to be less than 100%, you may consider requiring the team to commit to no more than its previously delivered velocity instead of its rolling average velocity, for several sprints. This practice is literally called “Yesterday’s Weather.” Once the team becomes more predictable, you may consider returning to a rolling average velocity for planning.
 
-// TODO: discuss creation of Sprint Backlog; old text directly below.
+> **Anti-Pattern - Extending the sprint** > Often and inevitably, a challenge will arise where extending a single sprint will look like a plausible solution.  And why not?  For decades, we've grown accustomed to sliding schedules "to the right."  Maybe the team did not complete all of the work that they signed up to do, or maybe priorities drastically changed in the middle of the sprint.  Or, even more simply, maybe there is a holiday in the sprint.
 
-As a team work is accepted that is well understood and ready to be estimated, then the team will determine what will fit into the sprint timebox based on previous velocity (story points) or days in the sprint (ideal days).   The measurement of progress in the sprint is captured in a burndown chart and the Kanban boards provides more granular information on user story status (blockers and journey toward completion).
+> The answer to this question should almost always be _No_.  The team's sprint cadence is an essential piece of their rhythm and predictability. If you're not sure why the sprint is coming up short, that's a good thing to talk about at the retrospective.
 
-The **Burndown Chart**, illustrated in **Figure 10**, is a popular technique for communicating progress of the project’s Agile-based plan in relation to Sprint planning processes. Project teams may estimate activities and track progress based on the number of effort hours planned to develop and unit test the functionality of a feature in a given Sprint. Key factors to note:
-* “Actual Hours Remaining” is driven by the project’s definition of “Done” developed for each User Story.
-* At the end of each Sprint, the project team should calibrate the points in the Sprint with actual hours expended to develop a Velocity measure.
+### Play: Radiate valuable data to the greatest extent possible
 
-**FIGURE 10: SPRINT BURNDOWN CHART (Tim note: this image is close; should remove reference to hours**
+Agile teams are known for their **information radiators**.  These are Big Visible Charts.  Ron Jefferies said it best, "display important project information not in some formal way, not on the web, not in PowerPoint, but in charts on the wall that no one can miss" \[Jeffries 2004\].
 
-![07 044 13_016c](https://cloud.githubusercontent.com/assets/5417850/10046749/9335a7d2-61d8-11e5-8dba-4f0fea337141.jpg)
+Certainly, some team environments pose a challenge in radiating information in this way. The trend toward globally distributed teams alone is an impediment. In these cases, the teams will have to explore other methods for radiating information and discover practices that work for them.
 
-### Practice - For multiple sprints (e.g. a release or Product Increment)
+#### Practice: Burndown chart
 
-// TODO: Goal of this is to discuss tracking across multiple sprints.
+Burndown charts are the go-to chart for agile teams. Simply stated, they track the amount of work the team has “left” on any given day, and—hopefully—the team’s workload goes down most days. We have found burndown charts to be most effective for tracking progress “within a sprint.”
 
-// TODO: Acknowledge that release is kind of a misnomer (this is why SAFe 4.0 has moved to Product Increment)
+Coming out of a planning meeting (e.g., sprint planning), the team can sum up the estimates for all of the work in the sprint backlog. When stories are complete, according to the team’s definition of done, points are burned down to show progress.
 
-A release is built from one to many sprints.  Therefore the process of release planning is a scaling of the sprint planning and measurement process but with less detail at a higher level. Releases often look at assigning Epics to one or many sprints, with high level understanding of the user needs and work estimates.  The most important Epics are executed first to give the user the most value first.
+In some cases, once a team gets started on the work, it learns a particular item is bigger than originally thought. That, too, is captured in the burndown chart as the points going up.
 
-For release planning, the most time and elaboration should be spent on the most high value items, as assessed by the users.  As the sprints progress, each will be delivering items with diminishing value.  Therefore, the most effort in estimation and detailed planning should be conducted on the first sprint, with continued elaboration to gain details as the sprints progress.  As the sprints as executed, the work is evaluated at the end to reprioritize the backlog as needed, as well as determine if the product is ready for release.  
+**SPRINT BURNDOWN CHART**
 
-The progress of releases will be measured by burnup charts as described above.
+![Burndown Chart](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16G_Burndown.png?token=AAAA-YgME-SPNzquzPoCY7PZ3tYsG5qoks5XPL7zwA%3D%3D)
 
-//TODO Discuss components of a release plan
+Note that for teams practicing Kanban, a burndown chart may not be the most useful way to observe progress. For that, we recommend a cumulative flow diagram (described below).
 
-//TODO Discuss Burnup Charts across mutiple sprints; incorporate discussion of requirement volitity (below) into Burnup.  
+##### Burndown patterns
 
-#### Requirement Volatility
-The working principles of Agile development embrace scope changes between Sprints. However, once a Sprint is planned and scheduled, volatility in the scope baseline within that specific Sprint will affect other constraints and introduce risk. **Requirement Volatility** can be measured on programs implementing an Agile development lifecycle.
+Keep an eye on the shape of your team’s burndown charts. We’re fans of this article from RallyDev, which speaks to this idea: [help.rallydev.com/reading-burndown-chart](http://help.rallydev.com/reading-burndown-chart).
 
-For example, consider the following scenario regarding re-planning efforts before conducting each Sprint:
+#### Practice: Burnup chart
 
-* A release grew from a baseline of 100 Story Points to 117 over the course of 4 Sprints.
-* The project team changed 11.1 percent of the baseline before the final Sprint of the release, which should be considered a risk.
+Burnup charts are quite similar to burndown charts; they just go in the opposite direction. Whereas the burndown chart shows the team “burning down” their work to 0, the burnup chart shows work being completed and moving up. Likely the largest difference between the two is the addition of a target line in the burnup chart. As the team progresses, burning up progress, the total amount of work it expects to get done also is graphed. This chart is an excellent way to display changes in scope or understanding over time.
 
-In iterative development, it is common for project teams to try to squeeze an additional new functionality into the final Sprint of a release (instead of following the best practice of allocating defect fixes to the next release). Figure 12 provides visualization of requirement volatility captured for each Sprint. Note that there is an increase in volatility from Sprint 3 to Sprint 4.
+It is for this reason that we recommend teams use burnup charts for tracking bigger efforts across multiple sprints, such as for a large epic or feature delivery, or a multi-sprint plan time horizon (sometimes called a “release” or a “product increment”).
 
-**FIGURE 12: REQUIREMENT VOLATILITY FOR SPRINTS IN A RELEASE**
+**MULTI-SPRINT BURNUP CHART**
 
-![07 044 13_018c](https://cloud.githubusercontent.com/assets/5417850/10046751/9338124c-61d8-11e5-94f5-1ee492a7e1ce.jpg)
+![Burnup Chart](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16H_Burnup.png?token=AAAA-Xx6T74KfIvWefB24jmOhjSw-QhDks5XPL8kwA%3D%3D)
 
-### Practice - Executing a strategy (e.g. multiple releases or Product Increments)
+#### Practice: Visualize work in process using a cumulative flow diagram
 
-// TODO Introduce strategic, possibly portfolio or valuestream level measures here.
+Cumulative flow diagrams show where work is in your process. Over time, you can see how much work you have in any given stage of your product flow. This diagram is an excellent tool for teams to visualize their WIP. It is easy to observe bottlenecks, understand your team’s level of focus, and get a sense of some of the Kanban metrics described previously (cycle time, response time, lead time).
 
-Just as the release is based upon multiple sprints, the strategy is based on multiple releases which would comprise a roadmap. The burnup charts from multiple releases can show patterns to determine the long-term ability to sustainably execute the strategy. The burnup charts can show if work is often added late in the release, or if work is removed as it will not be ready or has become irrelevant.  
+For teams of all shapes and sizes, WIP should be managed and kept to a minimum to ensure continuous flow of value and reduce wasted effort.
 
-### Practice - Keep an eye on your work in process (WIP)
+**Cumulative Flow Diagram**
 
-// TODO introduce Cumulative Flow Diagrams here?
+![Cumulative Flow Diagram](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16I_CFD.png?token=AAAA-dsoO9FzWRYoaHWZPuYFWfZOBTN3ks5XPL8zwA%3D%3D)
 
-## Play - Have *valuable* meetings
+### Play: Working software as the primary measure of progress
 
-// TODO reframe this section to be about (1) only having meetings that are valuable and (2) update the table to show the purpose of those meetings and why you'd have them.
+> Working software is the primary measure of progress.
 
-**Meetings** provide the opportunity to assess where the Agile Team is within each Sprint and to evaluate the team’s progress toward realizing the project’s goals and objectives. Integrating Agile into the project lifecycle processes depends on a high level of interaction among the Delivery Team, Value Team, and the client. Table 3 provides an overview of the types of meetings that the Agile Team can employ during its project’s lifecycle.
+Yes! In any discussion of measurement, it is essential that we not lose sight of an agile team’s true measure: the regular and continuous delivery of working, high-quality software that is potentially shippable.
 
-####Table 3: Communications Meetings 
+#### Practice: Technical debt
 
-| Meeting | Main Purpose | Frequency | Delivery Team | Value Team/Client | 
-| ------- | ------------ | --------- | ------------- | ----------------- | 
-| Release Planning | Scoping, Acceptance Criteria, User Story Designs for Product Backlog, Release Plan | Once per Release (may occur quarterly) | Scrum Master, Development Team, SMEs | Product Owner |
-| Sprint Planning | Product Backlog Review, Prioritization of User Stories, Sprint Plan, Sprint Backlog | Once per Sprint | Scrum Master, Development Team, SMEs | Product Owner |
-| Sprint Review | Completed User Story Review, Feedback, Review of the Definition of Done, Demonstration of New Features, Fix Defects | Once per Sprint | Scrum Master, Development Team, SMEs | Product Owner |
-| Sprint Retrospective | Evaluation, Potential Improvements, Impediment Log Review | At the end of each Sprint | Scrum Master, Development Team, SMEs | Product Owner |
-| Daily Standup | Identification of Risks, Project Team Progress, Burndown Chart Reviews, Obstacles/ Impediments/ Resolutions, User Story Reviews | Daily | Scrum Master, Development Team, SMEs | Product Owner | 
+Technical debt is a useful metaphor for “stuff that will come back to bite you in the long term.” Technical Debt is the cost of fixing the structural quality violations that, if left unfixed, put the business at serious risk. The data on technical debt provides an objective frame of reference for the development team. They also provide a way for the development and management team to have tradeoffs discussion. These could be defects left unresolved, code that is not reviewed or unit tested, or shortcut architectural decisions. What technical debt truly means to your team is a worthy discussion to have often.
+
+Whatever you determine to be your technical debt, you should track it. You are going to have to pay it off sometime. And, like interest, the cost of change increases over time as your technical debt ages and grows.
+
+Here is a short list of code quality indicators that are worth tracking:
+
+* Unresolved defects over time, sliced by severity
+* Unit, integration, and functional test code coverage
+* Frequency and duration of builds
+* Code review coverage
+* Code coupling and cohesion metrics.
 
 
+#### Practice: Value predictability
 
-## Play - Track your technical debt
+We’ve previously discussed velocity as a measure of the team’s capacity to deliver work. Because of its name, we sometimes forget that it is slightly different than the velocity of the physical sciences (in physics, velocity is a measure of speed and direction). In the agile world, velocity has no sense of the team’s direction.
 
-// TODO does this stay?  And how should it be expanded?
+Velocity is valuable input for planning, but it is not exactly an indicator of progress. To help get a sense of the team’s direction and the value of its output, we turn to the value predictability measure. This measure is a comparison of the actual value delivered and the planned value delivered.
 
-##### Severity of Defect Backlog
-The **Defect Severity** indicator, which can be created from data in the defect (or work item) tracking system, reflects the backlog of defects/User Stories stratified by severity. Client focus is typically on allocating higher severity, or older defects, to a near-term release or Sprint, but this should be a value-based decision made by the Product Owner. As part of the Sprint planning meetings, project teams should review this type of data with the client to determine which defects/User Stories will be allocated to subsequent Sprints.
+Coming out of a planning session, the team’s Product Owner assigns a value estimate to each work item (usually on a simple relative scale, like 1 to 10). Then, coming out of a review, the team’s Product Owner identifies how much value the team delivered for each item on the same scale. Both of these sets of values are summed and tracked over time.
 
-Allocating defects to future Sprints helps to develop better predictive estimates for development effort, set expectations for the testing team, and provide the Value Team with insight into the expected pace of backlog resolution. Figure 11 on the next page provides an example of metrics captured for Planned Defect Backlog Resolution by Sprint.
+Note, this is a measure that we’ve seen used by teams at Booz Allen, but it is also quite similar to a measure popularized by SAFe: the program predictability measure. SAFe suggests that this type of metric could be useful at higher levels of an organization and recommends a predictability measure between 80% and 100% as being “predictability sufficient to run a business” (scaledagileframework.com/metrics/#P2). We see no reason to disagree.
 
-**FIGURE : PLANNED DEFECT BACKLOG RESOLUTION BY SPRINT**
+#### Practice: Customer satisfaction
 
-![07 044 13_017b](https://cloud.githubusercontent.com/assets/5417850/10046750/93374862-61d8-11e5-8bf8-e38e6b4815fc.jpg)
+The simplest approach we’ve seen teams successfully use to track customer satisfaction is to just ask for a letter grade (e.g., A, B, C, D, E) coming out of all demonstrations and deliveries. Tracking these letter grades over time can give you a really solid sense of how successful the program is at delivering the value it says it will deliver.
+
+One caveat: In cases where customers may churn a lot on direction, there is a slight risk that the customer satisfaction metric could be low in spite of the team’s best efforts.

@@ -1,2 +1,0 @@
-# agile-playbook
-agile-playbook
