@@ -4,7 +4,7 @@ Welcome to the Booz Allen Agile Playbook. The purpose of this playbook is to edu
 
 ## Download
 
-Download the most recent "print" version **[here](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/pdf/04.031.16_Agile_Playbook_V2.0_0616.pdf).**
+Download the most recent print version **[here](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/pdf/04.031.16_Agile_Playbook_V2.0_0616.pdf).**
 
 ## Table of contents
 
