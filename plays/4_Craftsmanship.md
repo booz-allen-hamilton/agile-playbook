@@ -170,6 +170,8 @@ Successful agile projects regularly put new software in front of the users for i
 
 ### Play: Automate as much as you can
 
+![From development to deployment](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Dev_to_deploy.png)
+
 #### Practice:  Use continuous integration
 Continuous integration is a foundational agile technical practice. It requires each team member to integrate their latest work with the trunk frequently—at least daily—and to have each integration verified by an automated build (with automated testing included). Continuous integration increases the quality of the software by reducing the defect escape rate and decreases maintenance and sustainment costs. Developers working from a local copy for days at a time is a bad practice and contributes to risky, complicated merges; continuous integration mitigates this risk.
 

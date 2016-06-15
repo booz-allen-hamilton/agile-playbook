@@ -12,7 +12,7 @@ Agile teams are where the work gets done. Team members care about each other, th
 ### Play: Organize as Scrum teams
 Agile teams are cross-functional in nature and work together to analyze, design, and build the solution their customers need. Agile team members, together, can understand the business or mission needs and create an effective solution that meets those needs. We use one particular set of vocabulary here for this playbook, which is reflective of some of the most common terms found across government and industry; but, individual client environments may dictate different names for things. We stress that the jobs and structures mentioned here are helpful in any context, and we urge teams to strive for the greatest agility possible, then seek to continuously improve through small changes.
 
-![An agile team](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16D_Agile_Team.png?token=AAAA-RccOfUs4yTEToTWgZ97a76PF6Rsks5XPhw4wA%3D%3D)
+![An agile team](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Agile_Team.png)
 
 #### Practice: Build the Scrum team
 Scrum gives us a simple model for a team, and we believe this is a valuable frame for most agile teams. Scrum suggests just three roles:
@@ -111,7 +111,7 @@ If the mission needs are sufficiently complex or there are complicated relations
 
 > **Scrum Master is also the Project Manager** >  The Scrum Master is there to support the team and uphold their process, whereas the Project Manager is there as an interface with the client and keep the project on the rails.  Much like the Product Owner, the Project Manager should be in a natural tension with the Scrum Master.  Managing the work often means tracking resources, budget, risk, tasking, and cross team dependencies, and ensuring delivery on the work committed.  The Scrum Master focuses on the team needs.  By combining these roles, you make both less effective.  The Project Manager taking the Scrum Master stance will put the team first, being less likely to push the team on delivery.  The Scrum Master taking the Project Manager stance would be less likely to protect the team from the outside pressures, and impose less favorable team atmosphere.
 
-![An expanded agile project team](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16E_Agile_Teams.png?token=AAAA-bvBGehcVZDNJzvtJ2Ywk_zPggzuks5XPhyQwA%3D%3D)
+![An expanded agile project team](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Agile_Project_Team.png)
 
 ### Play: Scale to multiple delivery teams and value teams when needed
 If the overall solution scope is very large, the expertise required is sufficiently diverse, or the timeline is constrained such that a single team is insufficient to produce the solution, then you’ll have to scale up to multiple delivery teams, each with its own Product Owner/value team. There are a few frameworks that help in scaling agile, which we discuss later in this Playbook. Additional roles are likely required, like architects to keep the technology sufficiently robust and coordinated.
@@ -137,7 +137,7 @@ At the beginning of a project, or after significant change on a project (in scop
 ##### Colocation is still best
 We still recommend colocating agile teams as much as possible. Being together in one room, or in close proximity, allows a lot of things that are much tougher otherwise: You can pull together an impromptu meeting or demo more easily. You can put an idea on a whiteboard, or tape up some designs on the wall and get feedback quickly. And there’s no substitute for hearing your teammates’ sighs, squeals, and applause, signaling you to what’s happening on the project right this moment. Our brains have evolved to communicate with much more than words, and seeing each other’s faces is just as important as the language being used.
 
-![A collage of photos from our Agile Delivery Hub in Charleston, SC](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/SPARC_Collage.jpg?token=AAAA-SX2DnWNCzUSQj2Aw9mUw_0VXOpqks5XRExEwA%3D%3D)
+![A collage of photos from our Agile Delivery Hub in Charleston, SC](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/SPARC_Collage.jpg)
 
 A great team room contains a few things: 
 

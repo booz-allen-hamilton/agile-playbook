@@ -6,7 +6,7 @@ Not all the terms are explained, so you'll want to reference the rest of the pla
 
 Keep in mind, it's not practical to totally change everything about how you work overnight. Start here: try these ideas and improve as you go.
 
-![alt tag] (https://github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/blob/master/graphics/04.031.16B_Getting%20Started.png?raw=true)
+![alt tag](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Getting_Started.png)
 
 ## Sprint 0 — Two weeks to a month
 

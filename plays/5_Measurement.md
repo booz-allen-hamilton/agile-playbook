@@ -72,9 +72,9 @@ For agile teams that are moving toward a more Kanban-style delivery, the analog 
 
 Some teams may get value in tracking their velocity in a Velocity Chart, example below.
 
-**FIGURE : VELOCITY CHART (Tim note: need to add rolling average line)**
+**FIGURE : VELOCITY CHART**
 
-![07 044 13_014b](https://cloud.githubusercontent.com/assets/5417850/10046746/932b30ea-61d8-11e5-9165-6ec0345900f3.jpg)
+![](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Velocity.png)
 
 > **Anti-Pattern - Using Velocity to compare across teams** > Throughput and Velocity are unique to every team. Said differently, _you cannot compare teams based on their velocity measures_. Relative estimates are completely dependent on the team that is doing the estimating - one team's 1 might be another team's 5. In practice, we've found that efforts to standardize estimation scales across multiple teams tend to diverge fairly quickly.  Teams should be compared based on the value they are delivering per sprint and the predictability of their delivery.
 
@@ -118,7 +118,7 @@ In some cases, once a team gets started on the work, it learns a particular item
 
 **SPRINT BURNDOWN CHART**
 
-![Burndown Chart](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16G_Burndown.png?token=AAAA-YgME-SPNzquzPoCY7PZ3tYsG5qoks5XPL7zwA%3D%3D)
+![Burndown Chart](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Burndown.png)
 
 Note that for teams practicing Kanban, a burndown chart may not be the most useful way to observe progress. For that, we recommend a cumulative flow diagram (described below).
 
@@ -134,7 +134,7 @@ It is for this reason that we recommend teams use burnup charts for tracking big
 
 **MULTI-SPRINT BURNUP CHART**
 
-![Burnup Chart](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16H_Burnup.png?token=AAAA-Xx6T74KfIvWefB24jmOhjSw-QhDks5XPL8kwA%3D%3D)
+![Burnup Chart](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Burnup.png)
 
 #### Practice: Visualize work in process using a cumulative flow diagram
 
@@ -144,7 +144,7 @@ For teams of all shapes and sizes, WIP should be managed and kept to a minimum t
 
 **Cumulative Flow Diagram**
 
-![Cumulative Flow Diagram](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16I_CFD.png?token=AAAA-dsoO9FzWRYoaHWZPuYFWfZOBTN3ks5XPL8zwA%3D%3D)
+![Cumulative Flow Diagram](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_CFD.png)
 
 ### Play: Working software as the primary measure of progress
 

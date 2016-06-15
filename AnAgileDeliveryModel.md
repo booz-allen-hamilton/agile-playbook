@@ -1,6 +1,6 @@
 # An Agile Delivery Model
 
-![Our Agile Delivery Model](https://raw.github.boozallencsn.com/SYS-DEL-ACCT-GROUP/agile-playbook/master/graphics/04.031.16A_Agile_Model.png?token=AAAA-c5-kvX5M7g931o7g3nJBfddxxStks5XQzPqwA%3D%3D)
+![Our Agile Delivery Model](https://raw.githubusercontent.com/booz-allen-hamilton/agile-playbook/master/graphics/04.031.16_Agile_Model.png)
 
 Here we introduce the _Agile Delivery Model_ that we use to drive delivery across our business. Like most models, it is not perfect, but we believe it is useful. It illustrates the focus areas that a team may have over time—often simultaneously—and provides context for the plays and practices described in the rest of this playbook.
 

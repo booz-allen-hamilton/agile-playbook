@@ -14,6 +14,8 @@ Agile teams are biased to action and are constantly seeking ways to deliver more
 
 Scrum is the most popular delivery framework for agile teams to use, by far; so much so that it’s often confused for “agile” itself. Scrum is a powerful, lightweight product delivery framework that has existed for 25 years. The definitive description of the framework is maintained by its creators in the Scrum Guides (Scrumguides.org). Because the Scrum Guides are such well-maintained and well-used resources, we won’t try to explain everything about Scrum here.
 
+![The Scrum framework](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/04.031.16_Scrum.png)
+
 Scrum was developed to rapidly deliver value while accommodating the changes that are inevitable in product delivery. It's also meant to create a predictable pace for the team. 
 
 Traditionally, a product is designed, then developed, then demonstrated or released to the customer. This occurs mostly as a sequence and over long stretches of time. Often, the customer is unhappy with the result and wants changes. Since we are so late in development, changes found after release are typically very costly. Scrum, however, incorporates frequent demos and feedback to mitigate surprise requirement changes. All the project work gets cut into short development iterations known as sprints. Scrum emphasizes that work planned in sprints must be small, well understood, and prioritized.
@@ -66,7 +68,6 @@ Examples of unique practices to Scrumban include the following:
  
  Scrumban is useful for teams who are very familiar with their technical domain and may have constantly changing priorities, e.g.  a team working on the same product for an extended amount of time.  The flexibility of Scrumban allows for the back log to be reprioritized quickly and release the product on demand.
 
-![Scrumban Pros and Cons] (/figures/Scrumban.JPG)
 
 ### Play: If you are ready to kick off the training wheels, try Kanban
 *Try Kanban on only the most disciplined teams and when throughput is paramount.*
@@ -91,5 +92,3 @@ In 2010 David Anderson elaborated with four "Open Kanban" practices tailored for
 In Kanban, you fundamentally want to make all of your work visible, continuously prioritize it, and always flow things to Done. This is great for a software team that issues several new releases per week, or per day. A pitfall, however, is that if priorities are allowed to change too often, no work will ever get done. So, be mindful about finishing things and not starting too many things.
 
 Kanban is appropriate for teams ready to self-regulate, rather than rely on timeboxes. The practices require discipline to enable flow.  An Operations and Maintenance team with a small backlog could benefit from Kanban, as it would enable delivery of small items as needed and ensure all issues are getting to a done state.  In addition, mature agile teams with a highly automated pipeline could use Kanban as a way to enable quick flow of value to production.
-
-![Kanban Pros and Cons] (/figures/Kanban.JPG)
