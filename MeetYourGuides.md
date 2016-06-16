@@ -1,22 +1,13 @@
 # Meet your guides
 
-// TODO: to be fleshed out and stylized by VCS.  I'd like to include twitter handles for everyone
+The bulk of this content was developed by the following practitioners, coaches, and software developers from Booz Allen Hamilton.  We hope you will join us in this journey and engage us in collaboration and conversation. 
 
-The following contributors created the bulk of what you'll find here:
+![Meet Your Guides - Graphic](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/MeetYourGuides.png)
 
-1. Luke Lackrone -  @lackrone - Picture
-1. Tim Meyers - @timothymeyers - Picture
-1. Stephanie Sharpe - @Sharpneverdull - Picture
-1. Claire Atwell - @twellLady - Picture
-1. Lauren McLean - @SPARCedge - Picture
-1. Camilo Gutierrez  - @camilopga - Picture
-1. Hallie Krauer - @SPARCedge - Picture
-1. Noah McDaniel
-1. Elaine (Laney) Hass
-1. Marianne Rogers
-1. Doug James - @SPARCedge - Requested No Picture 
-1. Kim Cumbie - @kimnc328 - Picture
+1. Noah McDaniel - @SPARCedge
+1. Marianne Rogers - @SPARCedge
+1. Doug James - @SPARCedge
 
-We would like to also thank all of our reviewers, editors, contributors, and supporters: Dan Tucker, Kileen Harrison, Keith Tayloe, Elizabeth Buske, Joe Dodson, Emily Leung, Jennifer Attanasi, James Cyphers, Merland Halisky ....
+**We would like to also thank all of our reviewers, editors, contributors, and supporters:** Gary Labovich, Jeff Fossum, Dan Tucker, Kileen Harrison, Keith Tayloe, Elizabeth Buske, Joe Dodson, Emily Leung, Jennifer Attanasi, James Cyphers, Merland Halisky, Bob Williams, Gina Fisher, Aaron Bagby, and Elaine (Laney) Hass.
 
-And, we would like to acknowledge the contributors and reviewers of Agile Playbook 1.0: Philipp Albrecht, Tony Alletag, Maxim Aronin, Benjamin Bjorge, Wyatt Chaffee, Patrice Clark, Bill Faucette, Shawn Faunce, Allan Hering, Amit Kohli, Raisa Koshkin, Paul Margolin, Debbie McCoy, Erica McDowell, Johnny Mohseni, Robert Newcomb, Jimmy Pham, Rose Popovich, Melissa Reilly, Haluk Saker, Li Lian Smith, Alexander Stein, Tim Taylor, Loree Thompson, Elizabeth Wakefield, Jeff Fossum, Gary Kent, Amy Dagliano, Alex Lyman, Alicia White, Kevin Schaaff, Joshua Sullivan
+And, we would like to acknowledge the champions, contributors, and reviewers of the first version of this Agile Playbook: Philipp Albrecht, Tony Alletag, Maxim Aronin, Benjamin Bjorge, Wyatt Chaffee, Patrice Clark, Bill Faucette, Shawn Faunce, Allan Hering, Amit Kohli, Raisa Koshkin, Paul Margolin, Debbie McCoy, Erica McDowell, Johnny Mohseni, Robert Newcomb, Jimmy Pham, Rose Popovich, Melissa Reilly, Haluk Saker, Li Lian Smith, Alexander Stein, Tim Taylor, Loree Thompson, Elizabeth Wake eld, Gary Kent, Amy Dagliano, Alex Lyman, Alicia White, Kevin Schaaff, and Joshua Sullivan
