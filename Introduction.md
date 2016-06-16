@@ -58,4 +58,4 @@ We welcome feedback on the entire playbook, but we are looking for contributions
 * Favorite tools and software for inclusion in our tools compendium
 * Additional references or further reading
 
-Please be sure to take a look at our [style guide](link?) before submitting feedback.
+Please be sure to take a look at our [style guide](../../wiki/Style-Guide) before submitting feedback.
