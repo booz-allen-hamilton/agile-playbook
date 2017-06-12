@@ -5,7 +5,7 @@
 1. Team velocity increases as the team removes what slows it down
 1. Feedback from real users
 1. Finishing early, because the value is already delivered
-2. Happy Teams
+2. Happy teams
 
 ### Agile warning signs
 
