@@ -30,7 +30,7 @@ A brand new Human Resources team was organizing their quarterly plan. Each team 
 ##### Customer satisfaction: 
 Information radiators display information not only to everyone on the team, but also to the client. Transparency is often highly valued so when a customer can see visible progress being made, it inspires confidence in a team and their work. Any amount of information—tasks, work in progress, work done, roadmaps, and more—can be publicly displayed to both the team and the client.
 
-###Look For: Keep the clock in mind
+### Look For: Keep the clock in mind
 
 A couple of commercial airline teams started organizing their work into 2-week blocks of time. This defined period of time, or timebox, was needed because they tended to work on large projects that dragged on for months and even years without being able to see much progress. Adding this timebox was beneficial for a few reasons:
 
@@ -51,7 +51,7 @@ A small company with a manufacturing and shipping team quickly started to scale 
 
 + *Create a real team that can self-organize:* The team began to unite toward a common goal of improving production and shipping, empowering members to act on the ideas that came out of retrospectives. The team took ownership of actions meant to improve their work and recognized when processes needed adjustment. Since they required less oversight, they could work together as a more autonomous, self-organized team.
 
-#####Improved quality: 
+##### Improved quality: 
 Retrospectives can give anyone the opportunity to pause, reflect, and improve. They are a great tool for self-reflection and collaboration, using individual feedback to identify lessons learned and adapt to a working environment. Incorporating retrospectives into your regularly scheduled work will provide more opportunities for both short- and long-term improvement
 
 ### Look For: Have valuable meetings
@@ -63,7 +63,7 @@ A new team was tasked with planning a large conference as a side project to thei
 
 + *Cadence:* Setting a regular time to connect kept the team on task and delivering consistently, even with other work on their plates. Their daily cadence allowed them to adjust based on availability and quickly identify and address impediments to their work. Distractions were better managed, and conference content was consistently addressed and reviewed.
 
-#####Flow: 
+##### Flow: 
 Daily commitment meetings keep a regular cadence with others and ensure that work flows without impediment. They give individuals opportunities to regularly connect, provide information to one another, and self-organize so that the highest priority tasks are done first.
 
 ### Look For: Limiting work in progress
@@ -74,5 +74,5 @@ A team of intelligence analysts who write reports based on requests for informat
 
 + *Understand the workload:* This also helped the team lead visualize the amount of work waiting to be completed so she could assess how long it would take to complete new requests. The team lead could calculate the wait time based on the items before the new request in the queue and give more reliable completion dates. With more predictable commitments and deliveries, requestors were satisfied with the team’s capabilities and had faith in the quality of their work.
 
-###Find what you would like to improve, amplify, or eliminate: 
+### Find what you would like to improve, amplify, or eliminate: 
 These are not the only Agile tools and practices at your fingertips. Are you stuck repeating meetings because you aren’t accomplishing your goals in the allotted time? Focus on bringing value back into your meetings by setting objectives and conveying them to the room. Want to make sure you capitalize on your successes this quarter? Take it one step further by scaling your project’s Agile framework. Seeking to eliminate extraneous work on your team? Consider lean Agile concepts to reduce waste and spend more time devoted to creating valuable content. An Agile mindset can be applied to any effort where improvement is sought.
