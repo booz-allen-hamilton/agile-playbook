@@ -1,4 +1,4 @@
-# Introduction
+﻿# Introduction
 
 Agile is the de facto way of delivering software today. Compared to waterfall development, agile projects are far more likely to deliver on time, on budget, and having met the customer’s need. Despite this broad adoption, industry standards remain elusive due to the nature of agility—there is no single set of best practices.
 
@@ -25,24 +25,17 @@ This playbook is not intended to be read as a narrative document.  It is organiz
 1. **Agile Playbook context.** This is what you are reading now. We introduce the playbook, provide a high-level “Agile Model,” and offer some parting thoughts.
 1. **The plays.** The plays are the meat of the playbook and are intended to be used as references. Plays describe valuable patterns that we believe agile teams should broadly consider—they are “the what.” Within many plays, we describe techniques for putting them into practice. Plays are grouped into nine categories: Delivery, Value, Teams, Craftsmanship, Measurement, Management, Adaptation, Meetings, and Agile at scale.
 
-### Agile Playbook v2.0 - What's new? 
+### Agile Playbook v2.5 - What's new? 
 
-This is version 2.0 of our Agile Playbook. The first edition was published in 2013 and aided many practitioners in adopting and maturing their agile practice across our client deliveries and internal efforts. To address the regular changes happening in our industry, our firm, and the craft of software engineering, we wanted to update this material and reach an even wider audience. The following sections describe some specific changes you’ll find in version 2.0.
+This is version 2.5 of our Agile Playbook. The first edition was published in 2013 and aided many practitioners in adopting and maturing their agile practice across our client deliveries and internal efforts. In June 2016, we created version 2.0, expanding that content, especially around agile at scale and DevOps, and transforming what was an internal playbook into an external publication— open source and publicly available. This version focuses on adding more topics outside of strictly software and teams. It expands on management and organizational topics while adding some nuances to the existing topics such as Design Thinking for unknown solutions.
 
-#### Agile at scale, and DevOps
+#### Our Digital Hubs
 
-Two big shifts seem particularly apparent since we published the first Agile Playbook. The first is the growth of agile delivery on very large-scale projects. Our clients were commonly using agile approaches on efforts with fewer than 30 delivery staff, but it’s now becoming a normal request with 50, 100, and 200 staff involved. With such size come some new quirks to keep delivery moving while living out agile values and principles at such scale. So we wanted to begin to tell that story.
+Over the last 4 years, our digital business and footprint has grown by leaps and bounds, in part through our acquisitions of the software services unit SPARC in Charleston, South Carolina and the digital services firm Aquilent in Laurel, Maryland. These digital hubs are part of our Digital Solutions Network, where integrated teams of digital professionals collaborate to solve our clients’ toughest problems. Within this virtual network, we’re able to help our clients in more places, and with more expertise. Our hubs create a tight-knit community for our technologists and innovators to exchange ideas and combine their expertise in cloud, mobile, advanced analytics, social, and IoT with modern techniques, including user-centered design, agile, DevOps, and open source. 
 
-The other large shift is the ubiquity of DevOps. No longer experimental, or just the domain of startups, DevOps’ promise of faster delivery and higher quality is driving teams of all sizes and missions to adopt higher levels of automation and deeper team cohesion across disciplines that previously did not often integrate. This playbook is constructed with an eye toward aiding teams adopting a DevOps mindset and common practices while referencing our firm’s DevOps Playbook.
+#### Reminder: Best *learning* practices
 
-#### Systems Delivery is bigger than it used to be!
-In the last few years, not only has our business grown but also we acquired SPARC \[[Booz Allen Hamilton 2015](http://www.boozallen.com/media-center/press-releases/2015/11/booz-allen-hamilton-acquires-software-services-business-of-sparc)\]! The SPARC team is known for its deep expertise in modern agile and DevOps methods, as well as its creativity in delivering solutions integrating cloud computing, UI/UX design, mobile technologies, cybersecurity, and production operation. This playbook represents a new collaboration of our Systems Delivery thought leaders and practitioners across Booz Allen, including SPARC.
-
-#### Best learning practices
 The first playbook referred to itself as a collection of best practices, but we want to clarify that. In most cases these are best *learning* practices. If you need a place to start or you want to understand something in context, we hope this playbook serves as a valuable guide and helps you keep walking toward high performance as a team or program. But, just as guitar virtuosos or Olympic skiers have moved past the form and rules they learned in their first few weeks of practice, we expect our delivery teams to learn the values here, start with the learning practices, and eventually innovate their way toward even higher performance methods that are unique to them.
-
-#### Publicly accessible and kept up to date more continuously
-Finally, we are excited to share that this playbook will move away from a monolithic release process, and it will be shared broadly. Now and in the future, you will be able to find (and contribute to) the latest version of the Agile Playbook through GitHub at https://github.com/booz-allen-hamilton/agile-playbook. If you are reading a printed copy of this playbook, we encourage you to also check it out on the Web for the absolute latest!
 
 ### How and where can you contribute to this playbook?
 
@@ -59,3 +52,5 @@ We welcome feedback on the entire playbook, but we are looking for contributions
 * Additional references or further reading
 
 Please be sure to take a look at our [style guide](../../wiki/Style-Guide) before submitting feedback.
+
+> “Agile organizations view change as an opportunity, not a threat.” - Jim Highsmith

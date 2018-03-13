@@ -1,4 +1,4 @@
-## Delivery
+﻿## Delivery
 
 Agile teams are biased to action and are constantly seeking ways to deliver more product and more often. This section describes how agile teams work together to produce value that satisfies their stakeholders.  
 
@@ -92,3 +92,10 @@ In 2010 David Anderson elaborated with four "Open Kanban" practices tailored for
 In Kanban, you fundamentally want to make all of your work visible, continuously prioritize it, and always flow things to Done. This is great for a software team that issues several new releases per week, or per day. A pitfall, however, is that if priorities are allowed to change too often, no work will ever get done. So, be mindful about finishing things and not starting too many things.
 
 Kanban is appropriate for teams ready to self-regulate, rather than rely on timeboxes. The practices require discipline to enable flow.  An Operations and Maintenance team with a small backlog could benefit from Kanban, as it would enable delivery of small items as needed and ensure all issues are getting to a done state.  In addition, mature agile teams with a highly automated pipeline could use Kanban as a way to enable quick flow of value to production.
+
+### Play: Keep the clock in mind
+Timeboxing is a practice of allocating a set amount of time to a planned task. A timebox can be added to an array of activities, from team engagement to individual achievement. Setting a schedule for yourself to break down work into intervals—which some people like to separate with small, timed breaks in between—is an effective way to timebox your own work and keep yourself on task. 
+
+It is not uncommon for meetings to extend past their allotted time, without accomplishing more in the process. Establishing a practice of starting and ending meetings on time shows those involved that you respect their time and their schedule. If everyone knows they have a limited amount of time to reach their goal, they’re also more likely to focus on that goal rather than using meeting time to address tangential subjects. 
+
+The same concept can be used to determine chunks of work for a team. Timeboxing a team’s work into 2- to 4-week sprints establishes a predictable cadence for the team and stakeholders and keeps everyone working toward a common goal during those weeks. If any additional high priority work surfaces during that timeframe, its importance can be assessed against the initial goals of the current sprint. If it isn’t pressing enough to delay those goals, the team and stakeholders can be reassured that it will be addressed within a couple of weeks. Timeboxing also helps teams get creative with breaking their work into smaller pieces and experimenting with what they can accomplish in a given timeframe. It is a practice that drives consistency and ultimately productivity.

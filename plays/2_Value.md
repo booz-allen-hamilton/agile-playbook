@@ -1,4 +1,4 @@
-## Value 
+﻿## Value 
 
 Most software has more features than necessary (Cite CHAOS stude 2002?). Agile teams emphasize prioritizing features by the value they bring to real users and stakeholders. Considering the value of things is just as important as delivering working software, since time spent on non-valuable features is wasted time. 
 
@@ -55,6 +55,17 @@ A *sprint backlog* is a detailed list of all the work we’ve committed to doing
 ### Play: Build for and get feedback from real users
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+##### Design Thinking
+Design Thinking is a human-centered innovation methodology that focuses on discovering people’s unmet needs, identifying insights, understanding the customer journey, reframing problems, and inspiring new ideas to improve a human experience. Design Thinking is especially helpful for “complex” problems that require discovery and learning where by prototyping and adjusting, better solutions are revealed. 
+
+Some Design Thinking behaviors your team could try:
+
++ Be curious and patient, actively prototype to get information out there as fast as possible so you can iterate, adjust, pivot, and retest
++ Be empathic to understand the challenges and environment of your users
++ Be open minded to viewing things from a new perspective
++ Be comfortable with exploring, failing, experimenting, and learning so you can address the right problems for the users
++ Be collaborative, trust your teammates, share experiences, and explore different ideas even if they are conflicting and build on one another’s ideas
 
 #### Practice: Define personas 
 Personas are fictitious people who represent the needs of your users, and they help us understand if our work is going to be valuable for the people we’re trying to reach. They can be very useful at the start of the requirements gathering process, but typically remain important throughout.
