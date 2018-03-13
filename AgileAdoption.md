@@ -8,7 +8,7 @@ To start, the coalition of change agents develops a strategy to communicate and 
 
 In the following plays, we will be looking at how to blend OCM approaches to help a team or enterprise change their mindset. Additionally, we will look at how the OCM techniques can shepherd the organization throughout to help the success and sustainability of the transformation. Lastly, we will look at one example of an Agile coach and OCM professional providing that coalition of change agents and teaming up for success.
 
-###Play: Plan to tackle some of the common challenges to agile organizations
+### Play: Plan to tackle some of the common challenges to agile organizations
 
 For 1 to 100 teams to be successful working in an Agile way, they need the organization to support this new way of thinking. If an organization wants the benefits of Agile teams, they can no longer rely on the old hierarchy to gain new results. VersionOne’s 2017 “State of Agile Report” gives us insight into the trends of what is holding back Agile adoptions:
 
@@ -19,7 +19,8 @@ For 1 to 100 teams to be successful working in an Agile way, they need the organ
 5. Insufficient training
 6. Pervasiveness of traditional development
 
-These hurdles are common to any major effort to move an organization in a new direction. The transformation play describes some strategies to integrate change management, as well as OD concepts in an Agile transformation.
+These hurdles are common to any major effort to move an organization in a new direction. The transformation play describes some strategies to integrate change management, as well as OD concepts in an Agile transformation.
+
 
 ### Play: Guide your transformation
 
