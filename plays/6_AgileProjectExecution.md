@@ -28,7 +28,8 @@ Here are some of the similarities and differences between traditional waterfall 
 
 + With Agile PM, executing involves a continuous learning loop of obtaining feedback from the customer and adjusting—not just monitoring and controlling.
 
-+ With Agile PM, teams reflect and are given space to improve within the period of performance. 
++ With Agile PM, teams reflect and are given space to improve within the period of performance. 
+
 
 Figure 2 shows the typical project management knowledge areas and how they are modified in an Agile environment. This diagram is meant to show mindset differences—not meant to be binary (black or white). Reality is usually a spectrum or a continuum where you use agility as warranted for the specific project.
 
@@ -36,7 +37,7 @@ Figure 2 shows the typical project management knowledge areas and how they are m
 
 + You are still dealing with the same knowledge areas.
 
-####Differences
+#### Differences
 
 + Agile project management focuses on prototyping, learning, team building, etc.
 
