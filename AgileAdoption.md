@@ -1,4 +1,4 @@
-﻿# Agile Adoption
+﻿## Agile Adoption
 
 > Agile transformation is a common topic for teams and organizations that want the benefits of an Agile mindset in their company.
 
@@ -34,7 +34,7 @@ These hurdles are common to any major effort to move an organization in a new di
 
 + Sustainment (cultural change): Design incentives to change behavior and make it stick. Check in on a regular basis to ensure the organization’s behaviors are helping them achieve their vision, and to stretch them to find next visions for the organization for endless improvement.
 
-## A Transformation Story
+#### A Transformation Story
 
 *Situation:* A commercial airline’s technology department mandated the implementation of Agile development practices to drive greater predictability and overall value creation. As a result, the enterprise data organization found itself needing to transform in a high-pressure environment where they were also responsible for delivering on key strategic enterprise projects. Having attempted the transformation unsuccessfully before, the enterprise data organization sought Agile coaches to support them in the design and implementation of an Agile methodology.
 
