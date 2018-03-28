@@ -11,7 +11,8 @@ The vision is the foundation upon which product decisions are made. When at crit
 #### Practice: Product Vision Statement
 The vision for the project should be encapsulated in a product vision statement created by the Product Owner. Akin to an “elevator pitch” or quick summary, the goal of the product vision statement is to communicate the value that the software will add to the organization. It should be clear and direct enough to be understood by every level of the effort, including project stakeholders. The Vision Board by Roman Pichler is a nice, simple template for forming this statement [Pichler Consulting 2016].
 
-![alt tag] (https://media.github.boozallencsn.com/user/255/files/88be5f88-2352-11e6-9bb5-446554b6ded8)
+![Persona Template](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/persona_template.jpg)
+
 
 #### Practice: Product box
 The product box is another way to try to crack into the product’s vision. You might try this exercise as an alternative to working with the Vision Board. The product box is a great way to engage a whole team in the conversation around the vision and value of the project at hand, and to have some fun together while doing so. While there are many versions of this idea, Innovation Games is a well-known one. As described there, “\[Ask your stakeholders\] to imagine that they’re selling your product at a tradeshow, retail outlet, or public market. Give them a few cardboard boxes and ask them to literally design a product box that they would buy. The box should have the key marketing slogans that they find interesting” \[Innovation Games 2015\]. We have also seen this work nicely by imagining that your product is appearing in the App Store; what would the description, icon, screenshots, and reviews look like?
