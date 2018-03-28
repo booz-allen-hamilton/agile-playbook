@@ -11,7 +11,6 @@ The vision is the foundation upon which product decisions are made. When at crit
 #### Practice: Product Vision Statement
 The vision for the project should be encapsulated in a product vision statement created by the Product Owner. Akin to an “elevator pitch” or quick summary, the goal of the product vision statement is to communicate the value that the software will add to the organization. It should be clear and direct enough to be understood by every level of the effort, including project stakeholders. The Vision Board by Roman Pichler is a nice, simple template for forming this statement [Pichler Consulting 2016].
 
-![Persona Template](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/persona_template.jpg)
 
 
 #### Practice: Product box
@@ -73,7 +72,8 @@ Personas are fictitious people who represent the needs of your users, and they h
 
 Each persona should capture the user and their individual needs. Create a template with an area to draw a picture of the user and separate spaces to describe the user personally, but also describe their desired goals, use cases, and desires for the software.
 
-![alt tag] (https://media.github.boozallencsn.com/user/255/files/ffd39f52-2352-11e6-850f-76d0a0d344e3)
+![Persona Template](https://github.com/booz-allen-hamilton/agile-playbook/raw/master/graphics/persona_template.jpg)
+
 
 #### Practice: Talk with users about needs, not solutions 
 Consider the difference between “I want the software to have one button for each department in my business” and “I need to be able to access each department in my business from the software.”
