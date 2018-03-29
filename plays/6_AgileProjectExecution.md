@@ -1,18 +1,16 @@
 ﻿## Agile Project Execution
 
-*Project management is the discipline of completing specific work within specific parameters. But you don’t want to use the same process you use to build an airplane to build software!*
+Traditional project management works well for highly stable, low discovery work.
 
-Traditional project management works well for highly stable, low discovery work. 
+We, as an industry, have learned this approach does not work well for highly changing, high-discovery work such as software development. According to the 2017 VersionOne "State of Agile Report," 61 percent of organizations adopt agile to enhance the ability to manage changing priorities.
 
-We have learned this approach does not work well for highly changing, high-discovery work such as software development.
+Agile practices respect the complexity of software delivery and other, similar high-discovery work..
 
-Project execution for Agile projects has adapted to better deal with the complexity of software and other similar types projects.
+Traditional project management for software delivery is often referred to as "waterfall," where each step occurs sequentially one at a time. This figure below shows the traditional Project Management Process Groups-Initiate, Plan, Execute, Monitor & Control, and Close [Project Management Academy]-and how they are modified for an agile environment. One key difference is the opportunity for feedback and learning during execution, rather than following a linear path based only on an original plan.
 
-Figure 1 shows the traditional Project Management Process Groups and how they are modified in an Agile environment. One key difference is the opportunity for feedback and learning during execution, rather than a linear path based only on the original plan.
+///TODO: Placeholder for figure/graphic
 
-Traditional project management for software delivery is often referred to as a “waterfall” approach where each step occurs sequentially one at a time. Project Management Institute (PMI) organizes its process by into five groups seen in Figure 1.
-
-Here are some of the similarities and differences between traditional waterfall project management and managing Agile projects:
+Here are some of the similarities and differences between traditional project management and the execution of an agile project:
 
 #### Similarities
 
@@ -24,14 +22,11 @@ Here are some of the similarities and differences between traditional waterfall 
 
 #### Differences
 
-+ With Agile project management, your initial planning is less rigid: The roadmap has only enough vision to show direction.
++ Your initial planning is less rigid. A plan has only enough vision to provide direction and enable alignment.
++ There is a learning feedback loop with the end user followed by plan adjustment-not just monitoring and controlling.
++ Teams reflect and are given space to improve within the period of performance.
 
-+ With Agile PM, executing involves a continuous learning loop of obtaining feedback from the customer and adjusting—not just monitoring and controlling.
-
-+ With Agile PM, teams reflect and are given space to improve within the period of performance. 
-
-
-Figure 2 shows the typical project management knowledge areas and how they are modified in an Agile environment. This diagram is meant to show mindset differences—not meant to be binary (black or white). Reality is usually a spectrum or a continuum where you use agility as warranted for the specific project.
+The figure below shows the typical project management knowledge areas and how they are modified in an agile environment. This diagram is meant to show mindset differences-not meant to be binary (black or white). Reality is usually a spectrum or a continuum where you use agility as warranted for the specific project.
 
 #### Similarities
 
@@ -39,31 +34,33 @@ Figure 2 shows the typical project management knowledge areas and how they are m
 
 #### Differences
 
-+ Agile project management focuses on prototyping, learning, team building, etc.
++ Agile project management focuses on prototyping, learning, team building
 
-### Play: Make your Project Management Office more agile
+///TODO: Placeholder for figure/graphic
 
-The Project Management Office (PMO) has traditionally been used to manage cost and risk across a portfolio of projects in an organization. It’s time to reimagine how the PMO can help organizations now that the pace of work has changed and work is moving toward a more Agile, cadencebased management and away from the more traditional, schedule-driven delivery mindset. Whether you are a PMO that helps Agile teams, or you are interested in getting your organization started in Agile methods, you can benefit from these five ways your PMO can make your entire organization more agile.
+### Play: Charter an Agile Management Office
 
-#### Practice: Lead the way toward agility
+A Project Management Office (PMO) is traditionally used to manage and control scope, schedule, cost and risk across a portfolio of projects. It's time to reimagine the PMO now that the pace and type of work has changed. The following five practices will help PMOs better support agile adoption and delivery.
 
-PMOs are usually the keeper of processes and finding efficiencies across projects. According to the 2017 VersionOne “State of Agile Report,” 94 percent of organizations are using Agile methods. Whether it is with software development or other areas of the organization, it’s time for PMOs to be the experts on agility! Successful PMOs in Agile organizations have Agile coaches and practices they propagate throughout the projects to help them get the boost they need to improve and find new efficiencies.
+#### Practice: Lead the way toward agility with agile change agents
 
-#### Practice: Become more of a Project Support Office (PSO) rather than a management office
+PMOs are usually the keeper of process, and teams will tend to look to them for guidance, assurance, standardization and direction. It's time for PMOs to hold expertise in agile values, practices, and adoption. Successful agile PMOs will incorporate agile coaches to teach and mentor teams in their adoption of agile values and practices.
 
-The command and control mindset of traditional project management demanded just that— management! When projects move to an Agile mindset, they need practices to help them manage their scope and delivery through the product owner role and cadence (sprints or iterations). The new model of a PSO should help projects focus on value delivery rather than be burdened by overbearing financial reporting demands.
+#### Practice: Serve and support rather than a command and control
 
-#### Practice: Create a “pull rather than push” system
+The command and control mindset of traditional project management is insufficient for meeting the demands of high-discovery work. To the greatest extent possible, the PMO should facilitate delivery and decentralize decision making. They may establish automated reporting platforms and standards, guiding architectural and process principles, and decision-making frameworks.
 
-With demand for delivery, companies are constantly pushing demands to projects, stunting their ability to innovate or focus on quality. The PMO can relieve that pressure by creating a pull system from the project, rather than another source of demands. Pulling reports and information needed on a cadence or available on demand via dynamic dashboards, relieves the projects from the constant pressure to provide status reports.
+#### Practice: Create a "pull" systems
 
-#### Practice:Automate reporting to support the pull system
+With the demand for delivery, companies are constantly pushing demands to projects, stunting their ability to innovate or focus on quality. By establishing WIP limits, PMOs can help teams focus on flow, delivery, and quality.
 
-Just as we need automation in software development to enable flow and reduce repetitive tasks, we need that focus on reporting to take the burden off the teams where before they would create materials used only for one-time status reporting. The technology exists to automate; we need to think of innovation in reporting just as important as other technical innovation.
+#### Practice:Automate reporting
 
-#### Practice: PMO is an agile team
-Just as the Agile projects are constantly trying to improve, the PMO needs to grow beyond relying on “best practices” to an innovate-and-improve mindset. An Agile team reflects and acts on improvements, and the PMO is a team who can do that same. With continual attention to improving the support to projects, the overall organization will become more agile and responsive. 
+Just as we need automation in software development to enable flow and reduce repetitive tasks, we need that focus on reporting to take the burden off the teams. Let's get out of the business of creating single-use reporting decks, and instead focus on quality delivery. The technology exists to automate; we need to think of innovation in reporting just as important as other technical innovation.
 
+#### Practice: Charter the PMO as an agile team
+
+Just as the agile projects are constantly trying to improve, the PMO needs to grow beyond relying on "best practices" to an innovate-and-improve mindset. An agile team reflects and acts on improvements, and the PMO is a team who can do that same. With continual attention to improving the support to projects, the overall organization will become more agile and responsive.
 
 
 ### Play: Reframe the manager's role
