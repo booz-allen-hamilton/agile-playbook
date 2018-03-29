@@ -1,6 +1,6 @@
 ﻿## Value 
 
-Most software has more features than necessary (Cite CHAOS stude 2002?). Agile teams emphasize prioritizing features by the value they bring to real users and stakeholders. Considering the value of things is just as important as delivering working software, since time spent on non-valuable features is wasted time. 
+Most software has more features than necessary. Agile teams emphasize prioritizing features by the value they bring to real users and stakeholders. Considering the value of things is just as important as delivering working software, since time spent on non-valuable features is wasted time. 
 
 ### Play: Share a vision inside and outside your team
 
