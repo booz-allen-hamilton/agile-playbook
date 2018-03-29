@@ -12,3 +12,4 @@ These plays and practices are intended to be used as reference.  Plays describe 
 1. **[Adaptation](https://github.com/booz-allen-hamilton/agile-playbook/blob/master/plays/8_Adaptation.md)** > This section looks at ways to regularly examine and find ways to improve the team and product.
 1. **[Meetings](https://github.com/booz-allen-hamilton/agile-playbook/blob/master/plays/9_Meetings.md)** > This section describes how to ensure the face to face communication in the form of a meeting help the team.
 1. **[Agile at Scale](https://github.com/booz-allen-hamilton/agile-playbook/blob/master/plays/10_AgileAtScale.md)** > This section describes some of our initial thoughts on scaling agility.
+1. **[Agile Adoption](https://github.com/booz-allen-hamilton/agile-playbook/blob/master/plays/AgileAdoption.md)** > This section presents some considerations for agile adoption and organizational transformation.
