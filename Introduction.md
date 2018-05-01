@@ -1,6 +1,7 @@
 ﻿# Introduction
 
-*Agile is the de facto way of delivering software today. *
+*Agile is the de facto way of delivering software today.*
+
 Compared to waterfall development, agile projects are far more likely to deliver on time, on budget, and having met the customer's need. Despite this broad adoption, organizations achieve success (or struggle) using myriad ways and methods --- it remains true that there is no single set of best practices.
 
 The purpose of this playbook is to equip those who are new to agile, or seeking to mature their practice, by curating many of the good techniques that we've found work for teams at Booz Allen. As we offer our perspective on implementing agile in your context, we present many "plays"---use cases of agile practices that may work for you, and which together can help weave an overall approach for tighter delivery and more satisfied customers.
@@ -38,7 +39,7 @@ The first playbook referred to itself as a collection of best practices, but we 
 We want to build this playbook as a community.  If you have ideas or experiences (or find a typo or broken link) you wish to share, we would love to hear about it.  Contributions can be sent in one of two ways:
 
 -   Pull requests
--   Email us at agile\@bah.com---patch files preferred, but any feedback is welcome.
+-   Email us at agile\@bah.com --- patch files preferred, but any feedback is welcome.
 
 We welcome feedback on the entire playbook, but we are looking for contributions in a few particular areas:
 
