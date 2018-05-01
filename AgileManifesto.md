@@ -27,7 +27,7 @@ Change generally happens for a reason: requirements change because the mission c
 
 Plans are important: they help us to know where we think we are going and what we think we need to take us there. But, they are not mystical future-tellers that describe our destiny. We should plan, plan, and re-plan, and we should build plans that are flexible and adaptable.
 
-Manifesto for Agile Software Development {#manifesto-for-agile-software-development-1}
+Manifesto for Agile Software Development 
 ----------------------------------------
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
@@ -44,7 +44,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas
 
-Principles behind the Agile Manifesto {#principles-behind-the-agile-manifesto-1}
+Principles behind the Agile Manifesto
 -------------------------------------
 
 *We follow these principles:*
